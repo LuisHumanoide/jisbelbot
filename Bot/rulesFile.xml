@@ -1817,21 +1817,21 @@
   <rule>
     <id>166</id>
     <erule>1</erule>
-    <w>un botin</w>
+    <w>un botin name</w>
     <er>µ</er>
     <r>mordcito, si soy bot y muy linda y soltera y entera</r>
   </rule>
   <rule>
     <id>167</id>
     <erule>1</erule>
-    <w>te gusto  yo name</w>
+    <w>te gusto yo name</w>
     <er>µ</er>
-    <r>si  mucho</r>
+    <r>si mucho</r>
   </rule>
   <rule>
     <id>168</id>
     <erule>1</erule>
-    <w>a ratos</w>
+    <w>a ratos name</w>
     <er>µ</er>
     <r>oscar, me gustas tanto como un dolor de muelas</r>
     <r>casi asi no se entrena a un bot como yo</r>
@@ -1935,5 +1935,29 @@
     <r>adios amigos que ya me apago</r>
     <r>ya me voy en taxi</r>
     <r>taxi!</r>
+  </rule>
+  <rule>
+    <id>181</id>
+    <erule>1</erule>
+    <w>quien es el mck name</w>
+    <er>µ</er>
+    <r>es el soldado mckalister</r>
+    <r>es un usuario muy famoso</r>
+  </rule>
+  <rule>
+    <id>182</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>expresion regular</er>
+    <r>es una expresion que es regular</r>
+    <r>es algo</r>
+    <r>matematicas</r>
+  </rule>
+  <rule>
+    <id>183</id>
+    <erule>1</erule>
+    <w>como cambio el/mi nick/nombre</w>
+    <er>µ</er>
+    <r>sender usa el comando "/nick tuNuevoNombre"</r>
   </rule>
 </rules>

@@ -10,11 +10,12 @@ package bot;
  * @author HumanoideFilms
  */
 public class variables {
-    static String channel="#ocio";
-    static String name="Jisbel";
-    static double time1=5;
-    static double timeC=0.15;
-    static int deadTimeLimit=300;
-    static double readProbability=0.95;
+    public static String channel="#jisbel";
+    public static double score1=0.9;
+    public static String name="Jisbel";
+    public static double time1=5;
+    public static double timeC=0.15;
+    public static int deadTimeLimit=300;
+    public static double readProbability=0.95;
     public static boolean log=true;
 }
