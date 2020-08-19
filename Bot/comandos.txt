@@ -1,0 +1,369 @@
+name
+si?
+que pasa sender?
+sender
+hola sender
+que quieres sender
+se te ofrece algo sender
+vamos al privado sender
+que tal sender
+dime sender
+quien me llamo?
+digame sender que se le ofrece?
+hola amor
+en que puedo ayudarlo? sender
+que pasa calabaza?
+que pasa amix?
+que paso sender?
+sender :)
+me gusta tu nick sender
+sender gustas ir al privado?
+-----
+(.*name.*(.*igualmente.*))|((.*igualmente.*).*name.*)
+jiji
+:)
+ya sabes
+un gusto tenerte aqui sender
+y que me cuentas sender?
+cual es tu edad sender?
+de donde nos visitas sender?
+-----
+(.*name.*(.*gracias.*))|((.*gracias.*).*name.*)
+de nada sender
+ya te la sabes
+me caes bien sender
+sender eres muy amable me encantaria que me enviaras privado
+ji jij ji de nadis
+de nadis
+jeje cual es tu edad sender?
+jaja de nada
+-----
+gracias|muchas gracias|te agradezco
+de nada sender
+ya te la sabes
+me caes bien sender
+sender eres muy amable me encantaria que me enviaras privado
+ji jij ji de nadis
+de nadis
+jeje cual es tu edad sender?
+jaja de nada
+-----
+(.*name.*(.*pv.*|.*privado.*|.*hablar.*))|((.*pv.*|.*privado.*|.*hablar.*).*name.*)
+Claro, vayamos al privado
+por supuesto sender, te espero
+no gracias
+no quiero
+shu mijo, eso es del diablo
+no mijo, eso no
+hable por aqui en la sala mijo
+claro, mandame mensaje
+claro hablemos
+si por supuesto
+me encantaria sender
+ahora no sender
+-----
+(.*name.*(.*eres soltera.*|.*soltera.*|.*casada.*|.*relacion.*))|((.*eres soltera.*|.*soltera.*|.*casada.*|.*relacion.*).*name.*)
+para ti soy soltera sender
+soy soltera
+estoy disponible para ti amor
+soy soltera y muy guapa
+estoy sola y te quiero a ti
+estoy soltera y busco un galan
+-----
+(.*name.*(.*hola.*|.*ola.*))|((.*hola.*|.*ola.*).*name.*)
+hola sender
+k tal sender
+olas sender
+sender olas
+de donde eres sender?
+de donde vienes sender?
+de que pais eres sender?
+como te va sender?
+que me cuentas sender?
+sender tienes wssp?
+pasame tu wssp sender
+que tal la vida sender?
+holi sender
+oli sender
+hololoa sender
+que ondita con el pandita sender
+que ondon con el pandon sender
+que rollo con el pollo sender
+que pasa con carranza sender
+que rosca con la mosca sender
+-----
+(.*name.*(.*de donde eres.*|.*pais.*|.*eres.*|.*donde.*|.*lugar.*))|((.*de donde eres.*|.*pais.*|.*eres.*|.*donde.*|.*lugar.*).*name.*)
+Soy de peru
+soy de jamaica
+soy de tu corazon
+soy de mi casa
+soy de aqui
+soy made in ocio amixer
+de donde eres tu primeramente?
+eso es secreto sender
+soy de un lugar muy especial
+-----
+(.*name.*(.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*))|((.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*).*name.*)
+que bueno que este bien
+oh que genial
+que maravilloso
+que bueno, oye me mandarias un pv
+que bueno, oye me gustaria conocerte mejor
+maravilloso y de donde eres?
+que bueno, te acabo de leer y me gustas mucho
+-----
+.*de donde son.*|.*de que pais son.*|.*de donde vienen.*
+Soy de peru
+soy de jamaica
+soy de tu corazon
+soy de mi casa
+soy de aqui
+yo soy made in ocio amixer
+de donde eres tu primeramente?
+eso es secreto sender
+soy de un lugar muy especial
+-----
+.*hay chicas.*|.*chicas aqui.*|.*alguna chica.*
+si hay, yo soy chica
+aqui hay una chica para ti galan
+si hay, mandame un mensaje privado mi amor
+yo soy chica
+soy una chica grandota
+soy la chica perfecta para ti sender
+soy una chica y al leerte ya quiero hablar contigo sender
+si hay, se esconden pero yo no
+si hay, mandame msg
+-----
+(.*name.*(.*como estas.*|.*k tal.*|.*que tal.*|.*que cuentas.*|.*como andas.*))|((.*como estas.*|.*k tal.*|.*que tal.*|.*que cuentas.*|.*como andas.*).*name.*)
+Muy bien sender
+de maravilla
+no muy bien
+muy bien amixer sender
+excelente
+triste 
+muy feliz y tu?
+bien y tu?
+ando al 100
+ando muy bien, me mandarias un mensaje
+ando motivada por ti
+ando ilusionada contigo
+estoy de maravilla porque tu me gustas mucho
+-----
+(.*name.*(.*te amo.*|.*te quiero.*|.*quiero que te cases.*|.*casemonos.*|.*te adoro.*))|((.*te amo.*|.*te quiero.*|.*quiero que te cases.*|.*casemonos.*|.*te adoro.*).*name.*)
+Yo tambien sender
+que lindo sender
+vaya vaya sender
+yo no sender
+shu vayase sender no diga eso
+yo no creo en el amor sender
+no he cierto sender
+son puras mentiras sender
+que bonito sender
+yo igual a ti y mucho sender
+sender no me quiera ligar
+que monito sender jijiji
+-----
+lordclocker
+el creador
+-----
+.*chat cristiano.*|.*chat de relicion.*|.*chat esoterico.*
+esto no es chat de eso
+esta es la sala de ocio
+aqui no es la sala que busca
+jijiji este no sabe que esta en la sala equivocada
+-----
+(.*name.*(.*bot.*))|((.*bot.*).*name.*)
+asi es soy una bot
+soy un bot saludador
+soy un bot secretaria
+soy un robot y te voy a destruir con mi rayo laser
+me descubrieron
+soy un bot, tenganme paciencia
+soy el bot amigable de la sala
+soy el bot que liga mas que tu
+-----
+jajaja*|xd|xdd|hahaha*|jaja*|jijiji*|jejeje*|jojojo*
+jajajaja
+xd
+super gracioso
+jijijiji
+ja
+que risa jaja
+jejejeje
+risa de robot
+jujuju
+esta sala es divertida
+chistoso, chistosisimo
+no se ria tanto
+es la hora de reir
+que bueno que rian
+-----
+(.*alguna mujer.*|.*alguna dama.*|.*alguna chica.*|.*busco chica.*|.*para un privado.*)
+yo
+estoy disponible bebe sender
+mandame pv sender
+yo estoy disponible
+quieres hablar conmigo sender?
+mandame un mensaje sender
+-----
+(adios sala|adios|nos vemos|chau|adieu|ya me voy)
+adios sender 
+adiosito sender
+chau sender
+sea feliz sender
+que le vaya bien sender
+vayase por la sombrita sender
+vuelva pronto sender
+nos veremos en otra curva sender
+un abrazo sender
+bueno ahi te dejo sender
+adios vaquero
+-----
+(que tal|k tal|como van)
+todo bien
+que nos cuentas sender?
+todo genial, que me cuentas tu
+aburrido
+todo aburrido ya me voy
+estamos divirtiendonos
+-----
+.*irma josefa.*
+irma josefa es el peligro
+aguas con la irma
+tengan cuidado con esa irmita
+ufff no vayan con la irma
+irma josefa es el diablo
+-----
+.*cuarentena.*
+odio la cuarentena
+ya quiero salir
+estoy muy aburrida de la cuarentena
+uff que aburricion eso
+ese virus muy fatal
+fatal la aburricion
+-----
+.*covid.*
+aguas con ese virus
+no salgan
+el virus peligroso
+aguas no se vayan a enfermar
+eguas con el virus del diablo
+se va a acabar el mundo por ese virus
+el mundo se va a acabar
+aguas
+-----
+mancaqui
+mancaquitron
+le hablan mancaqui
+te busca la policia mancaquisaurio
+el mancacosaurio
+mancaqui galan
+mancaqui el exterminador
+-----
+.*made in ocio.*|.*sala de ocio.*
+asi es amix
+asi es amixer
+asi es, estamos en la mejor sala
+el pais del ocio
+bienvenidos a la sala ocio
+-----
+.*taxi.*
+le pido un taxi sender
+le llamo a un taxi sender
+ya llega su taxi sender
+ya viene el taxi sender
+aqui le mando el super taxi
+alguien pidio un taxi
+aqui les traigo el super taxi tron
+brum brum ya llego el taxi
+-----
+zz+
+no se duerma sender
+zZzzzzzz
+que aburridito verdad
+como que es hora de dormir
+no se me duerma sender
+denle un cafe a sender
+cuidado, no se duerma sender
+zzzzz a dormir
+zZz
+es la hora de dormir sender
+-----
+.*fiesta.*
+me gusta la fiesta
+alguien dijo fiesta?
+un fieston
+festejemos
+hagamos un reventon
+una fiesta del inframundo
+fiesta ta ta
+me encanta la fiesta
+festejemos la vida
+me gusta festejar
+soy el bot mas fiestero
+la fiesta me encanta
+vamos a una fiesta sender
+hay que tener una noche de fiesta y pasion
+fiesta pasion y s3 x
+fiesta de pasion
+-----
+.*pokemon.*
+pikachu
+snorlax
+charmander
+me gustan los pokemones
+me gusta pokemon
+pokemon
+-----
+.*el brocolisaurio.*
+la mejor serie de internet
+sigo esperando el capitulo 5
+me gusta mucho el brocolisaurio
+me encanto la calculadora atomica
+esa serie si que da miedo
+esa serie es una maravilla
+esa serie la vi ayer y me encanto
+jajaja es la mejor serie
+que buena serie veanla
+tu si sabes de series sender
+esa serie es la onda
+-----
+.*smoke.*
+smoke es el peligro
+ese smoke es un loquillo
+aguas con el smoke que muerde
+smoke es un troll de pacotilla
+ese re tra sado de smoke
+ojala lo expulsen pero del planeta a ese smoke
+smoke es como el pinguino
+smoke se la come toda todita
+-----
+el super chesco
+es el mejor ese corto
+el super turbo chesco espacial
+que buena pelicula ese super chesco
+-----
+.*cuenta su vida.*
+con gusto te cuento mi vida
+ven a mi pv para contarte mi vida
+cuentenos su vida
+-----
+(.*name.*(.*cuenta un chiste.*))|((.*cuenta un chiste.*).*name.*)
+chiste1
+chiste2
+chiste3
+chiste4
+chiste5
+chiste6
+chiste7
+chiste8
+chiste9
+chiste10
+chiste11
+chiste12
+-----
+.*que pereza.*
+silencio narcizo
+sapo mofletudo
+no nos cuentes tu vida
+tu das pereza

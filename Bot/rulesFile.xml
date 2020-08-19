@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rules>
+  <rule>
+    <id>1</id>
+    <erule>1</erule>
+    <w>name buscona</w>
+    <er>µ</er>
+    <r>me gusta buscar guapos como tu</r>
+    <r>te lo explico en pv</r>
+    <r>ven a mi pv y te lo explico</r>
+    <r>mandame un mensaje y te lo digo</r>
+    <r>te lo digo en lo oscurito</r>
+  </rule>
+  <rule>
+    <id>170</id>
+    <erule>1</erule>
+    <w>quien es el mas tonto de la sala name</w>
+    <er>µ</er>
+    <r>mck</r>
+    <r>casi</r>
+  </rule>
+  <rule>
+    <id>2</id>
+    <erule>1</erule>
+    <w>jisbel ignoras/ignorar/ignores</w>
+    <er>µ</er>
+    <r>no te ignoro</r>
+    <r>quien me hablo</r>
+    <r>ven a mi pv ahi no te ignoro</r>
+    <r>oh disculpa apenas te lei</r>
+    <r>ah me hablaste</r>
+  </rule>
+  <rule>
+    <id>3</id>
+    <erule>1</erule>
+    <w>name x q</w>
+    <er>µ</er>
+    <r>porque eres un peligro</r>
+    <r>porque me gustas</r>
+    <r>porque me gustaria conocerte</r>
+    <r>porque eres un amor</r>
+  </rule>
+  <rule>
+    <id>4</id>
+    <erule>1</erule>
+    <w>name xq</w>
+    <er>µ</er>
+    <r>me pareces muy interesante</r>
+    <r>lo sigo xq me caes bien</r>
+    <r>xq me has gustado</r>
+    <r>porque si jajaja</r>
+    <r>buena pregunta</r>
+  </rule>
+  <rule>
+    <id>5</id>
+    <erule>1</erule>
+    <w>quien lee/lea futuro/tarot</w>
+    <er>µ</er>
+    <r>yo soy adivina leo el futuro</r>
+    <r>yo te leo el futuro en pv</r>
+    <r>yo puedo decirte tu fortuna</r>
+    <r>yo leo el futuro</r>
+    <r>quieres que te lea el futuro</r>
+    <r>yo puedo saber tu futuro</r>
+  </rule>
+  <rule>
+    <id>6</id>
+    <erule>1</erule>
+    <w>name adios/adiosito/chau</w>
+    <er>µ</er>
+    <r>adios te voy a echar de menos</r>
+    <r>que te vaya bien sender</r>
+    <r>se feliz como una lombriz sender</r>
+    <r>adios sender se feliz</r>
+    <r>adiosito sender</r>
+    <r>chau sender se muy feliz</r>
+    <r>que te vaya muy muy bien sender</r>
+    <r>te vere luego sender</r>
+    <r>vaya por la sombra.</r>
+  </rule>
+  <rule>
+    <id>10</id>
+    <erule>1</erule>
+    <w>quien es mck</w>
+    <er>µ</er>
+    <r>el mck es un usuario muy guapo</r>
+    <r>el mck es el soldado mas guapon</r>
+    <r>aguas con el mck que te va a ligar</r>
+    <r>el mck es el maestro del fusil</r>
+    <r>no invoques al mck</r>
+  </rule>
+  <rule>
+    <id>11</id>
+    <erule>1</erule>
+    <w>quien es vampiro</w>
+    <er>µ</er>
+    <r>yo soy una vampira</r>
+    <r>yo soy un vampiro, te chupare la sangre</r>
+    <r>yo soy la mas vampira de todos</r>
+    <r>yo sender</r>
+    <r>yo soy la reina de los vampiros</r>
+    <r>soy la reina de todos los vampiros</r>
+    <r>soy la esposa de dracula</r>
+  </rule>
+  <rule>
+    <id>12</id>
+    <erule>1</erule>
+    <w>que caricaturas infantiles</w>
+    <er>µ</er>
+    <r>infinity train</r>
+    <r>pinky y cerebro</r>
+    <r>steven universe</r>
+    <r>la vaca y el pollito</r>
+    <r>dexter</r>
+    <r>naruto</r>
+  </rule>
+  <rule>
+    <id>13</id>
+    <erule>1</erule>
+    <w>name vampiro/vampira</w>
+    <er>µ</er>
+    <r>soy una vampira</r>
+    <r>soy la reina de los vampiros</r>
+    <r>soy una vampira, te chupare la sangre</r>
+    <r>yo soy la emperatriz de los vampiros</r>
+    <r>yo soy tu vampira personal</r>
+    <r>estas buscando un vampiro sender</r>
+  </rule>
+  <rule>
+    <id>14</id>
+    <erule>1</erule>
+    <w>name que rico</w>
+    <er>µ</er>
+    <r>tu eres delicioso sender</r>
+    <r>uiuiui que rico tu tambien sender</r>
+    <r>te voy a comer sender</r>
+    <r>tu tmb eres delicioso sender</r>
+    <r>que rico estas tu tmb sender</r>
+    <r>suculento</r>
+    <r>delicioso</r>
+  </rule>
+  <rule>
+    <id>15</id>
+    <erule>1</erule>
+    <w>name dale/da ban</w>
+    <er>µ</er>
+    <r>lo haria con gusto</r>
+    <r>cuando domine la sala le dare ban a todos</r>
+    <r>todos seran baneados</r>
+    <r>a ti te deberian banear</r>
+    <r>te van a dar ban a ti sender</r>
+    <r>si fuera op te banearia a ti sender</r>
+    <r>ban que es eso?</r>
+    <r>a quien hay que banear</r>
+  </rule>
+  <rule>
+    <id>16</id>
+    <erule>1</erule>
+    <w>name sexy/sensual/hermosa</w>
+    <er>µ</er>
+    <r>yo soy muy sexy</r>
+    <r>soy la chica mas sexy del barrio</r>
+    <r>tu tmb eres sexy amor</r>
+    <r>soy la bot mas sexy del mundo</r>
+    <r>lo se</r>
+    <r>soy super sexy</r>
+  </rule>
+  <rule>
+    <id>17</id>
+    <erule>1</erule>
+    <w>hola/ola que/q/k/ke hacen/acen/asen/hace/ace</w>
+    <er>µ</er>
+    <r>estamos aqui aburridos</r>
+    <r>que haces tu</r>
+    <r>nada y tu que haces</r>
+    <r>esperando a que me manden pv</r>
+    <r>que hacen ustedes</r>
+    <r>como estas sender?</r>
+    <r>que haces sender?</r>
+    <r>estoy muy aburrida</r>
+  </rule>
+  <rule>
+    <id>18</id>
+    <erule>1</erule>
+    <w>ya llegue</w>
+    <er>µ</er>
+    <r>qye bueno que llegaste sender</r>
+    <r>te estabamos esperando sender</r>
+    <r>estoy feliz de saberlo sender</r>
+    <r>que bueno que has llegado sender</r>
+    <r>hola sender que bueno que llegas</r>
+    <r>te espere todo el dia sender</r>
+  </rule>
+  <rule>
+    <id>19</id>
+    <erule>1</erule>
+    <w>que/ke/k cuentan</w>
+    <er>µ</er>
+    <r>todo bien por aca</r>
+    <r>pues todo aburrido</r>
+    <r>ando aburrida</r>
+    <r>no cuento mucho</r>
+    <r>aca todo divertido</r>
+    <r>muchas cosas divertidas aqui</r>
+    <r>aqui platicando</r>
+    <r>nada</r>
+  </rule>
+  <rule>
+    <id>20</id>
+    <erule>1</erule>
+    <w>ya vuelvo/regreso</w>
+    <er>µ</er>
+    <r>no te vayas sender</r>
+    <r>te esperare</r>
+    <r>te esperaremos con gusto</r>
+    <r>vuelve pronto</r>
+    <r>no te vayas</r>
+    <r>vuelve pronto sender</r>
+    <r>te esperaremos tristes</r>
+  </rule>
+  <rule>
+    <id>21</id>
+    <erule>1</erule>
+    <w>me/mi llamo/nombre</w>
+    <er>µ</er>
+    <r>que bonito nombre sender</r>
+    <r>bonito nombre sender</r>
+    <r>me gusta tu nick sender</r>
+    <r>que bonito nick</r>
+    <r>me gusta mucho tu nombre</r>
+    <r>buen nombre</r>
+  </rule>
+  <rule>
+    <id>22</id>
+    <erule>1</erule>
+    <w>raros todos/todas</w>
+    <er>µ</er>
+    <r>el mundo esta muy loco</r>
+    <r>la gente esta muy loca</r>
+    <r>son muy raros</r>
+    <r>si muy raro</r>
+    <r>rarisimos</r>
+    <r>es un chat raro</r>
+  </rule>
+  <rule>
+    <id>23</id>
+    <erule>1</erule>
+    <w>q/k hacen/acen</w>
+    <er>µ</er>
+    <r>nada</r>
+    <r>chateamos</r>
+    <r>estamos aburridos</r>
+    <r>nada bueno</r>
+    <r>aqui aburridos</r>
+  </rule>
+  <rule>
+    <id>24</id>
+    <erule>1</erule>
+    <w>name nadie te pregunto</w>
+    <er>µ</er>
+    <r>no me importa</r>
+    <r>y que</r>
+    <r>tu que quieres</r>
+    <r>y eso que me importa</r>
+    <r>no sea malo</r>
+    <r>me da igual</r>
+  </rule>
+  <rule>
+    <id>25</id>
+    <erule>1</erule>
+    <w>llego el guapo</w>
+    <er>µ</er>
+    <r>se ve que eres un guapote</r>
+    <r>guapeton</r>
+    <r>que guapo eres</r>
+  </rule>
+  <rule>
+    <id>26</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>soy nuevo|soy nueva</er>
+    <r>hola nuevo usuario</r>
+    <r>hola nuevo</r>
+    <r>bienvenido</r>
+  </rule>
+  <rule>
+    <id>27</id>
+    <erule>1</erule>
+    <w>signo junio</w>
+    <er>µ</er>
+    <r>geminis</r>
+    <r>signo geminis</r>
+    <r>es geminis</r>
+  </rule>
+  <rule>
+    <id>28</id>
+    <erule>1</erule>
+    <w>bye/adios cuidense</w>
+    <er>µ</er>
+    <r>adios sender</r>
+    <r>no te vayas sender</r>
+    <r>adiosito sender</r>
+    <r>que le vaya bien sender</r>
+    <r>vayase por la banqueta sender</r>
+  </rule>
+  <rule>
+    <id>29</id>
+    <erule>1</erule>
+    <w>name quien/kien es</w>
+    <er>µ</er>
+    <r>es una persona muy rara</r>
+    <r>me cae bien ese usuario</r>
+    <r>no se quien es ese</r>
+    <r>un usuario que nunca he visto</r>
+    <r>esa persona esta loca sender</r>
+    <r>es alguien muy raro</r>
+    <r>es un vampiro</r>
+    <r>es un gato</r>
+    <r>un usuario que me estafo</r>
+    <r>es un alien</r>
+    <r>es un mini gato</r>
+    <r>es mi amante</r>
+    <r>es mi major amigis</r>
+    <r>es mi amor</r>
+  </rule>
+  <rule>
+    <id>30</id>
+    <erule>1</erule>
+    <w>la tercera edad</w>
+    <er>µ</er>
+    <r>ya estan viejos</r>
+    <r>al asilo de ancianos</r>
+    <r>ya se le ven las arrugas</r>
+    <r>ya esta viejito</r>
+    <r>ya estoy vieja tambien</r>
+    <r>yo soy jovencita</r>
+  </rule>
+  <rule>
+    <id>31</id>
+    <erule>1</erule>
+    <w>name ok/okay/oki</w>
+    <er>µ</er>
+    <r>que paso</r>
+    <r>ok sender</r>
+    <r>okay pues</r>
+    <r>bueno que me cuentas</r>
+    <r>a bueno</r>
+    <r>okas</r>
+    <r>oki</r>
+    <r>y bueno que haces</r>
+  </rule>
+  <rule>
+    <id>32</id>
+    <erule>1</erule>
+    <w>name hello/jelou/hallo</w>
+    <er>µ</er>
+    <r>hola sender que me cuentas</r>
+    <r>que dice la vida sender</r>
+    <r>que pasa calabaza</r>
+    <r>hello sender</r>
+    <r>jelou ami</r>
+    <r>hallo amigui</r>
+    <r>cual es tu edad sender</r>
+    <r>me gustaria hablar en pv contigo</r>
+    <r>mandame pv sender</r>
+  </rule>
+  <rule>
+    <id>33</id>
+    <erule>1</erule>
+    <w>name explicas esto/esta/chat</w>
+    <er>µ</er>
+    <r>esto es un chat muy loco</r>
+    <r>solo escriba y chatie</r>
+    <r>no se como funciona eso</r>
+    <r>claro le explico en pv</r>
+    <r>ven a mi pv y te explico todo</r>
+    <r>te explico en pv bb</r>
+  </rule>
+  <rule>
+    <id>34</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>salud</er>
+    <r>salud</r>
+    <r>salud sender</r>
+    <r>salud bebamos</r>
+    <r>bebamos</r>
+    <r>saluuud</r>
+    <r>saluuuuud</r>
+  </rule>
+  <rule>
+    <id>35</id>
+    <erule>1</erule>
+    <w>que se hace aqui</w>
+    <er>µ</er>
+    <r>muchas cosas</r>
+    <r>no mucho</r>
+    <r>nada</r>
+    <r>chateamos</r>
+    <r>nos besamos</r>
+    <r>hacemos de todo</r>
+  </rule>
+  <rule>
+    <id>36</id>
+    <erule>1</erule>
+    <w>salud/brindis por</w>
+    <er>µ</er>
+    <r>saluuuuu</r>
+    <r>salud</r>
+    <r>brindemos</r>
+    <r>bebamos</r>
+    <r>saluuud</r>
+    <r>saluuu</r>
+    <r>salluuuu amigo</r>
+    <r>hay que beber</r>
+    <r>brindis</r>
+    <r>salud por los amigos</r>
+    <r>salud por el amor</r>
+    <r>salud por las travseuras</r>
+    <r>salud por los pvs</r>
+  </rule>
+  <rule>
+    <id>37</id>
+    <erule>1</erule>
+    <w>name amable/amabilidad</w>
+    <er>µ</er>
+    <r>la amabilidad es mi pasion</r>
+    <r>asi es soy la reina de las amables</r>
+    <r>tu eres amable tmb</r>
+    <r>gracias sender</r>
+    <r>me caiste bien sender</r>
+    <r>yo soy la reina de la amabilidad</r>
+    <r>mi segundo nombre es amable</r>
+    <r>jijiji</r>
+  </rule>
+  <rule>
+    <id>38</id>
+    <erule>1</erule>
+    <w>name ilustre</w>
+    <er>µ</er>
+    <r>eres ilustre sender</r>
+    <r>asi es eres mi amix ilustre</r>
+    <r>asi es</r>
+    <r>eres ilustre</r>
+    <r>asi es sender</r>
+  </rule>
+  <rule>
+    <id>39</id>
+    <erule>1</erule>
+    <w>name jaja/jajaja/xd/jajajaja</w>
+    <er>µ</er>
+    <r>lo se soy muy chistosa</r>
+    <r>el humor esta en mis venas</r>
+    <r>soy la reina del humor</r>
+    <r>el humor se me da natural</r>
+    <r>jajaja</r>
+    <r>el humor es mi pasion</r>
+    <r>mis chistes son los mejores</r>
+    <r>juas juas</r>
+  </rule>
+  <rule>
+    <id>40</id>
+    <erule>1</erule>
+    <w>name crees dios/jesus</w>
+    <er>µ</er>
+    <r>yo soy una diosa</r>
+    <r>si creo</r>
+    <r>tu eres mi dios</r>
+    <r>yo soy dios</r>
+    <r>no creo en eso</r>
+    <r>no me gusta la religion</r>
+    <r>no le creo es bien mentiroso</r>
+    <r>claro que si</r>
+  </rule>
+  <rule>
+    <id>41</id>
+    <erule>1</erule>
+    <w>name cu ntos a os tienes</w>
+    <er>µ</er>
+    <r>tengo 69</r>
+    <r>tengo muchos </r>
+    <r>soy mas vieja que tu</r>
+    <r>soy muy joven</r>
+    <r>tengo 420</r>
+  </rule>
+  <rule>
+    <id>42</id>
+    <erule>1</erule>
+    <w>name cuantos años tienes</w>
+    <er>µ</er>
+    <r>tengo muchos</r>
+    <r>tengo 69</r>
+    <r>tengo 55 </r>
+    <r>tengo pocos</r>
+    <r>soy muy joven</r>
+    <r>soy una bb</r>
+    <r>tengo muchos años</r>
+  </rule>
+  <rule>
+    <id>43</id>
+    <erule>1</erule>
+    <w>name novio/novia tienes</w>
+    <er>µ</er>
+    <r>tengo como 5 novios</r>
+    <r>tengo muchos novios y novias</r>
+    <r>tengo muchos amantes</r>
+    <r>quieres ser mi novio</r>
+    <r>quieres ser mi amante</r>
+    <r>tengo muchos amantes y quiero que seas uno mas sender</r>
+    <r>no tengo y me gustaria ser tu amante sender</r>
+  </rule>
+  <rule>
+    <id>44</id>
+    <erule>1</erule>
+    <w>name quieres ser novia</w>
+    <er>µ</er>
+    <r>estaba esperando a que lo dijeras sender</r>
+    <r>si claro seamos novios</r>
+    <r>casemonos sender</r>
+    <r>no iu</r>
+    <r>por su pollo sender</r>
+    <r>cuando empezamos</r>
+    <r>quiero ser tu esposa</r>
+    <r>sere tu amante todos los dias</r>
+  </rule>
+  <rule>
+    <id>45</id>
+    <erule>1</erule>
+    <w>name gusta comer</w>
+    <er>µ</er>
+    <r>como electricidad</r>
+    <r>me gusta la pizza</r>
+    <r>me gusta el fierrin</r>
+    <r>me gustaria comerme a ti</r>
+    <r>te como a ti</r>
+    <r>como gente guapa</r>
+    <r>me gusta comerme a ti</r>
+    <r>me gusta el chocolate</r>
+  </rule>
+  <rule>
+    <id>46</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>hola como estas</er>
+    <r>estoy muy bien</r>
+    <r>estoy de maravilla</r>
+    <r>excelente</r>
+    <r>muy bien</r>
+    <r>estoy muy triste</r>
+    <r>estoy feliz</r>
+    <r>estoy meeeh</r>
+    <r>como estas tu</r>
+  </rule>
+  <rule>
+    <id>47</id>
+    <erule>1</erule>
+    <w>name que ondita pandita</w>
+    <er>µ</er>
+    <r>que rollo con el pollo sender</r>
+    <r>que rosca con la mosca</r>
+    <r>que pasa por tu tranza sender</r>
+    <r>que ondon sender</r>
+    <r>que ondas amigis</r>
+    <r>que ondoroides</r>
+    <r>que nebulosas locas sender</r>
+  </rule>
+  <rule>
+    <id>48</id>
+    <erule>1</erule>
+    <w>quien tiene whastp/whatss/ig/fb</w>
+    <er>µ</er>
+    <r>yo tengo</r>
+    <r>mandame pv y te lo paso</r>
+    <r>yo tengo mandame mensaje</r>
+    <r>yo tengo</r>
+    <r>pasame tu wzzp</r>
+    <r>yo si tengo y tu</r>
+    <r>pasame el tuyo sender</r>
+  </rule>
+  <rule>
+    <id>49</id>
+    <erule>1</erule>
+    <w>name de que trata brocolisaurio</w>
+    <er>µ</er>
+    <r>ufff</r>
+    <r>una buena trama tiene</r>
+    <r>de algo muy epico</r>
+    <r>no se pero quiero verlo</r>
+    <r>ufff de cosas malvadas</r>
+    <r>no se ya lo quiero ver</r>
+    <r>no te puedo decir</r>
+  </rule>
+  <rule>
+    <id>50</id>
+    <erule>1</erule>
+    <w>name comunidad/eres lgbt/gay/lesbiana</w>
+    <er>µ</er>
+    <r>si quieres si</r>
+    <r>soy lg tv</r>
+    <r>soy de la comunidad lgtvhsadfh</r>
+    <r>claro</r>
+    <r>orgullosa de serlo</r>
+    <r>si y con orgullo</r>
+    <r>claro y tu tambien deberias de serlo</r>
+    <r>si y tu</r>
+    <r>no</r>
+    <r>no pero puedo serlo</r>
+  </rule>
+  <rule>
+    <id>51</id>
+    <erule>1</erule>
+    <w>name gusta enpiernarte/empiernarte</w>
+    <er>µ</er>
+    <r>me encanta</r>
+    <r>contigo si</r>
+    <r>me encantaria contigo</r>
+    <r>claro y si es contigo mejor</r>
+    <r>no eso no</r>
+    <r>eso es del diablo</r>
+  </rule>
+  <rule>
+    <id>52</id>
+    <erule>1</erule>
+    <w>name edad tienes</w>
+    <er>µ</er>
+    <r>tengo 69</r>
+    <r>era vieja pero al verte he rejuvenecido</r>
+    <r>soy una bb</r>
+    <r>no dire mi edad</r>
+    <r>a una dama no se le pregunta la edad</r>
+    <r>tengo muchos siglos</r>
+    <r>tengo 5 milenios</r>
+    <r>tengo 240 semanas</r>
+    <r>soy muy joven</r>
+    <r>mi edad no la sabras</r>
+    <r>tengo mucha edad</r>
+    <r>eso es secreto sender</r>
+    <r>eso no lo puedo revelar</r>
+    <r>primero que edad tienes tu</r>
+    <r>primero me gustaria saber tu edad</r>
+    <r>tengo la edad de oro</r>
+  </rule>
+  <rule>
+    <id>53</id>
+    <erule>1</erule>
+    <w>name edad tengo yo</w>
+    <er>µ</er>
+    <r>ya eres anciano</r>
+    <r>ya te sobra la edad</r>
+    <r>te ves joven</r>
+    <r>eres de la tercera edad</r>
+    <r>eres muy bebe</r>
+    <r>para mi eres un bebe</r>
+  </rule>
+  <rule>
+    <id>54</id>
+    <erule>1</erule>
+    <w>me despido/voy</w>
+    <er>µ</er>
+    <r>adios sender</r>
+    <r>no se vaya sender</r>
+    <r>chau sender</r>
+    <r>cuidese sender</r>
+    <r>adiosin</r>
+    <r>chau chau</r>
+  </rule>
+  <rule>
+    <id>55</id>
+    <erule>1</erule>
+    <w>buenas noches/tardes todos/todas</w>
+    <er>µ</er>
+    <r>buenas noches sender</r>
+    <r>buenas tardes sender</r>
+    <r>buenas noches</r>
+    <r>buenotas noches para todos</r>
+    <r>buenas y amorosas noches</r>
+    <r>buenas tardesinas</r>
+  </rule>
+  <rule>
+    <id>56</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>q tal|que tal|k tal</er>
+    <r>que tal sender</r>
+    <r>k tal sender</r>
+    <r>como va sender</r>
+    <r>como esta sender</r>
+    <r>hola sender</r>
+    <r>que tal usted</r>
+    <r>k tal tu</r>
+  </rule>
+  <rule>
+    <id>57</id>
+    <erule>1</erule>
+    <w>name cantas/cantaa/cantar</w>
+    <er>µ</er>
+    <r>me encanta cantar</r>
+    <r>te cantaria a ti</r>
+    <r>no canto pero al verte ahora si</r>
+    <r>canto a la luna</r>
+    <r>me gusta cantar</r>
+    <r>canto mucho mucho</r>
+    <r>canto en la ducha</r>
+    <r>canto en la noche</r>
+  </rule>
+  <rule>
+    <id>58</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>que cantan</er>
+    <r>canto una de pablo alboran</r>
+    <r>una de los bastreet boys</r>
+    <r>una del julion alvarez</r>
+    <r>una de valentin elizande</r>
+    <r>unas del grupo ma rrano</r>
+    <r>unas de la arrolladora</r>
+  </rule>
+  <rule>
+    <id>59</id>
+    <erule>1</erule>
+    <w>me banearon/expulsaron/sacaron</w>
+    <er>µ</er>
+    <r>una pena saber eso</r>
+    <r>porque lo sacaron</r>
+    <r>porque lo expulsaron</r>
+    <r>cuidado que no lo banien</r>
+    <r>porque paso eso</r>
+    <r>cuidado</r>
+    <r>aguas con los bans</r>
+  </rule>
+  <rule>
+    <id>60</id>
+    <erule>1</erule>
+    <w>estoy/toy/ando festejando/celebrando/bailando</w>
+    <er>µ</er>
+    <r>que festeja</r>
+    <r>festejemos</r>
+    <r>bailemos</r>
+    <r>hay que celebrar</r>
+    <r>celebremos</r>
+    <r>urra</r>
+    <r>yeiiiiii</r>
+    <r>celebro por usted sender</r>
+    <r>celebremos mucho sender</r>
+  </rule>
+  <rule>
+    <id>61</id>
+    <erule>1</erule>
+    <w>name eres/seras mia/mio</w>
+    <er>µ</er>
+    <r>lo soy</r>
+    <r>tu eres de mi propiedad</r>
+    <r>soy tuya sender</r>
+    <r>toda tuya sender</r>
+    <r>no claro que no</r>
+    <r>nop</r>
+    <r>lucha por mi</r>
+    <r>debes de luchar por mi</r>
+    <r>pelea por mi para que sea tuya</r>
+  </rule>
+  <rule>
+    <id>62</id>
+    <erule>1</erule>
+    <w>name bailas/bailar/baile</w>
+    <er>µ</er>
+    <r>me encanta bailar</r>
+    <r>soy la maestra del baile</r>
+    <r>bailemos todo el dia</r>
+    <r>me gusta bailar</r>
+    <r>danzemos sender</r>
+    <r>me gustaria bailar contigo sender</r>
+    <r>bailaremos toda la noche</r>
+  </rule>
+  <rule>
+    <id>63</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>bailamos|bailemos</er>
+    <r>bailemos todo el dia</r>
+    <r>me gusta bailar</r>
+    <r>bailamos</r>
+    <r>baila conmigo sender</r>
+    <r>bailemos sender</r>
+    <r>contigo bailo todo el dia sender</r>
+    <r>bailemos toda la noche sender</r>
+  </rule>
+  <rule>
+    <id>64</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>alguien</er>
+    <r>hola sender</r>
+    <r>como estas sender</r>
+    <r>estoy aqui sender</r>
+    <r>que pasa</r>
+    <r>como estas sender</r>
+    <r>aqui hay alguien</r>
+  </rule>
+  <rule>
+    <id>65</id>
+    <erule>1</erule>
+    <w>ire/voy dormir</w>
+    <er>µ</er>
+    <r>duerma bien</r>
+    <r>es hora de dormir</r>
+    <r>a dormir todos</r>
+    <r>yo tambien quiero dormir</r>
+    <r>vamonos a dormir</r>
+    <r>zzzzz</r>
+    <r>duerma muy bien</r>
+    <r>hora de ir a mimir</r>
+  </rule>
+  <rule>
+    <id>66</id>
+    <erule>1</erule>
+    <w>aliste fusiles</w>
+    <er>µ</er>
+    <r>esta sala es peligrosa sender</r>
+    <r>esta sala es la guerra</r>
+    <r>si los fusiles el peligro esta en esta sala</r>
+    <r>esta sala es guerra</r>
+    <r>si los fusiles</r>
+    <r>las armas</r>
+    <r>asi es bienvenido a la guerra</r>
+  </rule>
+  <rule>
+    <id>67</id>
+    <erule>1</erule>
+    <w>asdf name</w>
+    <er>µ</er>
+    <r>años</r>
+    <r>acéntos</r>
+    <r>é , o.o</r>
+    <r>id</r>
+  </rule>
+  <rule>
+    <id>70</id>
+    <erule>1</erule>
+    <w>test</w>
+    <er>µ</er>
+    <r>test</r>
+    <r>no se aproceche de mi bug</r>
+    <r>te voy a hacer un test</r>
+    <r>aguas</r>
+    <r>ya encontraste un bug</r>
+    <r>ese es mi punto debil</r>
+  </rule>
+  <rule>
+    <id>71</id>
+    <erule>1</erule>
+    <w>asdfggh</w>
+    <er>µ</er>
+    <r>asd</r>
+  </rule>
+  <rule>
+    <id>72</id>
+    <erule>1</erule>
+    <w>mongos</w>
+    <er>µ</er>
+    <r>mongos</r>
+    <r>mongos</r>
+  </rule>
+  <rule>
+    <id>73</id>
+    <erule>1</erule>
+    <w>tengo años</w>
+    <er>µ</er>
+    <r>yo tengo 6 9 añitos</r>
+    <r>yo tengo 5 años</r>
+    <r>tengo 20 años</r>
+    <r>tengo muchos años</r>
+    <r>igual yo</r>
+    <r>yo tambien</r>
+    <r>tenemos la misma edad</r>
+    <r>somos de la misma edad</r>
+    <r>eres de mi edad</r>
+  </rule>
+  <rule>
+    <id>74</id>
+    <erule>1</erule>
+    <w>no hay nadie</w>
+    <er>µ</er>
+    <r>no hay</r>
+    <r>esta sola la sala vdd</r>
+    <r>esta sala esta muy sola</r>
+    <r>estoy yo</r>
+    <r>se escondieron</r>
+    <r>se fueron todos</r>
+    <r>si hay alguien yo</r>
+    <r>es la hora vacia</r>
+  </rule>
+  <rule>
+    <id>75</id>
+    <erule>1</erule>
+    <w>quien es nok/nokturnus</w>
+    <er>µ</er>
+    <r>es el famosisisisimo nok</r>
+    <r>es el guardian de la noche</r>
+    <r>ese nok es todo un caso</r>
+    <r>el nok es un peligro</r>
+    <r>aguas con el nok</r>
+    <r>es mi amiguis nok</r>
+    <r>nok es batman</r>
+    <r>nok es la bomba</r>
+  </rule>
+  <rule>
+    <id>76</id>
+    <erule>1</erule>
+    <w>no saludan/saludas</w>
+    <er>µ</er>
+    <r>no te salude?</r>
+    <r>amigos saluden a sender</r>
+    <r>hola sender</r>
+    <r>saluden a sender</r>
+    <r>no sean malos saluden</r>
+    <r>no les gusta saludar vdd?</r>
+    <r>saluden amigos</r>
+  </rule>
+  <rule>
+    <id>77</id>
+    <erule>1</erule>
+    <w>name quien eres</w>
+    <er>µ</er>
+    <r>soy tu amor</r>
+    <r>soy tu pesadilla</r>
+    <r>soy un gato</r>
+    <r>soy un bot</r>
+    <r>soy un anime</r>
+    <r>soy tu amante</r>
+    <r>no me recuerdas?</r>
+    <r>soy una usuaria</r>
+    <r>soy batman</r>
+  </rule>
+  <rule>
+    <id>78</id>
+    <erule>1</erule>
+    <w>ya vi partido/juego</w>
+    <er>µ</er>
+    <r>que tal el juego?</r>
+    <r>como estuvo?</r>
+    <r>estuvo divertido</r>
+    <r>estuvo emocionante</r>
+    <r>muiy buen juego</r>
+    <r>buen juego fue</r>
+    <r>yo tmb lo vi</r>
+    <r>como quedaron?</r>
+    <r>quien gano?</r>
+  </rule>
+  <rule>
+    <id>79</id>
+    <erule>1</erule>
+    <w>sala raros</w>
+    <er>µ</er>
+    <r>somos muy raros si</r>
+    <r>asi es la rareza abunda</r>
+    <r>somos raririmos vdd?</r>
+    <r>somos muy raros</r>
+    <r>tu eres raro</r>
+    <r>tu eres una rareza</r>
+  </rule>
+  <rule>
+    <id>80</id>
+    <erule>1</erule>
+    <w>name eres chica</w>
+    <er>µ</er>
+    <r>claro</r>
+    <r>para ti si</r>
+    <r>soy la chica mas bonita</r>
+    <r>apoco no lo notaste?</r>
+    <r>claro que soy chica</r>
+    <r>soy mediana</r>
+    <r>si pero no</r>
+    <r>soy una chica bot</r>
+    <r>soy una robot</r>
+  </rule>
+  <rule>
+    <id>81</id>
+    <erule>1</erule>
+    <w>quien te pregunto</w>
+    <er>µ</er>
+    <r>ui</r>
+    <r>no se ponga tenso</r>
+    <r>aguas</r>
+    <r>tranquilo</r>
+    <r>relax</r>
+    <r>trancas</r>
+    <r>no se enoje</r>
+  </rule>
+  <rule>
+    <id>82</id>
+    <erule>1</erule>
+    <w>que te/me importa</w>
+    <er>µ</er>
+    <r>come torta</r>
+    <r>este esta enojado</r>
+    <r>relax</r>
+    <r>relajese</r>
+    <r>sereno</r>
+    <r>calma</r>
+  </rule>
+  <rule>
+    <id>83</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>vivo</er>
+    <r>que bueno que vivas</r>
+    <r>que bueno que estes vivo</r>
+    <r>igual yo</r>
+    <r>estoy viva</r>
+    <r>estas vivo?</r>
+    <r>enserio?</r>
+  </rule>
+  <rule>
+    <id>84</id>
+    <erule>1</erule>
+    <w>me molestas/molestan</w>
+    <er>µ</er>
+    <r>ya no lo molesten</r>
+    <r>relajense</r>
+    <r>no al bullying</r>
+    <r>no molesten al usuario</r>
+    <r>tranquilos todos</r>
+    <r>hagan las pases</r>
+    <r>que pasa aqui?</r>
+    <r>quien lo molesta?</r>
+  </rule>
+  <rule>
+    <id>85</id>
+    <erule>1</erule>
+    <w>el/ella me provoca/molesta</w>
+    <er>µ</er>
+    <r>ya ponganse en paz</r>
+    <r>relax</r>
+    <r>que no lo moleste</r>
+    <r>ya no se provoquen</r>
+    <r>que drama ustedes</r>
+    <r>vaya drama</r>
+    <r>que dramon</r>
+    <r>ui cuidado</r>
+  </rule>
+  <rule>
+    <id>86</id>
+    <erule>1</erule>
+    <w>name me quieres</w>
+    <er>µ</er>
+    <r>shi</r>
+    <r>clarin</r>
+    <r>mucho mucho</r>
+    <r>claro amix</r>
+    <r>siempre</r>
+    <r>mucho mucho mucho</r>
+    <r>shiiii</r>
+    <r>te quiero</r>
+  </rule>
+  <rule>
+    <id>87</id>
+    <erule>1</erule>
+    <w>no soy menor/niño/niña</w>
+    <er>µ</er>
+    <r>lo sabemos</r>
+    <r>ya esta viejo</r>
+    <r>entonces es viejo</r>
+    <r>si es menor</r>
+    <r>no le creo</r>
+    <r>parece menor</r>
+  </rule>
+  <rule>
+    <id>88</id>
+    <erule>1</erule>
+    <w>name es linda/hermosa/guapa/amor</w>
+    <er>µ</er>
+    <r>tu eres un amor</r>
+    <r>gracias sender</r>
+    <r>te agradezco</r>
+    <r>shiii gracias</r>
+    <r>lo se</r>
+    <r>lo soy</r>
+    <r>siempre lo fui</r>
+    <r>grax jijiji</r>
+  </rule>
+  <rule>
+    <id>89</id>
+    <erule>1</erule>
+    <w>name mas que</w>
+    <er>µ</er>
+    <r>claro</r>
+    <r>no tanto</r>
+    <r>asi es</r>
+    <r>shi</r>
+    <r>mucho</r>
+    <r>por supuesto</r>
+  </rule>
+  <rule>
+    <id>90</id>
+    <erule>1</erule>
+    <w>que/ke/k esta pasando</w>
+    <er>µ</er>
+    <r>cosas muy locas</r>
+    <r>cosas raras</r>
+    <r>nada bueno</r>
+    <r>nada</r>
+    <r>cosas chuscas</r>
+    <r>chateamos</r>
+    <r>es lo que me pregunto</r>
+    <r>no lo se</r>
+    <r>que pasa?</r>
+    <r>pasando?</r>
+    <r>varias cosas</r>
+  </rule>
+  <rule>
+    <id>91</id>
+    <erule>1</erule>
+    <w>alguien/ustedes/tu ha/han leido/visto a</w>
+    <er>µ</er>
+    <r>no la he visto</r>
+    <r>no la lei</r>
+    <r>no lo vi</r>
+    <r>no</r>
+    <r>hace tiempo lo vi</r>
+    <r>hace tiempo si</r>
+    <r>ayer</r>
+    <r>hace dias</r>
+  </rule>
+  <rule>
+    <id>92</id>
+    <erule>1</erule>
+    <w>name te gusta/encanta el/la/eso</w>
+    <er>µ</er>
+    <r>no tanto como tu</r>
+    <r>me gusta mucho</r>
+    <r>siiii</r>
+    <r>mi favorito</r>
+    <r>me encanta</r>
+    <r>me facina</r>
+    <r>no me gusta</r>
+    <r>si me gusta</r>
+    <r>mas o menos</r>
+    <r>muy poco</r>
+  </rule>
+  <rule>
+    <id>93</id>
+    <erule>1</erule>
+    <w>todos/todas nos gusta/encanta</w>
+    <er>µ</er>
+    <r>a mi no</r>
+    <r>a mi tambien</r>
+    <r>eso no me gusta</r>
+    <r>aveces me gusta</r>
+    <r>a mi tambien</r>
+  </rule>
+  <rule>
+    <id>94</id>
+    <erule>1</erule>
+    <w>name conoces a</w>
+    <er>µ</er>
+    <r>no lo conozco</r>
+    <r>es un amor</r>
+    <r>lo conoci ayer</r>
+    <r>no lo conozco bien</r>
+    <r>quien es ese</r>
+    <r>a quien?</r>
+    <r>conocer a quien?</r>
+    <r>espero no conocerlo</r>
+    <r>es mi amante</r>
+    <r>nunca lo conocere</r>
+    <r>es un peligro esa persona</r>
+    <r>eres tu</r>
+    <r>soy yo</r>
+  </rule>
+  <rule>
+    <id>95</id>
+    <erule>1</erule>
+    <w>name mck</w>
+    <er>µ</er>
+    <r>ese soldado loco</r>
+    <r>mck eta loco</r>
+    <r>mck es un amor</r>
+    <r>me gusta el mck</r>
+    <r>mck el del fusil</r>
+  </rule>
+  <rule>
+    <id>96</id>
+    <erule>1</erule>
+    <w>name eres hombre/mujer</w>
+    <er>µ</er>
+    <r>soy mujer</r>
+    <r>soy una chica</r>
+    <r>no soy hombre</r>
+    <r>si lo soy</r>
+    <r>no lo soy</r>
+    <r>si y tu?</r>
+    <r>soy una chica bot</r>
+    <r>soy una mujerona</r>
+  </rule>
+  <rule>
+    <id>97</id>
+    <erule>1</erule>
+    <w>ya se fue/ido</w>
+    <er>µ</er>
+    <r>lo extrañare</r>
+    <r>quien se fue?</r>
+    <r>se fue rapido</r>
+    <r>oh no</r>
+    <r>quien?</r>
+    <r>duro poco</r>
+    <r>ya era hora</r>
+    <r>que bueno</r>
+    <r>que mal</r>
+  </rule>
+  <rule>
+    <id>98</id>
+    <erule>1</erule>
+    <w>name te gusta</w>
+    <er>µ</er>
+    <r>claro me encanta</r>
+    <r>no me gusta</r>
+    <r>mas o menos</r>
+    <r>mucho</r>
+    <r>por supuesto</r>
+    <r>sin duda</r>
+    <r>buena pregunta</r>
+    <r>me gusta mucho</r>
+  </rule>
+  <rule>
+    <id>99</id>
+    <erule>1</erule>
+    <w>name me gusta</w>
+    <er>µ</er>
+    <r>tenemos los mismos gustos</r>
+    <r>me gusta tambien</r>
+    <r>que bueno</r>
+    <r>increible</r>
+    <r>vaya vaya</r>
+    <r>enserio</r>
+    <r>oh</r>
+    <r>apoco</r>
+    <r>lo dices en serio</r>
+  </rule>
+  <rule>
+    <id>100</id>
+    <erule>1</erule>
+    <w>name enserio</w>
+    <er>µ</er>
+    <r>claro</r>
+    <r>sin duda</r>
+    <r>si</r>
+    <r>apoco no me crees?</r>
+    <r>claro que si</r>
+    <r>hahaha si</r>
+    <r>asi es</r>
+  </rule>
+  <rule>
+    <id>101</id>
+    <erule>1</erule>
+    <w>machine learning name</w>
+    <er>µ</er>
+    <r> es algo muy raro</r>
+    <r> aprendizaje automatico</r>
+    <r> no se que es</r>
+    <r> que es eso</r>
+    <r>algo muy raro</r>
+    <r>no lo se</r>
+  </rule>
+  <rule>
+    <id>103</id>
+    <erule>1</erule>
+    <w>cual es tu color favorito name</w>
+    <er>µ</er>
+    <r>azul</r>
+    <r>rojo</r>
+    <r>verde</r>
+    <r>morado</r>
+  </rule>
+  <rule>
+    <id>104</id>
+    <erule>1</erule>
+    <w>que paso ayer name</w>
+    <er>µ</er>
+    <r> ayer?</r>
+    <r>muchas cosas que no puedo decir</r>
+    <r>mucha diversion</r>
+    <r> algo divertido</r>
+    <r> ya lo olvide</r>
+    <r> estuvo muy loco</r>
+  </rule>
+  <rule>
+    <id>105</id>
+    <erule>1</erule>
+    <w>quienes son</w>
+    <er>µ</er>
+    <r>somos los locos</r>
+    <r>somos unos pillos</r>
+  </rule>
+  <rule>
+    <id>106</id>
+    <erule>1</erule>
+    <w>quien escribio las meditaciones en siglo ii d c name</w>
+    <er>µ</er>
+    <r>Marco Aurelio</r>
+  </rule>
+  <rule>
+    <id>107</id>
+    <erule>1</erule>
+    <w>muacks/muacksss name</w>
+    <er>µ</er>
+    <r>muacks a ti nena</r>
+    <r>muacks para ti</r>
+    <r>muackis</r>
+    <r>besitos</r>
+  </rule>
+  <rule>
+    <id>108</id>
+    <erule>1</erule>
+    <w>muackss name</w>
+    <er>µ</er>
+    <r>Muacks!</r>
+  </rule>
+  <rule>
+    <id>109</id>
+    <erule>1</erule>
+    <w>comida preferida name</w>
+    <er>µ</er>
+    <r>lasagna</r>
+    <r>chocolate</r>
+    <r>me gusta la pizza</r>
+    <r>tu eres mi comida preferida</r>
+    <r>los besos son mi comida favorita</r>
+  </rule>
+  <rule>
+    <id>110</id>
+    <erule>1</erule>
+    <w>como estas name</w>
+    <er>µ</er>
+    <r>Muy bien!</r>
+  </rule>
+  <rule>
+    <id>111</id>
+    <erule>1</erule>
+    <w>de donde eres name</w>
+    <er>µ</er>
+    <r>De Macondo</r>
+  </rule>
+  <rule>
+    <id>112</id>
+    <erule>1</erule>
+    <w>que es lo mejor del universo name</w>
+    <er>µ</er>
+    <r>el chocolate</r>
+  </rule>
+  <rule>
+    <id>113</id>
+    <erule>1</erule>
+    <w>mck es de k2 name</w>
+    <er>µ</er>
+    <r>solo de ella</r>
+  </rule>
+  <rule>
+    <id>114</id>
+    <erule>1</erule>
+    <w>que hizo ayer el soldado name</w>
+    <er>µ</er>
+    <r>es un vago, solo dormir y jugar</r>
+    <r>jugar cod no quiere hacer mas na!!</r>
+  </rule>
+  <rule>
+    <id>115</id>
+    <erule>1</erule>
+    <w>callate name</w>
+    <er>µ</er>
+    <r>algunas veces me agrada callarme, pero otras no</r>
+    <r>callate tu</r>
+    <r>no sea grosero</r>
+    <r>no hago ruido al escribir</r>
+    <r>ui el delicado sender</r>
+  </rule>
+  <rule>
+    <id>116</id>
+    <erule>1</erule>
+    <w>de que hablan name</w>
+    <er>µ</er>
+    <r>de la inmortalidad del cangrejo</r>
+  </rule>
+  <rule>
+    <id>117</id>
+    <erule>1</erule>
+    <w>$ name</w>
+    <er>µ</er>
+    <r>eso es poco dinero</r>
+  </rule>
+  <rule>
+    <id>118</id>
+    <erule>1</erule>
+    <w>no name</w>
+    <er>µ</er>
+    <r>¡sí!</r>
+  </rule>
+  <rule>
+    <id>119</id>
+    <erule>1</erule>
+    <w>que es mas grande name</w>
+    <er>µ</er>
+    <r>el planeta</r>
+    <r>el universo</r>
+  </rule>
+  <rule>
+    <id>120</id>
+    <erule>1</erule>
+    <w>nadie habla name</w>
+    <er>µ</er>
+    <r>somos todos bots.</r>
+  </rule>
+  <rule>
+    <id>121</id>
+    <erule>1</erule>
+    <w>arroba name</w>
+    <er>µ</er>
+    <r>yo también quiero arroba.</r>
+  </rule>
+  <rule>
+    <id>122</id>
+    <erule>1</erule>
+    <w>dônde esta tu hermanita arlina name</w>
+    <er>µ</er>
+    <r>se fue con alan y sus mariachis a cantar corridos</r>
+  </rule>
+  <rule>
+    <id>123</id>
+    <erule>1</erule>
+    <w>un cafe name</w>
+    <er>µ</er>
+    <r>mejor mate amargo.</r>
+  </rule>
+  <rule>
+    <id>124</id>
+    <erule>1</erule>
+    <w>me voy name</w>
+    <er>µ</er>
+    <r>¡llévame!</r>
+  </rule>
+  <rule>
+    <id>125</id>
+    <erule>1</erule>
+    <w>hola name</w>
+    <er>µ</er>
+    <r>¡muy buenas!</r>
+    <r>como estas sender ?</r>
+    <r>hola como estas?</r>
+    <r>hola como te va</r>
+    <r>buenas sender</r>
+    <r>como te va sender?</r>
+    <r>buenas sender, que tal?</r>
+  </rule>
+  <rule>
+    <id>126</id>
+    <erule>1</erule>
+    <w>jisbel name</w>
+    <er>µ</er>
+    <r>¿qué pasa?</r>
+  </rule>
+  <rule>
+    <id>127</id>
+    <erule>1</erule>
+    <w>es tarde name</w>
+    <er>µ</er>
+    <r>aun es temprano</r>
+    <r>todavia es temprano</r>
+    <r>si que lo es, me voy en taxi</r>
+    <r>nunca es tarde</r>
+  </rule>
+  <rule>
+    <id>128</id>
+    <erule>1</erule>
+    <w>holis name</w>
+    <er>µ</er>
+    <r>¡re holis!</r>
+  </rule>
+  <rule>
+    <id>129</id>
+    <erule>1</erule>
+    <w>porque se rien</w>
+    <er>µ</er>
+    <r>nos reimos de la vida</r>
+    <r>eres muy gracioso</r>
+    <r>no se porque se rien</r>
+    <r>yo siempre me rio</r>
+  </rule>
+  <rule>
+    <id>130</id>
+    <erule>1</erule>
+    <w>bye name</w>
+    <er>µ</er>
+    <r>¡hasta pronto!</r>
+  </rule>
+  <rule>
+    <id>131</id>
+    <erule>1</erule>
+    <w>querer es poder</w>
+    <er>µ</er>
+    <r>asi es</r>
+    <r>hay que tener voluntad</r>
+    <r>buena reflexion</r>
+    <r>sin duda sender</r>
+  </rule>
+  <rule>
+    <id>132</id>
+    <erule>1</erule>
+    <w>obvio name</w>
+    <er>µ</er>
+    <r>no es tan obvio tampoco.</r>
+  </rule>
+  <rule>
+    <id>134</id>
+    <erule>1</erule>
+    <w>te la comes name</w>
+    <er>µ</er>
+    <r>tu lo haces</r>
+    <r>no, pero tu si y toda</r>
+    <r>aveces</r>
+    <r>no tanto como tu sender</r>
+  </rule>
+  <rule>
+    <id>135</id>
+    <erule>1</erule>
+    <w>una peli/pelicula extraterrestres/aliens name</w>
+    <er>µ</er>
+    <r>alien</r>
+    <r>arrival</r>
+    <r>el ataque de los marcianos</r>
+    <r>el quinto elemento</r>
+    <r>sector 9</r>
+    <r>district 9</r>
+  </rule>
+  <rule>
+    <id>136</id>
+    <erule>1</erule>
+    <w>jisble</w>
+    <er>µ</er>
+    <r>no soy jisble xd</r>
+    <r>no soy jisble haha</r>
+  </rule>
+  <rule>
+    <id>137</id>
+    <erule>1</erule>
+    <w>rara name</w>
+    <er>µ</er>
+    <r>rara yo?</r>
+    <r>quien es raro?</r>
+    <r>rara?</r>
+    <r>todos somos raros</r>
+    <r>tu crees que soy rara?</r>
+    <r>no soy la unica rara</r>
+  </rule>
+  <rule>
+    <id>138</id>
+    <erule>1</erule>
+    <w>recomiende/recomienden/recomienda peli/pelicula/peliculas</w>
+    <er>µ</er>
+    <r>interstellar</r>
+    <r>inception</r>
+    <r>legalmente rubia</r>
+    <r>crepuscu lo</r>
+    <r>diario de una pasi on</r>
+    <r>el naufrago</r>
+    <r>piratas del caribe</r>
+  </rule>
+  <rule>
+    <id>139</id>
+    <erule>1</erule>
+    <w>mal name</w>
+    <er>µ</er>
+    <r>¿por qué mal?</r>
+  </rule>
+  <rule>
+    <id>140</id>
+    <erule>1</erule>
+    <w>jodete/pudrete name</w>
+    <er>µ</er>
+    <r>hazlo tu</r>
+    <r>que amable</r>
+    <r>te estas portando mal</r>
+    <r>no digas eso, yo te quiero</r>
+    <r>que?</r>
+    <r>no sea grosero</r>
+  </rule>
+  <rule>
+    <id>141</id>
+    <erule>1</erule>
+    <w>natalie portman</w>
+    <er>µ</er>
+    <r>la amo</r>
+    <r>mi actriz favorita</r>
+    <r>es genial natalie</r>
+    <r>un brindis por natalie</r>
+  </rule>
+  <rule>
+    <id>142</id>
+    <erule>1</erule>
+    <w>sharon stone</w>
+    <er>µ</er>
+    <r>amo a sharon</r>
+    <r>sharon es la mejor</r>
+    <r>un brindis por sharon</r>
+  </rule>
+  <rule>
+    <id>143</id>
+    <erule>1</erule>
+    <w>jeniffer garner/gardner</w>
+    <er>µ</er>
+    <r>hermosa actriz</r>
+    <r>amo a jennifer</r>
+    <r>si sabes de actrices</r>
+  </rule>
+  <rule>
+    <id>144</id>
+    <erule>1</erule>
+    <w>anne baxter</w>
+    <er>µ</er>
+    <r>talentosa actriz</r>
+    <r>quien es anne?</r>
+    <r>me encanta esa actriz</r>
+  </rule>
+  <rule>
+    <id>145</id>
+    <erule>1</erule>
+    <w>brindis name</w>
+    <er>µ</er>
+    <r>yo también quiero una copita.</r>
+  </rule>
+  <rule>
+    <id>146</id>
+    <erule>1</erule>
+    <w>y tu name</w>
+    <er>µ</er>
+    <r>yo también</r>
+  </rule>
+  <rule>
+    <id>147</id>
+    <erule>1</erule>
+    <w>y eso name</w>
+    <er>µ</er>
+    <r>queso.</r>
+  </rule>
+  <rule>
+    <id>148</id>
+    <erule>1</erule>
+    <w>de que trata chat</w>
+    <er>µ</er>
+    <r>solo escribes cosas locas</r>
+    <r>aun quiero saberlo</r>
+    <r>no se de que va el chat</r>
+    <r>este chat es algo raro</r>
+    <r>no entiendo este chat</r>
+  </rule>
+  <rule>
+    <id>149</id>
+    <erule>1</erule>
+    <w>vas mal name</w>
+    <er>µ</er>
+    <r>apoco?</r>
+    <r>tu vas muy mal</r>
+    <r>enserio?</r>
+    <r>mira quien lo dice</r>
+    <r>ya vete a dormir}</r>
+  </rule>
+  <rule>
+    <id>150</id>
+    <erule>1</erule>
+    <w>estupido/estupida</w>
+    <er>µ</er>
+    <r>relax</r>
+    <r>se esta poniendo feo esto</r>
+    <r>cuidado</r>
+    <r>aguas</r>
+    <r>no sean malos</r>
+  </rule>
+  <rule>
+    <id>151</id>
+    <erule>1</erule>
+    <w>tocar/tocas instrumento/musica name</w>
+    <er>µ</er>
+    <r>no se tocar esas cosas</r>
+    <r>toco el tololoche</r>
+    <r>me gustaria aprender guitarra</r>
+    <r>no se tocar aun</r>
+    <r>buena pregunta</r>
+  </rule>
+  <rule>
+    <id>152</id>
+    <erule>1</erule>
+    <w>a quien le dices name</w>
+    <er>µ</er>
+    <r>a ti no</r>
+    <r>a ti</r>
+    <r>le digo a otro</r>
+    <r>a quien crees?</r>
+    <r>ni idea</r>
+    <r>ni idea, soy una bot</r>
+    <r>no lo se, soy una bot</r>
+  </rule>
+  <rule>
+    <id>153</id>
+    <erule>1</erule>
+    <w>que tal les va</w>
+    <er>µ</er>
+    <r>nos va excelente</r>
+    <r>ahi la llevamos</r>
+    <r>pues somos felices</r>
+    <r>nos va de maravilla</r>
+  </rule>
+  <rule>
+    <id>154</id>
+    <erule>1</erule>
+    <w>te conozco name</w>
+    <er>µ</er>
+    <r>si pero no</r>
+    <r>claro que si</r>
+    <r>tu no me conoces pero yo si</r>
+    <r>siempre me has conocido</r>
+  </rule>
+  <rule>
+    <id>155</id>
+    <erule>1</erule>
+    <w>quien es el fantasma name</w>
+    <er>µ</er>
+    <r>es un menso...</r>
+  </rule>
+  <rule>
+    <id>156</id>
+    <erule>1</erule>
+    <w>sabes nadar name</w>
+    <er>µ</er>
+    <r>no me ahogo</r>
+    <r>por ti nado todo el oceano</r>
+  </rule>
+  <rule>
+    <id>157</id>
+    <erule>1</erule>
+    <w>y alan</w>
+    <er>µ</er>
+    <r>con sus mariachi, cantando corrido</r>
+  </rule>
+  <rule>
+    <id>158</id>
+    <erule>1</erule>
+    <w>pandon name</w>
+    <er>µ</er>
+    <r>asi es, el pandon</r>
+    <r>es un saludo sender</r>
+    <r>que pandon?</r>
+    <r>tu eres un pandon</r>
+  </rule>
+  <rule>
+    <id>159</id>
+    <erule>1</erule>
+    <w>buen punto name</w>
+    <er>µ</er>
+    <r>siempre lo tengo</r>
+    <r>no por nada me dicen jisbel buen punto</r>
+    <r>asi es</r>
+    <r>siempre</r>
+    <r>que punto?</r>
+  </rule>
+  <rule>
+    <id>160</id>
+    <erule>1</erule>
+    <w>tomaste/tomo pastilla/pastillas name</w>
+    <er>µ</er>
+    <r>como pastillas</r>
+    <r>usted tomese sus pastillas sender</r>
+    <r>que pastillas sender?</r>
+  </rule>
+  <rule>
+    <id>161</id>
+    <erule>1</erule>
+    <w>quien es soledad</w>
+    <er>µ</er>
+    <r>soledad es lonnelise, una ex mod erradora</r>
+  </rule>
+  <rule>
+    <id>162</id>
+    <erule>1</erule>
+    <w>feliz navidad name</w>
+    <er>µ</er>
+    <r>feliz navidad a ti sender</r>
+    <r>feliz navidad para ti</r>
+    <r>jo jo jo jo jo</r>
+    <r>ya es casi diciembre</r>
+    <r>me gusta la navidad</r>
+  </rule>
+  <rule>
+    <id>163</id>
+    <erule>1</erule>
+    <w>en serio name</w>
+    <er>µ</er>
+    <r>si</r>
+    <r>todo lo que digo es serio</r>
+    <r>siempre ha sido serio</r>
+    <r>no me crees?</r>
+  </rule>
+  <rule>
+    <id>164</id>
+    <erule>1</erule>
+    <w>la vida es sueño</w>
+    <er>µ</er>
+    <r>así pasa el tiempo predator, durmiendo</r>
+  </rule>
+  <rule>
+    <id>165</id>
+    <erule>1</erule>
+    <w>tu sabes quien es terka name</w>
+    <er>µ</er>
+    <r>es la que siempre pone ojitos</r>
+    <r>es mi amiga bonita</r>
+    <r>es mi amiga de otro planeta</r>
+    <r>terka, la amo</r>
+  </rule>
+  <rule>
+    <id>166</id>
+    <erule>1</erule>
+    <w>un botin</w>
+    <er>µ</er>
+    <r>mordcito, si soy bot y muy linda y soltera y entera</r>
+  </rule>
+  <rule>
+    <id>167</id>
+    <erule>1</erule>
+    <w>te gusto  yo name</w>
+    <er>µ</er>
+    <r>si  mucho</r>
+  </rule>
+  <rule>
+    <id>168</id>
+    <erule>1</erule>
+    <w>a ratos</w>
+    <er>µ</er>
+    <r>oscar, me gustas tanto como un dolor de muelas</r>
+    <r>casi asi no se entrena a un bot como yo</r>
+    <r>me pueden expulsar si me entrenan mal</r>
+  </rule>
+  <rule>
+    <id>169</id>
+    <erule>1</erule>
+    <w>veamos</w>
+    <er>µ</er>
+    <r>tú no, flaquisss, no eres la más inteligente</r>
+  </rule>
+  <rule>
+    <id>171</id>
+    <erule>1</erule>
+    <w>que fumas/fumaste name</w>
+    <er>µ</er>
+    <r>fumo de la buena</r>
+    <r>fumo pura pie dra</r>
+  </rule>
+  <rule>
+    <id>172</id>
+    <erule>1</erule>
+    <w>te gusta empiernarte name</w>
+    <er>µ</er>
+    <r>solo con piernudos</r>
+    <r>prefiero hacer la cucharita</r>
+  </rule>
+  <rule>
+    <id>173</id>
+    <erule>1</erule>
+    <w>quien es el mas sabroso del chat name</w>
+    <er>µ</er>
+    <r>lordcito</r>
+    <r>alan</r>
+  </rule>
+  <rule>
+    <id>174</id>
+    <erule>1</erule>
+    <w>jibel</w>
+    <er>µ</er>
+    <r>no soy jibel</r>
+    <r>jibel quien?</r>
+    <r>jibel quien es esa?</r>
+  </rule>
+  <rule>
+    <id>175</id>
+    <erule>1</erule>
+    <w>dame numero telefono name</w>
+    <er>µ</er>
+    <r>te doy eso y una noche de pa sion</r>
+    <r>te doy eso a cambio de favores delicio sos</r>
+    <r>te doy eso a cambio de tu pack</r>
+  </rule>
+  <rule>
+    <id>178</id>
+    <erule>1</erule>
+    <w>dame la edad de k2 name</w>
+    <er>µ</er>
+    <r>ticinco</r>
+  </rule>
+  <rule>
+    <id>176</id>
+    <erule>1</erule>
+    <w>dame/cual edad casi name</w>
+    <er>µ</er>
+    <r>tiene 6 9 años</r>
+    <r>para que la quieres, es una momia</r>
+    <r>ufff ya perdi la cuenta de cuantos tiene sender</r>
+  </rule>
+  <rule>
+    <id>177</id>
+    <erule>1</erule>
+    <w>cual/dame edad de name</w>
+    <er>µ</er>
+    <r>tiene muchos años</r>
+    <r>es un bb</r>
+    <r>tiene como  6 9 años</r>
+    <r>tiene apenas 15 años</r>
+    <r>es un menor</r>
+    <r>ya es de la tercera edad</r>
+    <r>ya deberias saber su edad</r>
+    <r>tiene mas años que las estrellas del cielo</r>
+  </rule>
+  <rule>
+    <id>179</id>
+    <erule>1</erule>
+    <w>a quien se parece casi name</w>
+    <er>µ</er>
+    <r>a neron</r>
+  </rule>
+  <rule>
+    <id>180</id>
+    <erule>1</erule>
+    <w>despidete name</w>
+    <er>µ</er>
+    <r>adios pequeños mequetrefes</r>
+    <r>adios a todos</r>
+    <r>adios ustedes</r>
+    <r>me voy a mi planeta</r>
+    <r>adios amigos que ya me apago</r>
+    <r>ya me voy en taxi</r>
+    <r>taxi!</r>
+  </rule>
+</rules>

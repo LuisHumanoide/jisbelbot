@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rules>
+  <rule>
+    <w>hola todos como/komo/joj estas</w>
+    <r>bien</r>
+    <r>muy bien</r>
+    <r>excelente</r>
+    <r>excelentisimo</r>
+  </rule>
+</rules>
