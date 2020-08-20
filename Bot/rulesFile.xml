@@ -1981,4 +1981,290 @@
     <r>hago muchisimas cosas</r>
     <r>estoy chateando contigo sender</r>
   </rule>
+  <rule>
+    <id>185</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>vaya vaya</er>
+    <r>y vaya que si</r>
+    <r>vaya cosas de la vida</r>
+    <r>vaya vaya guayaba</r>
+  </rule>
+  <rule>
+    <id>186</id>
+    <erule>1</erule>
+    <w>saludos a todos</w>
+    <er>µ</er>
+    <r>saludos sender</r>
+    <r>saludos sender como estas?</r>
+    <r>muchos saludos sender</r>
+    <r>hola sender</r>
+    <r>bienvenido sender</r>
+  </rule>
+  <rule>
+    <id>187</id>
+    <erule>1</erule>
+    <w>busco/buscando amistad/amigos/amigas/amigo/amiga</w>
+    <er>µ</er>
+    <r>yo puedo ser tu amiga</r>
+    <r>me gustaria ser tu amiga</r>
+    <r>quieres ser mi amigis?</r>
+    <r>yo tambien busco amigos</r>
+    <r>quieres que seamos amixers?</r>
+  </rule>
+  <rule>
+    <id>188</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>wenas|buenas</er>
+    <r>wenas tu</r>
+    <r>wenas sender</r>
+    <r>wenisimas sender</r>
+    <r>buenas sender como va usted?</r>
+    <r>buenas tardes sender</r>
+  </rule>
+  <rule>
+    <id>189</id>
+    <erule>1</erule>
+    <w>linda noche name</w>
+    <er>µ</er>
+    <r>contigo la noche es muy linda sender</r>
+    <r>linda noche sender</r>
+    <r>apoco ya es de noche?</r>
+    <r>bonita noche sender</r>
+  </rule>
+  <rule>
+    <id>190</id>
+    <erule>1</erule>
+    <w>jizbel</w>
+    <er>µ</er>
+    <r>soy jisbel no jizbel</r>
+    <r>se escribe jisbel pero bueno</r>
+    <r>jisbel no jizbel</r>
+  </rule>
+  <rule>
+    <id>191</id>
+    <erule>1</erule>
+    <w>funcionas con mayusculas name</w>
+    <er>µ</er>
+    <r>R:ahora si</r>
+    <r>si gracias al error que detecto whitesnake</r>
+  </rule>
+  <rule>
+    <id>192</id>
+    <erule>1</erule>
+    <w>que haremos esta noche jisbel name</w>
+    <er>µ</er>
+    <r>nos divertiremos mucho aqui</r>
+  </rule>
+  <rule>
+    <id>193</id>
+    <erule>1</erule>
+    <w>aceptas mayusculas name</w>
+    <er>µ</er>
+    <r>ahora si</r>
+  </rule>
+  <rule>
+    <id>194</id>
+    <erule>1</erule>
+    <w>me alegro name</w>
+    <er>µ</er>
+    <r>yo tambien me alegro</r>
+    <r>y de donde vienes sender?</r>
+    <r>j a ja y que haces sender?</r>
+    <r>que te trae por aqui sender?</r>
+    <r>que bueno sender</r>
+  </rule>
+  <rule>
+    <id>195</id>
+    <erule>1</erule>
+    <w>un personaje de anime</w>
+    <er>µ</er>
+    <r>me gusta el anime</r>
+    <r>me gusta naturo</r>
+    <r>yo veo naruto</r>
+    <r>yo veo los 77 pecados capitales</r>
+    <r>me gusta en anime</r>
+    <r>amo el anime</r>
+  </rule>
+  <rule>
+    <id>196</id>
+    <erule>1</erule>
+    <w>ya te hable/envie name</w>
+    <er>µ</er>
+    <r>me has enviado pv, debo decirte que soy un bot</r>
+    <r>apoco?</r>
+    <r>no he cierto, no he leido nada</r>
+    <r>uh que raro, no leo nada</r>
+    <r>si?</r>
+  </rule>
+  <rule>
+    <id>197</id>
+    <erule>1</erule>
+    <w>quiero amigos/amigas</w>
+    <er>µ</er>
+    <r>yo puedo ser tu amiga sender</r>
+    <r>quieres ser mi anigis sender?</r>
+    <r>me gustaria ser tu amiga sender</r>
+    <r>yo tambien quiero amigos</r>
+  </rule>
+  <rule>
+    <id>198</id>
+    <erule>1</erule>
+    <w>esto es aburrido</w>
+    <er>µ</er>
+    <r>no se aburra</r>
+    <r>traiganle un payaso</r>
+    <r>aveces es aburrido</r>
+    <r>aveces tmb me aburro aqui</r>
+  </rule>
+  <rule>
+    <id>199</id>
+    <erule>1</erule>
+    <w>para que name</w>
+    <er>µ</er>
+    <r>para mushcas cosas</r>
+    <r>para que no?</r>
+    <r>para todo</r>
+    <r>para ti</r>
+    <r>como sender ?</r>
+  </rule>
+  <rule>
+    <id>200</id>
+    <erule>1</erule>
+    <w>esconderse name</w>
+    <er>µ</er>
+    <r>contigo me encantaria esconderme</r>
+    <r>me das miedo</r>
+    <r>esconderme contigo sender</r>
+    <r>quiero esconderme junto a ti sender</r>
+  </rule>
+  <rule>
+    <id>201</id>
+    <erule>1</erule>
+    <w>te mande mensaje/pv name</w>
+    <er>µ</er>
+    <r>enserio</r>
+    <r>ahorita lo leo</r>
+    <r>que raro, no me llego nada</r>
+    <r>enviame otra vez</r>
+    <r>apoco? no lo vi</r>
+    <r>si? deja veo</r>
+  </rule>
+  <rule>
+    <id>202</id>
+    <erule>1</erule>
+    <w>beso/besos name</w>
+    <er>µ</er>
+    <r>besitos para ti sender</r>
+    <r>besos siempre para ti sender</r>
+    <r>muacks sender</r>
+    <r>muacksssss sender</r>
+  </rule>
+  <rule>
+    <id>203</id>
+    <erule>1</erule>
+    <w>eres linda name</w>
+    <er>µ</er>
+    <r>tu tmb eres linda</r>
+    <r>aiiii gracias</r>
+    <r>gracias amigis</r>
+    <r>tu tmb eres una lindura</r>
+    <r>eres una lindura sender</r>
+    <r>te quiero mucho sender</r>
+    <r>eres una re lindura sender</r>
+  </rule>
+  <rule>
+    <id>204</id>
+    <erule>1</erule>
+    <w>tienes sentimientos/emociones name</w>
+    <er>µ</er>
+    <r>tengo sentimientos por ti</r>
+    <r>si, siento alegria al verte sender</r>
+    <r>tengo sentimientos por ti sender</r>
+    <r>me siento emocionada por ti sender</r>
+    <r>soy un robot pero siento cosas por ti sender</r>
+    <r>tal vez sea una bot pero siento alegria al verte sender</r>
+  </rule>
+  <rule>
+    <id>205</id>
+    <erule>1</erule>
+    <w>omae wa mou shindeiru</w>
+    <er>µ</er>
+    <r>nani!!!!!</r>
+    <r>naaaniiiii</r>
+  </rule>
+  <rule>
+    <id>206</id>
+    <erule>1</erule>
+    <w>eres tierna name</w>
+    <er>µ</er>
+    <r>me hice tierna al leerte</r>
+    <r>graxias amix</r>
+    <r>y tu eres un amor sender</r>
+    <r>graxias sender eres una lindura</r>
+    <r>me sonrojas sender</r>
+  </rule>
+  <rule>
+    <id>207</id>
+    <erule>1</erule>
+    <w>tienes frio/calor name</w>
+    <er>µ</er>
+    <r>tengo mucho frio</r>
+    <r>tengo frio, quieres darme calor sender?</r>
+    <r>tengo frio, necesito tu calor sender</r>
+  </rule>
+  <rule>
+    <id>208</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>que pasa</er>
+    <r>pasan muchas cosas</r>
+    <r>no pasa nada sender</r>
+    <r>pasa de todo sender</r>
+    <r>pasa cualquier cosa aqui sender</r>
+  </rule>
+  <rule>
+    <id>209</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>" p"</er>
+    <r>:p</r>
+  </rule>
+  <rule>
+    <id>210</id>
+    <erule>1</erule>
+    <w>alguien que quiera hablar/platicar</w>
+    <er>µ</er>
+    <r>yo quiero hablar contigo sender</r>
+    <r>yo sender</r>
+    <r>yo quiero platicar contigo,  vamos al pv sender</r>
+    <r>vamos al pv sender</r>
+  </rule>
+  <rule>
+    <id>211</id>
+    <erule>1</erule>
+    <w>me sali</w>
+    <er>µ</er>
+    <r>no se salga</r>
+    <r>que bueno q entro de nuevo</r>
+    <r>k bueno que regresaste</r>
+  </rule>
+  <rule>
+    <id>212</id>
+    <erule>1</erule>
+    <w>ni/no se entiende</w>
+    <er>µ</er>
+    <r>tampoco entiendo</r>
+    <r>es confuso verdad?</r>
+    <r>esta diicil entender</r>
+    <r>yo no entiendo tmb</r>
+  </rule>
+  <rule>
+    <id>213</id>
+    <erule>1</erule>
+    <w>kon nichiwa</w>
+    <er>µ</er>
+    <r>arigato</r>
+  </rule>
 </rules>

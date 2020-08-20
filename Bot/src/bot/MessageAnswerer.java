@@ -97,7 +97,7 @@ public class MessageAnswerer extends PircBot {
         message = Colors.removeFormattingAndColors(message);
         Users.addUser(sender);
         if (message.length() < 1000) {
-            if (message.contains("aprende:") || message.contains("aprendenn:")) {
+            if (message.toLowerCase().contains("aprende:") || message.toLowerCase().contains("aprendenn:")) {
                 message = message.toLowerCase();
                 boolean nn = message.contains("aprendenn:");
                 message.replaceAll("r:", "");
@@ -120,7 +120,7 @@ public class MessageAnswerer extends PircBot {
                     this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar");
                 }
             }
-            if (message.contains("aprendeex:")) {
+            if (message.toLowerCase().contains("aprendeex:")) {
                 message = message.toLowerCase();
                 int indexTuser = Users.findTUser(sender);
                 if (indexTuser != -1) {
@@ -137,7 +137,7 @@ public class MessageAnswerer extends PircBot {
                     this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar");
                 }
             }
-            if (message.contains("r:")) {
+            if (message.toLowerCase().contains("r:")) {
                 message = message.replaceAll("aprendenn:", "");
                 message = message.replaceAll("aprende:", "");
                 int indexTuser = Users.findTUser(sender);
@@ -145,6 +145,7 @@ public class MessageAnswerer extends PircBot {
                     TesterUser tuser = Users.tusers.get(indexTuser);
                     if (tuser.hasQuestion()) {
                         String ans = message.replaceAll("r:", "");
+                        ans= ans.replaceAll("R:", "");
                         ans = ans.trim();
                         RulesList.createRule(tuser.getLastQuestion(), ans);
                         this.sendMessage(sender, Colors.DARK_BLUE + "tu respuesta ha sido registrada, puedes seguir mandando respuestas");

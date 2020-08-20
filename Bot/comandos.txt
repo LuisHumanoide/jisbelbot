@@ -92,17 +92,6 @@ que rollo con el pollo sender
 que pasa con carranza sender
 que rosca con la mosca sender
 -----
-(.*name.*(.*de donde eres.*|.*pais.*|.*eres.*|.*donde.*|.*lugar.*))|((.*de donde eres.*|.*pais.*|.*eres.*|.*donde.*|.*lugar.*).*name.*)
-Soy de peru
-soy de jamaica
-soy de tu corazon
-soy de mi casa
-soy de aqui
-soy made in ocio amixer
-de donde eres tu primeramente?
-eso es secreto sender
-soy de un lugar muy especial
------
 (.*name.*(.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*))|((.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*).*name.*)
 que bueno que este bien
 oh que genial

@@ -10,7 +10,7 @@ package bot;
  * @author HumanoideFilms
  */
 public class variables {
-    public static String channel="#jisbel";
+    public static String channel="#ocio";
     public static double score1=0.9;
     public static String name="Jisbel";
     public static double time1=5;
