@@ -22,7 +22,7 @@
   <rule>
     <id>2</id>
     <erule>1</erule>
-    <w>jisbel ignoras/ignorar/ignores</w>
+    <w>name ignoras/ignorar/ignores</w>
     <er>µ</er>
     <r>no te ignoro</r>
     <r>quien me hablo</r>
@@ -74,9 +74,9 @@
     <r>adios sender se feliz</r>
     <r>adiosito sender</r>
     <r>chau sender se muy feliz</r>
-    <r>que te vaya muy muy bien sender</r>
-    <r>te vere luego sender</r>
-    <r>vaya por la sombra.</r>
+    <r>que te vaya muy muy bien sender adios</r>
+    <r>te vere luego sender, adios</r>
+    <r>adios sender vaya por la sombra.</r>
   </rule>
   <rule>
     <id>10</id>
@@ -1332,6 +1332,15 @@
     <w>como estas name</w>
     <er>µ</er>
     <r>Muy bien!</r>
+    <r>bien sender y tu?</r>
+    <r>excelente sender</r>
+    <r>no muy bien</r>
+    <r>buena pregunta sender, como estas tu?</r>
+    <r>estaba bien, pero ahora estoy  mejor</r>
+    <r>de maravilla y tu?</r>
+    <r>estoy triste</r>
+    <r>estoy muy triste</r>
+    <r>estoy aburrida sender</r>
   </rule>
   <rule>
     <id>111</id>
@@ -1959,5 +1968,17 @@
     <w>como cambio el/mi nick/nombre</w>
     <er>µ</er>
     <r>sender usa el comando "/nick tuNuevoNombre"</r>
+  </rule>
+  <rule>
+    <id>184</id>
+    <erule>1</erule>
+    <w>que haces name</w>
+    <er>µ</er>
+    <r>hago muchas cosas</r>
+    <r>que haces tu?</r>
+    <r>no se que hago sender</r>
+    <r>escucho musica sender</r>
+    <r>hago muchisimas cosas</r>
+    <r>estoy chateando contigo sender</r>
   </rule>
 </rules>

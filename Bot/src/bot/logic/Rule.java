@@ -5,6 +5,7 @@
  */
 package bot.logic;
 
+import bot.Markov.MarkovGraph;
 import bot.Strings;
 import bot.variables;
 import java.util.ArrayList;
@@ -89,8 +90,28 @@ public class Rule {
     }
 
     public String getRandomResponse() {
+        Msg.print("- - - - - - - - random responde");
         double value = Math.random() * responses.size();
         return responses.get((int) value);
+    }
+
+    public String getMarkovResponse() {
+        Msg.print("- - - - - - - - markov responde");
+        MarkovGraph graph = new MarkovGraph();
+        for (String input : responses) {
+            graph.train(input);
+        }
+        return graph.getPhrase();
+    }
+
+    public String getResponse() {
+        String response;
+        if (variables.markov) {
+            response = getMarkovResponse();
+        } else {
+            response = getRandomResponse();
+        }
+        return response;
     }
 
     public boolean willRespond(String sentence) {

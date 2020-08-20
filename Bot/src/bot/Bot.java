@@ -15,7 +15,8 @@ import org.jibble.pircbot.IrcException;
 
 /**
  *
- * @author HumanoideFilms
+ * @author LordClocker
+ * funciones de Markov por Michael W Flaherty
  */
 public class Bot {
 

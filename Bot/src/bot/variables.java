@@ -18,4 +18,5 @@ public class variables {
     public static int deadTimeLimit=300;
     public static double readProbability=0.95;
     public static boolean log=true;
+    public static boolean markov=true;
 }

@@ -21,11 +21,12 @@ public class Gui extends javax.swing.JFrame {
      * Creates new form Gui
      */
     MessageAnswerer bot;
+
     public Gui(MessageAnswerer bot) {
         initComponents();
-        probability.setText(variables.readProbability+"");
+        probability.setText(variables.readProbability + "");
         setVisible(true);
-        this.bot=bot;
+        this.bot = bot;
     }
 
     /**
@@ -163,23 +164,23 @@ public class Gui extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        String message=jTextArea1.getText();
+        String message = jTextArea1.getText();
         jTextArea1.setText("");
         bot.sendMessageRemote(message);
-        
+
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
         Listas.reloadList();
         XMLFileUtils.readRules();
-        variables.readProbability=Double.parseDouble(probability.getText());
+        variables.readProbability = Double.parseDouble(probability.getText());
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
-        String react=fieldReact.getText();
-        String answers[]=fieldAnswers.getText().split("\n");
+        String react = fieldReact.getText();
+        String answers[] = fieldAnswers.getText().split("\n");
         RulesList.createRule(react, answers);
         fieldReact.setText("");
         fieldAnswers.setText("");
@@ -187,19 +188,29 @@ public class Gui extends javax.swing.JFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
-        String command=commandField.getText();
-        if(command.contains("addTester:")){
-            String tester=command.replaceAll("addTester:", "");
-            tester=tester.trim();
+        String command = commandField.getText();
+        if (command.contains("addTester:")) {
+            String tester = command.replaceAll("addTester:", "");
+            tester = tester.trim();
             Users.addTesterUser(tester);
             commandField.setText("addTester:");
         }
-         if(command.contains("removeTester:")){
-            String tester=command.replaceAll("removeTester:", "");
-            tester=tester.trim();
-            Msg.print(Users.findTUser(tester)+" el index del tester");
+        if (command.contains("removeTester:")) {
+            String tester = command.replaceAll("removeTester:", "");
+            tester = tester.trim();
+            Msg.print(Users.findTUser(tester) + " el index del tester");
             Users.removeTesterUser(tester);
             commandField.setText("removeTester:");
+        }
+        if (command.equals("markovOn")) {
+            variables.markov=true;
+            Msg.print("activado markov");
+            commandField.setText("");
+        }
+        if (command.equals("markovOff")) {
+            variables.markov=false;
+            Msg.print("desactivado markov");
+            commandField.setText("");
         }
     }//GEN-LAST:event_jButton4ActionPerformed
 

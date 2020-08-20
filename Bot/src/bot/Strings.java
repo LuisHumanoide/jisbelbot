@@ -5,6 +5,7 @@
  */
 package bot;
 
+import bot.Markov.MarkovGraph;
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -44,9 +45,27 @@ public class Strings {
         }
         return true;
     }
-    
-    public static String chooseMessage(ArrayList<String> list){
-        int random=(int) (Math.random()*list.size());
+
+    public static String chooseMessage(ArrayList<String> list) {
+        String response;
+        if (variables.markov) {
+            response = randomMessage(list);
+        } else {
+            response = markovMessage(list);
+        }
+        return response;
+    }
+
+    public static String randomMessage(ArrayList<String> list) {
+        int random = (int) (Math.random() * list.size());
         return list.get(random);
+    }
+
+    public static String markovMessage(ArrayList<String> list) {
+        MarkovGraph graph = new MarkovGraph();
+        for (String input : list) {
+            graph.train(input);
+        }
+        return graph.getPhrase();
     }
 }

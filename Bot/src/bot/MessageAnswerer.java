@@ -242,7 +242,7 @@ public class MessageAnswerer extends PircBot {
                 if (bestRule != null) {
                     Msg.print("se cumplio la regla r" + bestRule.id);
                     Users.addRule(sender, bestRule.id);
-                    addMsg(color + bestRule.getRandomResponse().replaceAll("sender", sender).replaceAll("channel", channel), dest);
+                    addMsg(color + bestRule.getResponse().replaceAll("sender", sender).replaceAll("channel", channel), dest);
                     return;
                 }
             }
