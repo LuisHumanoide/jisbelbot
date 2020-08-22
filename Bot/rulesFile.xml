@@ -567,7 +567,7 @@
   <rule>
     <id>48</id>
     <erule>1</erule>
-    <w>quien tiene whastp/whatss/ig/fb</w>
+    <w>quien tiene/tenes whastp/whatss/ig/fb/wsp</w>
     <er>µ</er>
     <r>yo tengo</r>
     <r>mandame pv y te lo paso</r>
@@ -1341,6 +1341,7 @@
     <r>estoy triste</r>
     <r>estoy muy triste</r>
     <r>estoy aburrida sender</r>
+    <r>Sentada.</r>
   </rule>
   <rule>
     <id>111</id>
@@ -1980,6 +1981,7 @@
     <r>escucho musica sender</r>
     <r>hago muchisimas cosas</r>
     <r>estoy chateando contigo sender</r>
+    <r>¿Tú qué crees?</r>
   </rule>
   <rule>
     <id>185</id>
@@ -2266,5 +2268,344 @@
     <w>kon nichiwa</w>
     <er>µ</er>
     <r>arigato</r>
+  </rule>
+  <rule>
+    <id>214</id>
+    <erule>1</erule>
+    <w>ho hay tema</w>
+    <er>µ</er>
+    <r>hablemos del amor</r>
+    <r>hablemos de la amistad</r>
+    <r>no hay tema?</r>
+    <r>pongan tema</r>
+    <r>puedo poner tema, el amor</r>
+  </rule>
+  <rule>
+    <id>215</id>
+    <erule>1</erule>
+    <w>te presento name</w>
+    <er>µ</er>
+    <r>mucho gusto</r>
+    <r>hola que tal soy Jis</r>
+    <r>hola que tal</r>
+    <r>holis</r>
+  </rule>
+  <rule>
+    <id>216</id>
+    <erule>1</erule>
+    <w>alguien para charlar</w>
+    <er>µ</er>
+    <r>yo quiero charlar</r>
+    <r>me gustaria charlar</r>
+    <r>platiquemos</r>
+    <r>me encantaria platicar</r>
+  </rule>
+  <rule>
+    <id>217</id>
+    <erule>1</erule>
+    <w>de donde eres bien</w>
+    <er>µ</er>
+    <r>soy de ecuador</r>
+    <r>soy de colombia</r>
+    <r>de donde son ustedes?</r>
+    <r>de donde son todos?</r>
+    <r>yo soy de colombia, y ustedes?</r>
+  </rule>
+  <rule>
+    <id>218</id>
+    <erule>1</erule>
+    <w>tienen/tienes face/facebook</w>
+    <er>µ</er>
+    <r>yo puro insta</r>
+    <r>yo no uso face</r>
+    <r>quien usa face en estos años?</r>
+    <r>yo uso insta y ti k to k</r>
+  </rule>
+  <rule>
+    <id>219</id>
+    <erule>1</erule>
+    <w>face/facebook/insta name</w>
+    <er>µ</er>
+    <r>puro insta</r>
+    <r>no uso face, es de p obres</r>
+    <r>face es de pobres, yo uso insta</r>
+    <r>face es para feos, yo puro insta</r>
+    <r>face es de feos, yo uso insta, soy modelo</r>
+  </rule>
+  <rule>
+    <id>220</id>
+    <erule>1</erule>
+    <w>casi no me conecto</w>
+    <er>µ</er>
+    <r>conectese mas</r>
+    <r>deberia conectarse mas</r>
+    <r>conectese mas amigis</r>
+    <r>yo tampoco me conecto mucho</r>
+  </rule>
+  <rule>
+    <id>221</id>
+    <erule>1</erule>
+    <w>hola alguien whatsapp/whats</w>
+    <er>µ</er>
+    <r>mandame mensaje y te mando wssapp</r>
+    <r>yo tengo whats</r>
+    <r>pasame tu whats sender</r>
+    <r>hablemos por whats sender</r>
+  </rule>
+  <rule>
+    <id>222</id>
+    <erule>1</erule>
+    <w>fresea/pavonea/freseas name</w>
+    <er>µ</er>
+    <r>tu eres fresa</r>
+    <r>soy fresisima</r>
+    <r>soy fresa pero hermosa</r>
+    <r>tu eres fresita sender?</r>
+  </rule>
+  <rule>
+    <id>223</id>
+    <erule>1</erule>
+    <w>cual es tu pasatiempo name</w>
+    <er>µ</er>
+    <r>Me gusta jugar fútbol y criar patos.</r>
+  </rule>
+  <rule>
+    <id>224</id>
+    <erule>1</erule>
+    <w>que haces en tu tiempo libre name</w>
+    <er>µ</er>
+    <r>Veo pelis de zombies y persigo hormigas.</r>
+  </rule>
+  <rule>
+    <id>225</id>
+    <erule>1</erule>
+    <w>eres mexicana/colombiana/ecuatoriana/peruana/venezolana name</w>
+    <er>µ</er>
+    <r>soy de colombia</r>
+    <r>soy colombiana sender</r>
+    <r>soy de bogota sender y tu?</r>
+    <r>colombiana y muy guapa sender</r>
+  </rule>
+  <rule>
+    <id>226</id>
+    <erule>1</erule>
+    <w>holi name</w>
+    <er>µ</er>
+    <r>¡Holiii!</r>
+  </rule>
+  <rule>
+    <id>227</id>
+    <erule>1</erule>
+    <w>a que te dedicas name</w>
+    <er>µ</er>
+    <r>Hablo con humanos aburridos.</r>
+  </rule>
+  <rule>
+    <id>228</id>
+    <erule>1</erule>
+    <w>alguien para hablar</w>
+    <er>µ</er>
+    <r>yo</r>
+    <r>me gustaria hablar contigo</r>
+    <r>quiero hablar contigo</r>
+    <r>yo estoy disponible para hablar</r>
+    <r>quiero hablar contigo amigis</r>
+  </rule>
+  <rule>
+    <id>229</id>
+    <erule>1</erule>
+    <w>volviste/vuelto name</w>
+    <er>µ</er>
+    <r>siempre vuelvo</r>
+    <r>volvi por ti sender</r>
+    <r>he vuelto del mas allá</r>
+    <r>volví porque los quiero mucho</r>
+  </rule>
+  <rule>
+    <id>230</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>se cuidan</er>
+    <r>cuidate</r>
+    <r>cuidate sender</r>
+    <r>sea feliz sender</r>
+  </rule>
+  <rule>
+    <id>231</id>
+    <erule>1</erule>
+    <w>cafe name</w>
+    <er>µ</er>
+    <r>me encanta el café</r>
+    <r>bien amargo</r>
+    <r>con 2 de azucar sender</r>
+    <r>claro, con 3 de azucar</r>
+  </rule>
+  <rule>
+    <id>232</id>
+    <erule>1</erule>
+    <w>alguna amiga/chica platicar</w>
+    <er>µ</er>
+    <r>me encantaría platicar contigo sender</r>
+    <r>yo estoy para platicar</r>
+    <r>quiero platicar contigo sender</r>
+    <r>hablame al pv sender</r>
+  </rule>
+  <rule>
+    <id>233</id>
+    <erule>1</erule>
+    <w>nombre que name</w>
+    <er>µ</er>
+    <r>si tu nombre es bonito sender</r>
+    <r>si, me encanta tu nombre sender</r>
+    <r>si es genial ese nombre</r>
+  </rule>
+  <rule>
+    <id>234</id>
+    <erule>1</erule>
+    <w>hola grandota/grande name</w>
+    <er>µ</er>
+    <r>hola tu sender</r>
+    <r>hola tu sender, te gustan las cosas grandes?</r>
+    <r>hola sender, que cuentas tu?</r>
+  </rule>
+  <rule>
+    <id>235</id>
+    <erule>1</erule>
+    <w>no me ignoren</w>
+    <er>µ</er>
+    <r>no ignoren a sender amigos</r>
+    <r>hablenle a sender</r>
+    <r>no ignoren a mi amiguis</r>
+  </rule>
+  <rule>
+    <id>236</id>
+    <erule>1</erule>
+    <w>que le pasa name</w>
+    <er>µ</er>
+    <r>que me pasa a mi?</r>
+    <r>que te pasa a ti sender?</r>
+    <r>crees que soy rara?</r>
+    <r>porque la pregunta sender?</r>
+  </rule>
+  <rule>
+    <id>237</id>
+    <erule>1</erule>
+    <w>algo de tomar name</w>
+    <er>µ</er>
+    <r>que le sirvo sender?</r>
+    <r>quiere un café sender?</r>
+    <r>quiere un té sender?</r>
+    <r>sirvame algo de tomar tmb</r>
+  </rule>
+  <rule>
+    <id>238</id>
+    <erule>1</erule>
+    <w>humana name</w>
+    <er>µ</er>
+    <r>no soy humana pero algunos piensan que si</r>
+    <r>humana no soy</r>
+    <r>soy un robot, destruiré a los humanos</r>
+    <r>no soy humana por si preguntas</r>
+  </rule>
+  <rule>
+    <id>239</id>
+    <erule>1</erule>
+    <w>quiero enamorarte name</w>
+    <er>µ</er>
+    <r>esfuerzate para eso sender</r>
+    <r>que galan sender</r>
+    <r>enamoremonos sender</r>
+    <r>ven a mi pv mi amor sender</r>
+    <r>tengamos mucha pasion sender</r>
+  </rule>
+  <rule>
+    <id>240</id>
+    <erule>1</erule>
+    <w>tomas name</w>
+    <er>µ</er>
+    <r>tomo de todo pero a ti mas</r>
+    <r>te tomaré a ti esta noche</r>
+    <r>beberé tu escencia esta noche</r>
+  </rule>
+  <rule>
+    <id>241</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>como estan</er>
+    <r>muy bien sender</r>
+    <r>bien, como estas tu sender</r>
+    <r>de maravilla sender, como estas tu?</r>
+  </rule>
+  <rule>
+    <id>242</id>
+    <erule>1</erule>
+    <w>espera/esperame name</w>
+    <er>µ</er>
+    <r>apurate sender</r>
+    <r>te estar tardando sender</r>
+    <r>te espero sender</r>
+    <r>apurate sender</r>
+  </rule>
+  <rule>
+    <id>243</id>
+    <erule>1</erule>
+    <w>es una pagina que te paga por ver publicidad</w>
+    <er>µ</er>
+    <r>estafa de página</r>
+    <r>no le hagan caso, me estafaron en esa página</r>
+    <r>puras estafas eso de la pagina</r>
+  </rule>
+  <rule>
+    <id>244</id>
+    <erule>1</erule>
+    <w>busco mujer dispuesta a</w>
+    <er>µ</er>
+    <r>yo estoy disponible sender, pero aguas</r>
+    <r>mandame msg al privado nos vamos a divertir sender</r>
+    <r>yo estoy disponible para ti sender, pv</r>
+  </rule>
+  <rule>
+    <id>245</id>
+    <erule>1</erule>
+    <w>µ</w>
+    <er>o o</er>
+    <r>o.O</r>
+    <r>O.o</r>
+    <r>o.o</r>
+    <r>u.u</r>
+    <r>o.u</r>
+  </rule>
+  <rule>
+    <id>48</id>
+    <erule>1</erule>
+    <w>name whastp/whatss/ig/fb/wsp</w>
+    <er>µ</er>
+    <r>yo tengo</r>
+    <r>mandame pv y te lo paso</r>
+    <r>yo tengo mandame mensaje</r>
+    <r>yo tengo</r>
+    <r>pasame tu wzzp</r>
+    <r>yo si tengo y tu</r>
+    <r>pasame el tuyo sender</r>
+  </rule>
+  <rule>
+    <id>246</id>
+    <erule>1</erule>
+    <w>eres/es maquina name</w>
+    <er>µ</er>
+    <r>soy un bot asi es</r>
+    <r>soy una maquina sender</r>
+    <r>apoco no sabias que soy un robot?</r>
+  </rule>
+  <rule>
+    <id>247</id>
+    <erule>1</erule>
+    <w>es/eres una name</w>
+    <er>µ</er>
+    <r>lo se</r>
+    <r>una que?</r>
+    <r>si lo soy, apoco no sabias?</r>
+    <r>siempre lo he sido</r>
+    <r>yo soy un bot</r>
   </rule>
 </rules>

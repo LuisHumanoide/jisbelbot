@@ -48,7 +48,7 @@ public class Strings {
 
     public static String chooseMessage(ArrayList<String> list) {
         String response;
-        if (variables.markov) {
+        if (!variables.markov) {
             response = randomMessage(list);
         } else {
             response = markovMessage(list);
