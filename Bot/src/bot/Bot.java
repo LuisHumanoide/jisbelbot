@@ -15,8 +15,7 @@ import org.jibble.pircbot.IrcException;
 
 /**
  *
- * @author LordClocker
- * funciones de Markov por Michael W Flaherty
+ * @author LordClocker funciones de Markov por Michael W Flaherty
  */
 public class Bot {
 
@@ -24,8 +23,8 @@ public class Bot {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
-               // Now start our bot up.
+
+        // Now start our bot up.
         MessageAnswerer bot = new MessageAnswerer();
         RulesList.initList();
         XMLFileUtils.readRules();
@@ -34,9 +33,10 @@ public class Bot {
         bot.setVerbose(true);
         loadCommands();
         
+
         try {
 
-         bot.connect("irc.chatzona.org");
+            bot.connect("irc.chatzona.org", 6667, variables.pass);
         } catch (IOException ex) {
             Logger.getLogger(Bot.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IrcException ex) {
@@ -45,14 +45,19 @@ public class Bot {
 
         bot.joinChannel(variables.channel);
     }
-    
-    public static void loadCommands(){
-        for(int i=0;i<Listas.commands.size();i++){
-            Comands c=new Comands();
-            String commandstr[]=Listas.commands.get(i).split("\n");
+
+    public static void loadCommands() {
+        for (int i = 0; i < Listas.commands.size(); i++) {
+            Comands c = new Comands();
+            String commandstr[] = Listas.commands.get(i).split("\n");
             c.generateCommands(commandstr);
             Listas.commandList.add(c);
         }
+        Comands.readComands();
     }
     
+    public static void fillUsers(){
+        
+    }
+
 }

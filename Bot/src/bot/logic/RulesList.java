@@ -145,13 +145,15 @@ public class RulesList {
         for (Rule r : RulesList.ruleList) {
             String[] sarray = message.toLowerCase().split(" ");
             double[] scores = r.contains(sarray);
+            
             if (scores[0] > variables.score1 || r.matchER(message)) {
                 //return true;
                 if (r.matchER(message)) {
-                    bestScore = 50;
+                    bestScore = 100;
                     Msg.print("se cumple una expresion regular");
                     bestRule = r;
                 }
+                System.out.println(" scores ---- "+scores[0]+" scores 1 "+(double)scores[1]);
                 if (scores[1] > bestScore) {
                     bestScore = scores[1];
                     bestRule = r;
@@ -160,6 +162,7 @@ public class RulesList {
                 //return false;
             }
         }
+
         return bestRule;
     }
 

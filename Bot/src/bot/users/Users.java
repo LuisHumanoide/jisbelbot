@@ -154,6 +154,10 @@ public class Users {
         }
         return index;
     }
+    
+    public static User getUser(String name){
+        return users.get(findUser(name));
+    }
 
     /**
      * encuentra un usuario entrenador

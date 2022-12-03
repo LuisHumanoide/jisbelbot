@@ -5,6 +5,8 @@
  */
 package bot;
 
+import bot.files.FileUtils;
+import java.io.File;
 import java.util.ArrayList;
 
 /**
@@ -15,6 +17,7 @@ public class Comands {
     
     String expression;
     ArrayList<String> responses;
+    public static ArrayList<String> commands;
     
     void generateCommands(String[] arr){
         expression=arr[0];
@@ -24,7 +27,17 @@ public class Comands {
         }
         System.out.println("expression : "+expression);
         System.out.println("responses : "+responses.toString());
-
     }
+    
+    public static void readComands(){
+        commands=new ArrayList<String>();
+        String cad=FileUtils.readFile(new File("commands.txt"));
+        String lines[]=cad.split("\n");
+        for(String line:lines){
+            commands.add(line);
+        }
+    }
+    
+    
     
 }

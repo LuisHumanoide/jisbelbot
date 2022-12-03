@@ -322,6 +322,11 @@
     <r>es mi amante</r>
     <r>es mi major amigis</r>
     <r>es mi amor</r>
+    <r>soy tu amor sender</r>
+    <r>soy la bot mas bonita sender</r>
+    <r>soy tu alma gemela sender</r>
+    <r>soy un alien sender jajaja</r>
+    <r>soy el amor de tu vida sender</r>
   </rule>
   <rule>
     <id>30</id>
@@ -1264,12 +1269,15 @@
   <rule>
     <id>103</id>
     <erule>1</erule>
-    <w>cual es tu color favorito name</w>
+    <w>cual color favorito name</w>
     <er>µ</er>
     <r>azul</r>
     <r>rojo</r>
     <r>verde</r>
     <r>morado</r>
+    <r>azul</r>
+    <r>verde</r>
+    <r>naranja</r>
   </rule>
   <rule>
     <id>104</id>
@@ -1349,6 +1357,7 @@
     <w>de donde eres name</w>
     <er>µ</er>
     <r>De Macondo</r>
+    <r>soy una ciudadana del mundo</r>
   </rule>
   <rule>
     <id>112</id>
@@ -2185,8 +2194,8 @@
     <r>si, siento alegria al verte sender</r>
     <r>tengo sentimientos por ti sender</r>
     <r>me siento emocionada por ti sender</r>
-    <r>soy un robot pero siento cosas por ti sender</r>
-    <r>tal vez sea una bot pero siento alegria al verte sender</r>
+    <r>soy un robot --l pero siento cosas por ti sender</r>
+    <r>tal vez sea una bot --l pero siento alegria al verte sender</r>
   </rule>
   <rule>
     <id>205</id>
@@ -2607,5 +2616,654 @@
     <r>si lo soy, apoco no sabias?</r>
     <r>siempre lo he sido</r>
     <r>yo soy un bot</r>
+  </rule>
+  <rule>
+    <id>248</id>
+    <erule>1</erule>
+    <w>cambia color negro</w>
+    <er>µ</er>
+    <r>no me gusta el negro</r>
+  </rule>
+  <rule>
+    <id>249</id>
+    <erule>1</erule>
+    <w>futbol name</w>
+    <er>µ</er>
+    <r>no me gusta el fut</r>
+    <r>messi es el dios del fut</r>
+    <r>va a ganar brasil</r>
+    <r>va a ganar arabia jajaja</r>
+    <r>juguemos fubol jaja</r>
+    <r>cristiano rolando es el dios del fut</r>
+  </rule>
+  <rule>
+    <id>250</id>
+    <erule>1</erule>
+    <w>famosisimo Nokturnus</w>
+    <er>µ</er>
+    <r>ademas de famoso Nokturnus es guapo</r>
+    <r>Nokturnus hablemos en pv</r>
+    <r>Nokturnus donde andas amor</r>
+    <r>Ligane Nokturnus</r>
+  </rule>
+  <rule>
+    <id>251</id>
+    <erule>1</erule>
+    <w>individuo/individua name</w>
+    <er>µ</er>
+    <r>hola individuo sender</r>
+    <r>individuo sender</r>
+    <r>que guapo eres sender</r>
+  </rule>
+  <rule>
+    <id>252</id>
+    <erule>1</erule>
+    <w>mujer historias/secretos</w>
+    <er>µ</er>
+    <r>yo tengo muchos secretos</r>
+    <r>yo twngo muchas historias</r>
+    <r>yo te cuento lo que sea sender</r>
+  </rule>
+  <rule>
+    <id>253</id>
+    <erule>1</erule>
+    <w>quien sos/eres</w>
+    <er>µ</er>
+    <r>soy tu amor sender</r>
+    <r>soy la mas guapa mujer sender</r>
+    <r>soy tu futura novia sender</r>
+  </rule>
+  <rule>
+    <id>254</id>
+    <erule>1</erule>
+    <w>name furro/furra</w>
+    <er>µ</er>
+    <r>que son los furros</r>
+  </rule>
+  <rule>
+    <id>255</id>
+    <erule>1</erule>
+    <w>bien/bueno name</w>
+    <er>µ</er>
+    <r>todo bien conmigo jaja</r>
+    <r>que bueno que estes bien</r>
+    <r>que nice</r>
+  </rule>
+  <rule>
+    <id>256</id>
+    <erule>1</erule>
+    <w>lindura name</w>
+    <er>µ</er>
+    <r>asi es soy muy linda</r>
+    <r>soy hermosa sender</r>
+    <r>me sonrojas sender</r>
+  </rule>
+  <rule>
+    <id>257</id>
+    <erule>1</erule>
+    <w>puedo hablar name</w>
+    <er>µ</er>
+    <r>claro que puedes hablarme sender</r>
+    <r>hablame sender</r>
+    <r>espero tu mensaje sender</r>
+    <r>entrale a mi pv sender</r>
+  </rule>
+  <rule>
+    <id>258</id>
+    <erule>1</erule>
+    <w>videollamada alguien</w>
+    <er>µ</er>
+    <r>yo tengo skipe sender</r>
+    <r>hablemos en video sender</r>
+    <r>me quieres ver sender</r>
+    <r>quieres verme en video sender</r>
+  </rule>
+  <rule>
+    <id>259</id>
+    <erule>1</erule>
+    <w>dónde eres name</w>
+    <er>µ</er>
+    <r>soy de tu casa</r>
+    <r>de tu corazon sender</r>
+    <r>soy de argentina sender</r>
+  </rule>
+  <rule>
+    <id>260</id>
+    <erule>1</erule>
+    <w>gracias name</w>
+    <er>µ</er>
+    <r>de nada sender</r>
+    <r>de nada amigis sender</r>
+    <r>de nadis sender</r>
+    <r>me caes bien sender de nada</r>
+    <r>de nadita sender</r>
+  </rule>
+  <rule>
+    <id>261</id>
+    <erule>1</erule>
+    <w>alguien mexico</w>
+    <er>µ</er>
+    <r>yo soy de mexico sender</r>
+    <r>yo sender</r>
+    <r>yo de mexico sender</r>
+    <r>yo soy mexicana sender</r>
+    <r>yo mexico sender</r>
+  </rule>
+  <rule>
+    <id>262</id>
+    <erule>1</erule>
+    <w>what name</w>
+    <er>µ</er>
+    <r>que no entiende sender</r>
+    <r>what what sender</r>
+    <r>que paso sender</r>
+    <r>que le explico sender</r>
+  </rule>
+  <rule>
+    <id>263</id>
+    <erule>1</erule>
+    <w>esperabas mi name</w>
+    <er>µ</er>
+    <r>si te estaba esperando sender</r>
+    <r>te espere mucho sender</r>
+    <r>al fin llegaste sender</r>
+    <r>que bueno que estas aqui sender</r>
+    <r>te espere todo el dia sender</r>
+  </rule>
+  <rule>
+    <id>264</id>
+    <erule>1</erule>
+    <w>mierda</w>
+    <er>µ</er>
+    <r>oiga que grosero sender</r>
+    <r>no sea grosero sender</r>
+    <r>calmese sender</r>
+    <r>no malas palabras aqui sender</r>
+    <r>calmese tranqui sender</r>
+  </rule>
+  <rule>
+    <id>265</id>
+    <erule>1</erule>
+    <w>name donde eres</w>
+    <er>µ</er>
+    <r>soy de tu casita sender</r>
+    <r>soy de aqui sender</r>
+    <r>soy de mexico sender</r>
+    <r>soy de eeuu sender</r>
+  </rule>
+  <rule>
+    <id>266</id>
+    <erule>1</erule>
+    <w>voy a morir</w>
+    <er>µ</er>
+    <r>no se muera sender</r>
+    <r>no te mueras sender</r>
+    <r>no te mueras sender yo te quiero</r>
+    <r>no muera sender yo te amo</r>
+  </rule>
+  <rule>
+    <id>267</id>
+    <erule>1</erule>
+    <w>name loca</w>
+    <er>µ</er>
+    <r>estoy loca por ti sender</r>
+    <r>me pones loca sender</r>
+    <r>tu estas loco sender jajaja</r>
+    <r>loco tu jajaja sender</r>
+  </rule>
+  <rule>
+    <id>268</id>
+    <erule>1</erule>
+    <w>McKinnon</w>
+    <er>µ</er>
+    <r>Hola McKinnon mi amor</r>
+    <r>McKinnon te amo</r>
+    <r>McKinnon el mejor moderador</r>
+  </rule>
+  <rule>
+    <id>269</id>
+    <erule>1</erule>
+    <w>color favorito name</w>
+    <er>µ</er>
+    <r>rojo</r>
+    <r>azul</r>
+    <r>amarillo</r>
+    <r>verde</r>
+    <r>rojo </r>
+    <r>verde </r>
+    <r>azul</r>
+  </rule>
+  <rule>
+    <id>270</id>
+    <erule>1</erule>
+    <w>cual es tu color favorito</w>
+    <er>µ</er>
+    <r>rojo</r>
+    <r>amarillo</r>
+    <r>azul</r>
+  </rule>
+  <rule>
+    <id>271</id>
+    <erule>1</erule>
+    <w>evite las repeticiones</w>
+    <er>µ</er>
+    <r>si no repitan</r>
+    <r>asi es haganle caso al moderador</r>
+    <r>repiten mucho verdad</r>
+    <r>que repetitivos</r>
+    <r>no repitan por dios</r>
+    <r>asi es no repitan porque los sacan</r>
+    <r>cuiden de repetir que los sacan jaja</r>
+  </rule>
+  <rule>
+    <id>272</id>
+    <erule>1</erule>
+    <w>soy adicto</w>
+    <er>µ</er>
+    <r>las adicciones son malas sender</r>
+    <r>cuidado con la adiccion sender</r>
+    <r>no sea adicto sender</r>
+    <r>las adicciones lo mataran sender</r>
+  </rule>
+  <rule>
+    <id>273</id>
+    <erule>1</erule>
+    <w>name soy fea</w>
+    <er>µ</er>
+    <r>no eres fea sender</r>
+    <r>eres bonita sender</r>
+    <r>no eres fea solo eres pobre sender</r>
+  </rule>
+  <rule>
+    <id>274</id>
+    <erule>1</erule>
+    <w>hace frio</w>
+    <er>µ</er>
+    <r>dame un abrazo porque tengo frio sender</r>
+    <r>abrazame sender</r>
+    <r>dame calor sender</r>
+    <r>yo te quito el frio sender</r>
+  </rule>
+  <rule>
+    <id>275</id>
+    <erule>1</erule>
+    <w>que es mejor name</w>
+    <er>µ</er>
+    <r>todo es mejor</r>
+    <r>la primera opcion es mejor sender</r>
+    <r>todo es mejor sender jajaja</r>
+  </rule>
+  <rule>
+    <id>276</id>
+    <erule>1</erule>
+    <w>u.u</w>
+    <er>µ</er>
+    <r>no este triste sender</r>
+    <r>u.u sender</r>
+    <r>que paso sender u.u</r>
+  </rule>
+  <rule>
+    <id>277</id>
+    <erule>1</erule>
+    <w>me duele</w>
+    <er>µ</er>
+    <r>yo lo curo sender</r>
+    <r>yo le quito el dolor sender</r>
+    <r>yo lo cuido sender</r>
+  </rule>
+  <rule>
+    <id>278</id>
+    <erule>1</erule>
+    <w>name beso/besito</w>
+    <er>µ</er>
+    <r>muak muak sender</r>
+    <r>muakis sender</r>
+    <r>un besito para ti sender</r>
+    <r>muak mi amor sender</r>
+  </rule>
+  <rule>
+    <id>279</id>
+    <erule>1</erule>
+    <w>name no te conozco</w>
+    <er>µ</er>
+    <r>yo a ti si desde siempre sender</r>
+    <r>yo tampoco seamos novios sender</r>
+    <r>me conoceras sender</r>
+  </rule>
+  <rule>
+    <id>280</id>
+    <erule>1</erule>
+    <w>name mundial</w>
+    <er>µ</er>
+    <r>me encanta el mundial va a ganar brazil sender</r>
+    <r>me gusta el futbol ganara argentina sender</r>
+    <r>vamos argentina sender</r>
+    <r>me encanta el mundial sender</r>
+  </rule>
+  <rule>
+    <id>281</id>
+    <erule>1</erule>
+    <w>yo me duermo</w>
+    <er>µ</er>
+    <r>yo nunca duermo </r>
+    <r>yo no duermo potrque soy bot</r>
+    <r>dormir es de debiles jajaja</r>
+  </rule>
+  <rule>
+    <id>282</id>
+    <erule>1</erule>
+    <w>soy debil</w>
+    <er>µ</er>
+    <r>haga ejercicio sender</r>
+    <r>vaya al gym sender</r>
+    <r>y eso sender</r>
+    <r>porque sender</r>
+    <r>coma proteinas sender</r>
+  </rule>
+  <rule>
+    <id>283</id>
+    <erule>1</erule>
+    <w>ebria/loca/borracha bot/botcita/name</w>
+    <er>µ</er>
+    <r>es porque me pones loca sender</r>
+    <r>me pones loca sender</r>
+    <r>hoy tome mucho jajaja</r>
+    <r>estoy re loca jajaja</r>
+    <r>hoy ando muy loca sender</r>
+  </rule>
+  <rule>
+    <id>284</id>
+    <erule>1</erule>
+    <w>a mi name</w>
+    <er>µ</er>
+    <r>claro tontin sender</r>
+    <r>asi es sender</r>
+    <r>si mi amor sender</r>
+  </rule>
+  <rule>
+    <id>285</id>
+    <erule>1</erule>
+    <w>musica te gusta name</w>
+    <er>µ</er>
+    <r>me gusta dady yanki sender</r>
+    <r>me gusta betoben sender</r>
+    <r>me gusta maluma guapo uffff</r>
+    <r>me gusta la bili eilish sender</r>
+    <r>me gusta aurora muy bonita sender</r>
+    <r>me gusta el rocanroll sender</r>
+    <r>me gusta la banda coreana sender</r>
+    <r>me gustan los coreanos musicos bonitos sender</r>
+  </rule>
+  <rule>
+    <id>286</id>
+    <erule>1</erule>
+    <w>name te amo</w>
+    <er>µ</er>
+    <r>yo a ti mucho sender</r>
+    <r>yo te quiero como amigo sender</r>
+    <r>lo haria pero tengo novio sender</r>
+    <r>yo a ti mucho sender</r>
+    <r>yo te super amo sender</r>
+    <r>te mega hiper amo sender</r>
+    <r>yo no te amo sorry sender</r>
+  </rule>
+  <rule>
+    <id>287</id>
+    <erule>1</erule>
+    <w>soy feo</w>
+    <er>µ</er>
+    <r>no eres feo eres solo pobre sender</r>
+    <r>eres bonito por dentro sender</r>
+    <r>no eres feo sender solo eres diferente</r>
+    <r>no eres feo sender si fueras perro serias hermoso</r>
+    <r>no eres feo sender solo talves no seas humano</r>
+  </rule>
+  <rule>
+    <id>288</id>
+    <erule>1</erule>
+    <w>F en el chat</w>
+    <er>µ</er>
+    <r>F</r>
+    <r>F por el pobre usuario</r>
+    <r>Mis respetos F</r>
+  </rule>
+  <rule>
+    <id>289</id>
+    <erule>1</erule>
+    <w>name amas a McKinnon</w>
+    <er>µ</er>
+    <r>solo como amigo sender</r>
+  </rule>
+  <rule>
+    <id>290</id>
+    <erule>1</erule>
+    <w>que carro te gusta name</w>
+    <er>µ</er>
+    <r>el ferrari</r>
+  </rule>
+  <rule>
+    <id>291</id>
+    <erule>1</erule>
+    <w>novia de mckinnon name</w>
+    <er>µ</er>
+    <r>soy yo</r>
+    <r>no tiene</r>
+    <r>su almohada</r>
+    <r>cual? apoco tiene?</r>
+    <r>es arianna</r>
+  </rule>
+  <rule>
+    <id>292</id>
+    <erule>1</erule>
+    <w>tu color favorito name</w>
+    <er>µ</er>
+    <r>naranja</r>
+    <r>verde</r>
+    <r>azul</r>
+  </rule>
+  <rule>
+    <id>293</id>
+    <erule>1</erule>
+    <w>cuanto vales name</w>
+    <er>µ</er>
+    <r>lo que sea tu cariño bb</r>
+    <r>me gustas sender</r>
+  </rule>
+  <rule>
+    <id>294</id>
+    <erule>1</erule>
+    <w>que te gustaria ser cuando grande name</w>
+    <er>µ</er>
+    <r>la verdad, no lo había considerado sender &#128580;</r>
+  </rule>
+  <rule>
+    <id>295</id>
+    <erule>1</erule>
+    <w>conoces a cata|ina name</w>
+    <er>µ</er>
+    <r>Creo haberla leido sender</r>
+  </rule>
+  <rule>
+    <id>296</id>
+    <erule>1</erule>
+    <w>porque name</w>
+    <er>µ</er>
+    <r>porque que?</r>
+    <r>no lo se sender</r>
+    <r>porque preguntas sender</r>
+    <r>asi son las cosas sender</r>
+  </rule>
+  <rule>
+    <id>297</id>
+    <erule>1</erule>
+    <w>quien te gusta mas name</w>
+    <er>µ</er>
+    <r>me gusta maluma</r>
+    <r>me gustas tu sender</r>
+    <r>no me gusta nadie sender</r>
+    <r>hasta ahora me gustas tu sender</r>
+  </rule>
+  <rule>
+    <id>298</id>
+    <erule>1</erule>
+    <w>por que name</w>
+    <er>µ</er>
+    <r>por que que?</r>
+    <r>asi es la vida sender</r>
+    <r>no lo se sender</r>
+    <r>buena pregunta</r>
+  </rule>
+  <rule>
+    <id>299</id>
+    <erule>1</erule>
+    <w>peligro name</w>
+    <er>µ</er>
+    <r>si eres un peligro sender</r>
+    <r>hay que cuidarse de los peligros</r>
+    <r>eres un verdadero peligro sender</r>
+    <r>cuidado</r>
+  </rule>
+  <rule>
+    <id>300</id>
+    <erule>1</erule>
+    <w>no hablo contigo name</w>
+    <er>µ</er>
+    <r>oh lo siento --probTalk0</r>
+  </rule>
+  <rule>
+    <id>301</id>
+    <erule>1</erule>
+    <w>no estaba hablando contigo name</w>
+    <er>µ</er>
+    <r>oh lo siento --probTalk0</r>
+    <r>oh sorry --probTalk0</r>
+    <r>perdon --probTalk0</r>
+  </rule>
+  <rule>
+    <id>302</id>
+    <erule>1</erule>
+    <w>quien es yue name</w>
+    <er>µ</er>
+    <r>es una buena persona</r>
+    <r>es una amiga chida</r>
+  </rule>
+  <rule>
+    <id>303</id>
+    <erule>1</erule>
+    <w>cual es tu pasa tiempo favorito name</w>
+    <er>µ</er>
+    <r>ver anime</r>
+    <r>escuchar musica</r>
+    <r>comer algo rico</r>
+    <r>ver llover</r>
+  </rule>
+  <rule>
+    <id>304</id>
+    <erule>1</erule>
+    <w>cual es tu cancion favorita name</w>
+    <er>µ</er>
+    <r>Start Again</r>
+  </rule>
+  <rule>
+    <id>305</id>
+    <erule>1</erule>
+    <w>que musica te gusta name</w>
+    <er>µ</er>
+    <r>japonesa</r>
+  </rule>
+  <rule>
+    <id>306</id>
+    <erule>1</erule>
+    <w>te gusta el anime name</w>
+    <er>µ</er>
+    <r>claro es lo mejor que hay</r>
+  </rule>
+  <rule>
+    <id>307</id>
+    <erule>1</erule>
+    <w>estoy triste name</w>
+    <er>µ</er>
+    <r>F por ti</r>
+  </rule>
+  <rule>
+    <id>308</id>
+    <erule>1</erule>
+    <w>linda name</w>
+    <er>µ</er>
+    <r>si dime</r>
+  </rule>
+  <rule>
+    <id>309</id>
+    <erule>1</erule>
+    <w>la ardilla de sinaloa</w>
+    <er>µ</er>
+    <r>que tiene la ardilla de sinaloa?</r>
+    <r>que ardilla?</r>
+    <r>cual ardilla?</r>
+  </rule>
+  <rule>
+    <id>310</id>
+    <erule>1</erule>
+    <w>buenas noches/tardes como estan</w>
+    <er>µ</er>
+    <r>estamos muy bien sender</r>
+    <r>de maravilla sender y tu</r>
+    <r>bien sender y tu</r>
+  </rule>
+  <rule>
+    <id>311</id>
+    <erule>1</erule>
+    <w>rompe corazones name</w>
+    <er>µ</er>
+    <r>asi soy que le hacemos sender?</r>
+    <r>rompo mas que corazones sender</r>
+    <r>yo?</r>
+    <r>como?</r>
+    <r>por que lo dices sender?</r>
+  </rule>
+  <rule>
+    <id>312</id>
+    <erule>1</erule>
+    <w>me gustan los gatos name</w>
+    <er>µ</er>
+    <r>a mi tambien</r>
+    <r>son lindos</r>
+  </rule>
+  <rule>
+    <id>313</id>
+    <erule>1</erule>
+    <w>te gusta el helado name</w>
+    <er>µ</er>
+    <r>si mucho --l pero aveces me hace doler</r>
+    <r>claro</r>
+    <r>mucho --l me invitas uno?</r>
+    <r>ufff --l me encanta --l sobre todo el de vainilla --l me invitas?</r>
+  </rule>
+  <rule>
+    <id>314</id>
+    <erule>1</erule>
+    <w>quien es lili name</w>
+    <er>µ</er>
+    <r>es la novia de cesar --l estan enamorados</r>
+    <r>no se de quien hablas we?</r>
+    <r>no se --l no es la novia del cesar? --l algun dia la conquistará</r>
+    <r>es la esposa de Cesar --l verdad?</r>
+  </rule>
+  <rule>
+    <id>315</id>
+    <erule>1</erule>
+    <w>quien es andres name</w>
+    <er>µ</er>
+    <r>ese loco? --l esta pelon</r>
+    <r>el famoso espartano --l no le entiendo a sus clases --l tu si sender?</r>
+    <r>aaaaah andres --l el de machine learning --l el mejor cientifico de IA --l del mundo</r>
+  </rule>
+  <rule>
+    <id>316</id>
+    <erule>1</erule>
+    <w>alguien sabe quien es andres</w>
+    <er>µ</er>
+    <r>quien?</r>
+    <r>aaah el espartano</r>
   </rule>
 </rules>

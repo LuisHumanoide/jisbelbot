@@ -10,6 +10,7 @@ import bot.users.Users;
 import bot.logic.Rule;
 import bot.logic.RulesList;
 import bot.users.TesterUser;
+import bot.users.User;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.Normalizer;
@@ -102,6 +103,10 @@ public class MessageAnswerer extends PircBot {
                 boolean nn = message.contains("aprendenn:");
                 message.replaceAll("r:", "");
                 int indexTuser = Users.findTUser(sender);
+                if (indexTuser == -1) {
+                    Users.addTesterUser(sender);
+                    indexTuser = Users.findTUser(sender);
+                }
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
                     String question = message.replaceAll("aprendenn:", "");
@@ -117,12 +122,16 @@ public class MessageAnswerer extends PircBot {
                     //RulesList.createRule(question, null);
                     this.sendMessage(sender, Colors.DARK_BLUE + "pregunta registrada, agregue respuestas con r: respuesta");
                 } else {
-                    this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar");
+                    this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar, dile a L_Clocker que te agregue en la lista de usuarios permitidos");
                 }
             }
             if (message.toLowerCase().contains("aprendeex:")) {
                 message = message.toLowerCase();
                 int indexTuser = Users.findTUser(sender);
+                if (indexTuser == -1) {
+                    Users.addTesterUser(sender);
+                    indexTuser = Users.findTUser(sender);
+                }
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
                     String question = message.replaceAll("aprendeex:", "");
@@ -134,18 +143,22 @@ public class MessageAnswerer extends PircBot {
                     //RulesList.createRule(question, null);
                     this.sendMessage(sender, Colors.DARK_BLUE + "ha registrado una expresion regular, agregue respuestas con r: respuesta");
                 } else {
-                    this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar");
+                    this.sendMessage(sender, Colors.RED + "no tiene permisos para entrenar, dile a L_Clocker que te agregue en la lista de usuarios permitidos");
                 }
             }
             if (message.toLowerCase().contains("r:")) {
                 message = message.replaceAll("aprendenn:", "");
                 message = message.replaceAll("aprende:", "");
                 int indexTuser = Users.findTUser(sender);
+                if (indexTuser == -1) {
+                    Users.addTesterUser(sender);
+                    indexTuser = Users.findTUser(sender);
+                }
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
                     if (tuser.hasQuestion()) {
                         String ans = message.replaceAll("r:", "");
-                        ans= ans.replaceAll("R:", "");
+                        ans = ans.replaceAll("R:", "");
                         ans = ans.trim();
                         RulesList.createRule(tuser.getLastQuestion(), ans);
                         this.sendMessage(sender, Colors.DARK_BLUE + "tu respuesta ha sido registrada, puedes seguir mandando respuestas");
@@ -159,17 +172,6 @@ public class MessageAnswerer extends PircBot {
         } else {
             this.sendMessage(sender, Colors.RED + "texto muy largo");
         }
-        /*
-        Time.deadTime = 0;
-        message = message + " " + variables.name;
-        message = Colors.removeFormattingAndColors(message);
-        message = message.toLowerCase();
-
-        Msg.print("Mensaje recibido");
-        if (isRead()) {
-            saludar(sender, sender, message, true);
-            send(sender, sender, message, true);
-        }*/
     }
 
     /**
@@ -183,16 +185,58 @@ public class MessageAnswerer extends PircBot {
      */
     public void onMessage(String channel, String sender,
             String login, String hostname, String message) {
-        Users.addUser(sender);
+        fillUsers();
+        //Users.addUser(sender);
         Time.deadTime = 0;
         message = Colors.removeFormattingAndColors(message);
         message = message.toLowerCase();
+        double probTalkingMe = talkingWithMeProb(message, sender);
+        if (probTalkingMe > 0.5) {
+            if (!message.contains(variables.name.toLowerCase())) {
+                message = message + " name";
+            }
+        }
+        if (!message.contains(variables.name.toLowerCase()) && probTalkingMe < -9) {
+            message = "12345";
+        }
         Msg.print("Mensaje recibido");
         if (isRead()) {
             saludar(channel, sender, message, false);
             send(channel, sender, message, false);
-        }
 
+        }
+    }
+
+    public void fillUsers() {
+        org.jibble.pircbot.User[] users = this.getUsers(variables.channel);
+        for (org.jibble.pircbot.User user : users) {
+            Users.addUser(user.getNick());
+        }
+    }
+
+    public double talkingWithMeProb(String message, String sender) {
+        double prob = 1;
+        message = message.replaceAll(variables.name.toLowerCase(), "name");
+        int userID = Users.findUser(sender);
+        if (message.contains("name")) {
+            Users.users.get(userID).isTalkingWithMe(1);
+            prob = 1;
+        } else {
+            double probTalk = Users.users.get(userID).isTalkingWithMe - 0.1;
+            if(probTalk<0){
+                probTalk=0;
+            }
+            prob = probTalk;
+            Users.users.get(userID).isTalkingWithMe(probTalk);
+            for (User u : Users.users) {
+                if (message.contains(u.getName().toLowerCase())) {
+                    Users.users.get(userID).isTalkingWithMe(-10);
+                    prob = -10;
+                    return prob;
+                }
+            }
+        }
+        return prob;
     }
 
     /**
@@ -233,21 +277,48 @@ public class MessageAnswerer extends PircBot {
         if (pv) {
             dest = sender;
         }
+        boolean exp = false;
         for (Comands command : Listas.commandList) {
             if (Strings.matcher(command.expression, message)) {
-                Msg.print("se cumple el comando : " + command.expression);
+                Msg.print("se cumple el comando :                  " + command.expression);
                 addMsg(color + Strings.chooseMessage(command.responses).replaceAll("sender", sender).replaceAll("channel", channel), dest);
-                return;
-            } else {
-                Rule bestRule = RulesList.selectBestRule(message.replaceAll(variables.name.toLowerCase(), "name"));
-                if (bestRule != null) {
-                    Msg.print("se cumplio la regla r" + bestRule.id);
-                    Users.addRule(sender, bestRule.id);
-                    addMsg(color + bestRule.getResponse().replaceAll("sender", sender).replaceAll("channel", channel), dest);
-                    return;
-                }
+                exp = true;
             }
         }
+        if (!exp) {
+            Rule bestRule = RulesList.selectBestRule(message.replaceAll(variables.name.toLowerCase(), "name"));
+            if (bestRule != null) {
+                Msg.print("se cumplio la regla r" + bestRule.id);
+                Users.addRule(sender, bestRule.id);
+                String text = executeCommand(bestRule.getResponse().replaceAll("sender", sender).replaceAll("channel", channel), sender);
+                String lines[] = splitText(text);
+                if (text.length() > 1) {
+                    for (String line : lines) {
+                        addMsg(color + line, dest);
+                    }
+                }
+
+            }
+        }
+    }
+
+    public String executeCommand(String text, String sender) {
+        String string = text;
+        if (text.contains(Comands.commands.get(0))) {
+            string = string.replaceAll(Comands.commands.get(0), "");
+            prob0(sender);
+        }
+        return string;
+    }
+
+    public void prob0(String sender) {
+        Users.getUser(sender).isTalkingWithMe = -10;
+    }
+
+    public String[] splitText(String text) {
+        String lines[];
+        lines = text.split(Comands.commands.get(1));
+        return lines;
     }
 
     /**

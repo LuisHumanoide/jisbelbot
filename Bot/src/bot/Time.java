@@ -13,6 +13,6 @@ public class Time {
     
     public static int deadTime=0;
     public static double calculateTime(String msg){
-        return variables.time1+variables.timeC*msg.length();
+        return variables.time1+(0.3)*variables.timeC*msg.length();
     }
 }

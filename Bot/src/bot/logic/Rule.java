@@ -7,7 +7,9 @@ package bot.logic;
 
 import bot.Markov.MarkovGraph;
 import bot.Strings;
+import bot.files.FileUtils;
 import bot.variables;
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
 
@@ -56,15 +58,39 @@ public class Rule {
 
     public double[] contains(String[] word) {
         double score = 0;
+        double score2= 0;
+        String array[]=FileUtils.readFile(new File("scores.txt")).split("\n");
         for (int i = 0; i < words.size(); i++) {
             StringList list = words.get(i);
             for (String s : word) {
                 if (list.contains(s)) {
-                    score++;
+                    score=score+1;
+                    score2=score2+s.length()*0.5+getScore(s,array);
                 }
             }
         }
-        return new double[]{score / words.size(), score};
+        return new double[]{(double)score / (double)words.size(), score2, 
+            (double) Math.exp((double)(-Math.pow((double)(words.size()-word.length)/(double)5, 2)))};
+    }
+    
+    public int wordsLenght(StringList list){
+        int ac=0;
+        for(String st:list.getStrings()){
+            ac=ac+st.length();
+        }
+        return ac;
+    }
+    
+    public int getScore(String word, String array[]){
+        int score=0;
+        for(String cad:array){
+            String values[]=cad.split(" ");
+            if(values[0].equals(word)){
+                score=Integer.parseInt(values[1]);
+                return score;
+            }
+        }
+        return score;
     }
 
     public void setER(String er) {

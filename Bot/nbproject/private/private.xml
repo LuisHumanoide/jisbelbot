@@ -3,13 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/test.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/TesterUser.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/Rule.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/RulesList.java</file>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Strings.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Comands.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Bot.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/MessageAnswerer.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/Users.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/variables.java</file>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Gui.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/User.java</file>
         </group>
     </open-files>
 </project-private>

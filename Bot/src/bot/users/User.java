@@ -5,6 +5,7 @@
  */
 package bot.users;
 
+import bot.logic.Msg;
 import java.util.HashSet;
 
 /**
@@ -17,6 +18,7 @@ public class User {
     HashSet<Integer> rules;
     boolean talk;
     int gender;
+    public double isTalkingWithMe=0;
 
     public User(String name, HashSet<Integer> rules, boolean talk) {
         this.name = name;
@@ -35,6 +37,11 @@ public class User {
 
     public void setName(String name) {
         this.name = name;
+    }
+    
+    public void isTalkingWithMe(double probability){
+        this.isTalkingWithMe=probability;
+        Msg.print("prob de hablar con bot es ------------------ "+probability);
     }
 
     public boolean isTalk() {

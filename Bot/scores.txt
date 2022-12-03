@@ -1,0 +1,3 @@
+mck 50
+botcita 20
+raros 10

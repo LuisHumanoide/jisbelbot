@@ -42,12 +42,13 @@ public class test {
 */
         
         //XMLFileUtils.saveRules();
-        XMLFileUtils.readRules();
+        /*XMLFileUtils.readRules();
         Rule r2=new Rule();
         r2.addReact("regla1 asd/sdfg/dfg asdf/rety");
         r2.addResponse("asdfsadf");
         RulesList.addRule(r2);
-        XMLFileUtils.saveRules();
+        XMLFileUtils.saveRules();*/
+        Msg.print(""+(double) Math.exp((double)(-Math.pow((double)(3-30)/(double)10, 2))));
         
         
     }
