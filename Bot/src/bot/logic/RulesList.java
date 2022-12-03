@@ -120,7 +120,7 @@ public class RulesList {
         }
         int similar = (int) RulesList.isSimilar(r);
         if (similar != -1) {
-            Msg.print("---------------regla similar a " + similar);
+            Msg.print("---------------regla similar a ---------------" + similar);
             if (answers != null) {
                 for (String res : answers) {
                     RulesList.ruleList.get(similar).addResponse(res);
@@ -147,13 +147,10 @@ public class RulesList {
             double[] scores = r.contains(sarray);
             
             if (scores[0] > variables.score1 || r.matchER(message)) {
-                //return true;
                 if (r.matchER(message)) {
                     bestScore = 100;
-                    Msg.print("se cumple una expresion regular");
                     bestRule = r;
                 }
-                System.out.println(" scores ---- "+scores[0]+" scores 1 "+(double)scores[1]);
                 if (scores[1] > bestScore) {
                     bestScore = scores[1];
                     bestRule = r;

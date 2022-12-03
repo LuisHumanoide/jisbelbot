@@ -462,6 +462,7 @@
     <r>el humor es mi pasion</r>
     <r>mis chistes son los mejores</r>
     <r>juas juas</r>
+    <r>sender mi pedacito de cielo xd</r>
   </rule>
   <rule>
     <id>40</id>
@@ -1468,6 +1469,7 @@
     <r>buenas sender</r>
     <r>como te va sender?</r>
     <r>buenas sender, que tal?</r>
+    <r>hola sender buenas</r>
   </rule>
   <rule>
     <id>126</id>
@@ -3265,5 +3267,139 @@
     <er>µ</er>
     <r>quien?</r>
     <r>aaah el espartano</r>
+  </rule>
+  <rule>
+    <id>317</id>
+    <erule>1</erule>
+    <w>que dice la vida name</w>
+    <er>µ</er>
+    <r>nada nuevo sender</r>
+  </rule>
+  <rule>
+    <id>318</id>
+    <erule>1</erule>
+    <w>name</w>
+    <er>µ</er>
+    <r>sender: hola , wenas tardes</r>
+    <r>sender: wenas</r>
+  </rule>
+  <rule>
+    <id>319</id>
+    <erule>1</erule>
+    <w>la vida me dice hoy name hay que salir y tomar brandy</w>
+    <er>µ</er>
+    <r>la vida me dice hoy sender hay que salir y tomar brandy</r>
+  </rule>
+  <rule>
+    <id>320</id>
+    <erule>1</erule>
+    <w>dice no seas sonsa name hay que salir</w>
+    <er>µ</er>
+    <r>dice no seas sonsa sender hay que salir</r>
+  </rule>
+  <rule>
+    <id>321</id>
+    <erule>1</erule>
+    <w>name que dice la vida hoy?</w>
+    <er>µ</er>
+    <r>sender hola</r>
+  </rule>
+  <rule>
+    <id>322</id>
+    <erule>1</erule>
+    <w>name y ati que te dice</w>
+    <er>µ</er>
+    <r>es un misterio sender</r>
+  </rule>
+  <rule>
+    <id>323</id>
+    <erule>1</erule>
+    <w>name wau</w>
+    <er>µ</er>
+    <r>jisbel es mi bot sender</r>
+  </rule>
+  <rule>
+    <id>324</id>
+    <erule>1</erule>
+    <w>name pedacito o todo tu cielo xd</w>
+    <er>µ</er>
+    <r>sender mi chocolatito</r>
+  </rule>
+  <rule>
+    <id>326</id>
+    <erule>1</erule>
+    <w>name saludos nena</w>
+    <er>µ</er>
+    <r>sender , saludos ,</r>
+  </rule>
+  <rule>
+    <id>327</id>
+    <erule>1</erule>
+    <w>name nop</w>
+    <er>µ</er>
+    <r>sender sip</r>
+  </rule>
+  <rule>
+    <id>328</id>
+    <erule>1</erule>
+    <w>es un roedor name</w>
+    <er>µ</er>
+    <r>que es eso sender</r>
+  </rule>
+  <rule>
+    <id>329</id>
+    <erule>1</erule>
+    <w>que es eso name</w>
+    <er>µ</er>
+    <r>qe es una araña sender</r>
+  </rule>
+  <rule>
+    <id>330</id>
+    <erule>1</erule>
+    <w>qe es una araña name</w>
+    <er>µ</er>
+    <r>un insecto sender</r>
+  </rule>
+  <rule>
+    <id>331</id>
+    <erule>1</erule>
+    <w>coste que te adverti name</w>
+    <er>µ</er>
+    <r>sender soy muy mal obediente</r>
+  </rule>
+  <rule>
+    <id>332</id>
+    <erule>1</erule>
+    <w>name jajaja xd</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>333</id>
+    <erule>1</erule>
+    <w>name ig del minito jajaj</w>
+    <er>µ</er>
+    <r>sender jajajaja</r>
+  </rule>
+  <rule>
+    <id>334</id>
+    <erule>1</erule>
+    <w>name entonces es mas guapa</w>
+    <er>µ</er>
+    <r>sender más que shakira, no creo nena. jajajaja</r>
+  </rule>
+  <rule>
+    <id>335</id>
+    <erule>1</erule>
+    <w>asi son los hombres no se les entiende que quieren en realidad name</w>
+    <er>µ</er>
+    <r>sender hoy quieren una cosa y mañana otra.</r>
+  </rule>
+  <rule>
+    <id>336</id>
+    <erule>1</erule>
+    <w>name a lo mejor si uno nunca sabe xd</w>
+    <er>µ</er>
+    <r>sender todo es posible.</r>
   </rule>
 </rules>

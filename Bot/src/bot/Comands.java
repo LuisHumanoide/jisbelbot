@@ -19,6 +19,10 @@ public class Comands {
     ArrayList<String> responses;
     public static ArrayList<String> commands;
     
+    /**
+     * Genera los comandos para a partir de un mensaje aprender preguntas y respuestas
+     * @param arr 
+     */
     void generateCommands(String[] arr){
         expression=arr[0];
         responses=new ArrayList();
@@ -29,6 +33,9 @@ public class Comands {
         System.out.println("responses : "+responses.toString());
     }
     
+    /**
+     * Lee los comandos de un archivo de comandos
+     */
     public static void readComands(){
         commands=new ArrayList<String>();
         String cad=FileUtils.readFile(new File("commands.txt"));

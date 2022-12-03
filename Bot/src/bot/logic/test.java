@@ -48,7 +48,10 @@ public class test {
         r2.addResponse("asdfsadf");
         RulesList.addRule(r2);
         XMLFileUtils.saveRules();*/
-        Msg.print(""+(double) Math.exp((double)(-Math.pow((double)(3-30)/(double)10, 2))));
+        //Msg.print(""+(double) Math.exp((double)(-Math.pow((double)(3-30)/(double)10, 2))));
+        String name="^nick^";
+        String msg="hola soy ^nick^ ^nick^";
+        Msg.print(msg.toLowerCase().replace(name.toLowerCase(), "sender")+"     "+msg.toLowerCase()+"     "+name.toLowerCase());
         
         
     }

@@ -134,9 +134,9 @@ public class Users {
     public static void addUser(String name) {
         if (!added(name)) {
             users.add(new User(name));
-            Msg.print("usuario agregado " + name);
+            //Msg.print("usuario agregado " + name);
         } else {
-            Msg.print("ya existe usuario " + name);
+            //Msg.print("ya existe usuario " + name);
         }
     }
 

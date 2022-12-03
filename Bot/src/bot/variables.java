@@ -16,8 +16,8 @@ public class variables {
     public static String pass="jisbelBot456";
     public static double time1=2;
     public static double timeC=0.4;
-    public static int deadTimeLimit=300;
-    public static double readProbability=1;
+    public static int deadTimeLimit=200;
+    public static double readProbability=0;
     public static boolean log=true;
     public static boolean markov=true;
 }

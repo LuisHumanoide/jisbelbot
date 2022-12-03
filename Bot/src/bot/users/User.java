@@ -15,6 +15,8 @@ import java.util.HashSet;
 public class User {
     
     String name;
+    public String talkingWith="";
+    public String lastSentence="";
     HashSet<Integer> rules;
     boolean talk;
     int gender;

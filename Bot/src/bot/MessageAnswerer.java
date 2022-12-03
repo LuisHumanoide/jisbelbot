@@ -5,6 +5,7 @@
  */
 package bot;
 
+import bot.logic.AutomaticLearn;
 import bot.logic.Msg;
 import bot.users.Users;
 import bot.logic.Rule;
@@ -190,6 +191,7 @@ public class MessageAnswerer extends PircBot {
         Time.deadTime = 0;
         message = Colors.removeFormattingAndColors(message);
         message = message.toLowerCase();
+        AutomaticLearn.learn(message, sender);
         double probTalkingMe = talkingWithMeProb(message, sender);
         if (probTalkingMe > 0.5) {
             if (!message.contains(variables.name.toLowerCase())) {
@@ -223,8 +225,8 @@ public class MessageAnswerer extends PircBot {
             prob = 1;
         } else {
             double probTalk = Users.users.get(userID).isTalkingWithMe - 0.1;
-            if(probTalk<0){
-                probTalk=0;
+            if (probTalk < 0) {
+                probTalk = 0;
             }
             prob = probTalk;
             Users.users.get(userID).isTalkingWithMe(probTalk);

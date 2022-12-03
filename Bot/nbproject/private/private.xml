@@ -3,16 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/test.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/TesterUser.java</file>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/Rule.java</file>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/RulesList.java</file>
+            <file>jar:file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/lib/pircbot.jar!/org/jibble/pircbot/Colors.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Comands.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Bot.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/MessageAnswerer.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Listas.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/Users.java</file>
-            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/variables.java</file>
             <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/users/User.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/Msg.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/test.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Hilo.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/Rule.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/RulesList.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Markov/Graph.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/files/FileUtils.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/logic/AutomaticLearn.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/variables.java</file>
+            <file>file:/F:/HumanoideFilms/Documents/NetBeansProjects/jisbelbot/Bot/src/bot/Gui.java</file>
         </group>
     </open-files>
 </project-private>
