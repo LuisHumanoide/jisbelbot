@@ -1,3 +1,14 @@
 mck 50
 botcita 20
 raros 10
+francisco 100
+felix 100
+bot 100
+botcita 100
+cerveza 20
+ardilla 20
+juicio 50
+diana 100
+gustavo 100
+david 100
+andres 100

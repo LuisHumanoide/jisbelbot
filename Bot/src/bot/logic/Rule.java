@@ -65,7 +65,7 @@ public class Rule {
             for (String s : word) {
                 if (list.contains(s)) {
                     score=score+1;
-                    score2=score2+s.length()*0.5+getScore(s,array);
+                    score2=score2+s.length()+getScore(s,array);;
                 }
             }
         }

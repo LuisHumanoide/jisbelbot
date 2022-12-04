@@ -17,7 +17,7 @@ public class AutomaticLearn {
 
     public static void learn(String message, String sender) {
         for (User user : Users.users) {
-            if (user.getName().length() > 2) {
+            if (user.getName().length() > 1) {
                 if (message.contains(user.getName().toLowerCase())) {
                     Users.getUser(sender).talkingWith = user.getName();
                     Users.getUser(sender).lastSentence = message;
@@ -50,7 +50,15 @@ public class AutomaticLearn {
         message = message.replaceAll("[^\\p{ASCII}]", "");
         message = message.toLowerCase();
         message = message.replaceAll("[-+.^:,?¿!¡]", " ");
+        message = message.replace("*"," ");
+        message = message.replace(")"," ");
+        message = message.replace("("," ");
+        message = message.replace("["," ");
+        message = message.replace("]"," ");
+        message = message.replace(":"," ");
+        message = message.replace("@"," ");
         message = message.trim();
+        message = message.replaceAll("\\s+", " ");        
         return message;
     }
 

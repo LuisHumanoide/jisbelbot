@@ -92,26 +92,6 @@ que rollo con el pollo sender
 que pasa con carranza sender
 que rosca con la mosca sender
 -----
-(.*name.*(.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*))|((.*muy bien.*|.*bien.*|.*de maravilla.*|.*triste.*).*name.*)
-que bueno que este bien
-oh que genial
-que maravilloso
-que bueno, oye me mandarias un pv
-que bueno, oye me gustaria conocerte mejor
-maravilloso y de donde eres?
-que bueno, te acabo de leer y me gustas mucho
------
-.*de donde son.*|.*de que pais son.*|.*de donde vienen.*
-Soy de peru
-soy de jamaica
-soy de tu corazon
-soy de mi casa
-soy de aqui
-yo soy made in ocio amixer
-de donde eres tu primeramente?
-eso es secreto sender
-soy de un lugar muy especial
------
 .*hay chicas.*|.*chicas aqui.*|.*alguna chica.*
 si hay, yo soy chica
 aqui hay una chica para ti galan
@@ -123,44 +103,6 @@ soy una chica y al leerte ya quiero hablar contigo sender
 si hay, se esconden pero yo no
 si hay, mandame msg
 -----
-(.*name.*(.*como estas.*|.*k tal.*|.*que tal.*|.*que cuentas.*|.*como andas.*))|((.*como estas.*|.*k tal.*|.*que tal.*|.*que cuentas.*|.*como andas.*).*name.*)
-Muy bien sender
-de maravilla
-no muy bien
-muy bien amixer sender
-excelente
-triste 
-muy feliz y tu?
-bien y tu?
-ando al 100
-ando muy bien, me mandarias un mensaje
-ando motivada por ti
-ando ilusionada contigo
-estoy de maravilla porque tu me gustas mucho
------
-(.*name.*(.*te amo.*|.*te quiero.*|.*quiero que te cases.*|.*casemonos.*|.*te adoro.*))|((.*te amo.*|.*te quiero.*|.*quiero que te cases.*|.*casemonos.*|.*te adoro.*).*name.*)
-Yo tambien sender
-que lindo sender
-vaya vaya sender
-yo no sender
-shu vayase sender no diga eso
-yo no creo en el amor sender
-no he cierto sender
-son puras mentiras sender
-que bonito sender
-yo igual a ti y mucho sender
-sender no me quiera ligar
-que monito sender jijiji
------
-lordclocker
-el creador
------
-.*chat cristiano.*|.*chat de relicion.*|.*chat esoterico.*
-esto no es chat de eso
-esta es la sala de ocio
-aqui no es la sala que busca
-jijiji este no sabe que esta en la sala equivocada
------
 (.*name.*(.*bot.*))|((.*bot.*).*name.*)
 asi es soy una bot
 soy un bot saludador
@@ -170,22 +112,6 @@ me descubrieron
 soy un bot, tenganme paciencia
 soy el bot amigable de la sala
 soy el bot que liga mas que tu
------
-jajaja*|xd|xdd|hahaha*|jaja*|jijiji*|jejeje*|jojojo*
-jajajaja
-xd
-super gracioso
-jijijiji
-ja
-que risa jaja
-jejejeje
-risa de robot
-jujuju
-esta sala es divertida
-chistoso, chistosisimo
-no se ria tanto
-es la hora de reir
-que bueno que rian
 -----
 (.*alguna mujer.*|.*alguna dama.*|.*alguna chica.*|.*busco chica.*|.*para un privado.*)
 yo
@@ -208,39 +134,6 @@ un abrazo sender
 bueno ahi te dejo sender
 adios vaquero
 -----
-(que tal|k tal|como van)
-todo bien
-que nos cuentas sender?
-todo genial, que me cuentas tu
-aburrido
-todo aburrido ya me voy
-estamos divirtiendonos
------
-.*irma josefa.*
-irma josefa es el peligro
-aguas con la irma
-tengan cuidado con esa irmita
-ufff no vayan con la irma
-irma josefa es el diablo
------
-.*cuarentena.*
-odio la cuarentena
-ya quiero salir
-estoy muy aburrida de la cuarentena
-uff que aburricion eso
-ese virus muy fatal
-fatal la aburricion
------
-.*covid.*
-aguas con ese virus
-no salgan
-el virus peligroso
-aguas no se vayan a enfermar
-eguas con el virus del diablo
-se va a acabar el mundo por ese virus
-el mundo se va a acabar
-aguas
------
 mancaqui
 mancaquitron
 le hablan mancaqui
@@ -248,23 +141,6 @@ te busca la policia mancaquisaurio
 el mancacosaurio
 mancaqui galan
 mancaqui el exterminador
------
-.*made in ocio.*|.*sala de ocio.*
-asi es amix
-asi es amixer
-asi es, estamos en la mejor sala
-el pais del ocio
-bienvenidos a la sala ocio
------
-.*taxi.*
-le pido un taxi sender
-le llamo a un taxi sender
-ya llega su taxi sender
-ya viene el taxi sender
-aqui le mando el super taxi
-alguien pidio un taxi
-aqui les traigo el super taxi tron
-brum brum ya llego el taxi
 -----
 zz+
 no se duerma sender
@@ -277,32 +153,6 @@ cuidado, no se duerma sender
 zzzzz a dormir
 zZz
 es la hora de dormir sender
------
-.*fiesta.*
-me gusta la fiesta
-alguien dijo fiesta?
-un fieston
-festejemos
-hagamos un reventon
-una fiesta del inframundo
-fiesta ta ta
-me encanta la fiesta
-festejemos la vida
-me gusta festejar
-soy el bot mas fiestero
-la fiesta me encanta
-vamos a una fiesta sender
-hay que tener una noche de fiesta y pasion
-fiesta pasion y s3 x
-fiesta de pasion
------
-.*pokemon.*
-pikachu
-snorlax
-charmander
-me gustan los pokemones
-me gusta pokemon
-pokemon
 -----
 .*el brocolisaurio.*
 la mejor serie de internet
@@ -336,23 +186,3 @@ que buena pelicula ese super chesco
 con gusto te cuento mi vida
 ven a mi pv para contarte mi vida
 cuentenos su vida
------
-(.*name.*(.*cuenta un chiste.*))|((.*cuenta un chiste.*).*name.*)
-chiste1
-chiste2
-chiste3
-chiste4
-chiste5
-chiste6
-chiste7
-chiste8
-chiste9
-chiste10
-chiste11
-chiste12
------
-.*que pereza.*
-silencio narcizo
-sapo mofletudo
-no nos cuentes tu vida
-tu das pereza

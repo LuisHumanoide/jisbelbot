@@ -29,8 +29,8 @@ public class Comands {
         for(int i=1;i<arr.length;i++){
             responses.add(arr[i]);
         }
-        System.out.println("expression : "+expression);
-        System.out.println("responses : "+responses.toString());
+        //System.out.println("expression : "+expression);
+        //System.out.println("responses : "+responses.toString());
     }
     
     /**

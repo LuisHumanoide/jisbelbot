@@ -66,7 +66,7 @@ public class MessageAnswerer extends PircBot {
                         //si el tiempo sobrepasa el tiempo de la cola de mensajes, entonces se envia un mensaje
                         if (time >= times.peek()) {
                             Message m = messages.poll();
-                            Msg.print("el objetivo es " + m.channel);
+                            //Msg.print("el objetivo es " + m.channel);
                             sendMessage(m.getChannel(), m.getText());
                             times.poll();
                             time = 0;
@@ -102,7 +102,7 @@ public class MessageAnswerer extends PircBot {
             if (message.toLowerCase().contains("aprende:") || message.toLowerCase().contains("aprendenn:")) {
                 message = message.toLowerCase();
                 boolean nn = message.contains("aprendenn:");
-                message.replaceAll("r:", "");
+                message.replace("r:", "");
                 int indexTuser = Users.findTUser(sender);
                 if (indexTuser == -1) {
                     Users.addTesterUser(sender);
@@ -110,8 +110,8 @@ public class MessageAnswerer extends PircBot {
                 }
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
-                    String question = message.replaceAll("aprendenn:", "");
-                    question = question.replaceAll("aprende:", "");
+                    String question = message.replace("aprendenn:", "");
+                    question = question.replace("aprende:", "");
                     question = formatText(question);
                     question = question.trim();
                     if (!nn) {
@@ -135,7 +135,7 @@ public class MessageAnswerer extends PircBot {
                 }
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
-                    String question = message.replaceAll("aprendeex:", "");
+                    String question = message.replace("aprendeex:", "");
                     question = formatText(question);
                     question = question.trim();
                     tuser.setLastQuestion("er:" + question);
@@ -148,8 +148,8 @@ public class MessageAnswerer extends PircBot {
                 }
             }
             if (message.toLowerCase().contains("r:")) {
-                message = message.replaceAll("aprendenn:", "");
-                message = message.replaceAll("aprende:", "");
+                message = message.replace("aprendenn:", "");
+                message = message.replace("aprende:", "");
                 int indexTuser = Users.findTUser(sender);
                 if (indexTuser == -1) {
                     Users.addTesterUser(sender);
@@ -158,8 +158,8 @@ public class MessageAnswerer extends PircBot {
                 if (indexTuser != -1) {
                     TesterUser tuser = Users.tusers.get(indexTuser);
                     if (tuser.hasQuestion()) {
-                        String ans = message.replaceAll("r:", "");
-                        ans = ans.replaceAll("R:", "");
+                        String ans = message.replace("r:", "");
+                        ans = ans.replace("R:", "");
                         ans = ans.trim();
                         RulesList.createRule(tuser.getLastQuestion(), ans);
                         this.sendMessage(sender, Colors.DARK_BLUE + "tu respuesta ha sido registrada, puedes seguir mandando respuestas");
@@ -201,7 +201,7 @@ public class MessageAnswerer extends PircBot {
         if (!message.contains(variables.name.toLowerCase()) && probTalkingMe < -9) {
             message = "12345";
         }
-        Msg.print("Mensaje recibido");
+        // Msg.print("Mensaje recibido");
         if (isRead()) {
             saludar(channel, sender, message, false);
             send(channel, sender, message, false);
@@ -218,7 +218,7 @@ public class MessageAnswerer extends PircBot {
 
     public double talkingWithMeProb(String message, String sender) {
         double prob = 1;
-        message = message.replaceAll(variables.name.toLowerCase(), "name");
+        message = message.replace(variables.name.toLowerCase(), "name");
         int userID = Users.findUser(sender);
         if (message.contains("name")) {
             Users.users.get(userID).isTalkingWithMe(1);
@@ -257,7 +257,7 @@ public class MessageAnswerer extends PircBot {
                 if (pv) {
                     dest = sender;
                 }
-                addMsg(color + Strings.chooseMessage(Listas.saludos).replaceAll("sender", sender).replaceAll("channel", channel).replaceAll("name", variables.name), dest);
+                addMsg(color + Strings.chooseMessage(Listas.saludos).replace("sender", sender).replace("channel", channel).replace("name", variables.name), dest);
                 Users.addSaludo(sender);
             }
         }
@@ -274,40 +274,40 @@ public class MessageAnswerer extends PircBot {
     public void send(String channel, String sender, String message, boolean pv) {
         //formatea el texto
         message = formatText(message);
-        Msg.print("el mensaje es :" + message);
+        // Msg.print("el mensaje es :" + message);
         String dest = channel;
         if (pv) {
             dest = sender;
         }
-        boolean exp = false;
+        //boolean exp = false;
         for (Comands command : Listas.commandList) {
             if (Strings.matcher(command.expression, message)) {
                 Msg.print("se cumple el comando :                  " + command.expression);
-                addMsg(color + Strings.chooseMessage(command.responses).replaceAll("sender", sender).replaceAll("channel", channel), dest);
-                exp = true;
+                addMsg(color + Strings.chooseMessage(command.responses).replace("sender", sender).replace("channel", channel), dest);
+                // exp = true;
             }
         }
-        if (!exp) {
-            Rule bestRule = RulesList.selectBestRule(message.replaceAll(variables.name.toLowerCase(), "name"));
-            if (bestRule != null) {
-                Msg.print("se cumplio la regla r" + bestRule.id);
-                Users.addRule(sender, bestRule.id);
-                String text = executeCommand(bestRule.getResponse().replaceAll("sender", sender).replaceAll("channel", channel), sender);
-                String lines[] = splitText(text);
-                if (text.length() > 1) {
-                    for (String line : lines) {
-                        addMsg(color + line, dest);
-                    }
-                }
 
+        Rule bestRule = RulesList.selectBestRule(message.replace(variables.name.toLowerCase(), "name"));
+        if (bestRule != null) {
+            Msg.print("se cumplio la regla r" + bestRule.id);
+            Users.addRule(sender, bestRule.id);
+            String text = executeCommand(bestRule.getResponse().replace("sender", sender).replace("channel", channel), sender);
+            String lines[] = splitText(text);
+            if (text.length() > 1) {
+                for (String line : lines) {
+                    addMsg(color + line, dest);
+                }
             }
+
         }
+
     }
 
     public String executeCommand(String text, String sender) {
         String string = text;
         if (text.contains(Comands.commands.get(0))) {
-            string = string.replaceAll(Comands.commands.get(0), "");
+            string = string.replace(Comands.commands.get(0), "");
             prob0(sender);
         }
         return string;
@@ -347,7 +347,7 @@ public class MessageAnswerer extends PircBot {
      */
     public boolean isRead() {
         double rand = Math.random();
-        System.out.println("rnd es " + rand + " probabilidad de leer es de " + variables.readProbability);
+        // System.out.println("rnd es " + rand + " probabilidad de leer es de " + variables.readProbability);
         return rand <= variables.readProbability;
     }
 
@@ -364,7 +364,7 @@ public class MessageAnswerer extends PircBot {
     public void addMsg(String msg, String channel) {
         messages.add(new Message(msg, channel));
         times.add(Time.calculateTime(msg));
-        Msg.print("tiempo de respuesta es " + times.peek());
+        //Msg.print("tiempo de respuesta es " + times.peek());
     }
 
 }

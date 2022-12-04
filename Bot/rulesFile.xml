@@ -77,6 +77,7 @@
     <r>que te vaya muy muy bien sender adios</r>
     <r>te vere luego sender, adios</r>
     <r>adios sender vaya por la sombra.</r>
+    <r>chiao sender</r>
   </rule>
   <rule>
     <id>10</id>
@@ -463,6 +464,11 @@
     <r>mis chistes son los mejores</r>
     <r>juas juas</r>
     <r>sender mi pedacito de cielo xd</r>
+    <r>sender mejor miremos las estrellas</r>
+    <r>sender ya me voy amigo</r>
+    <r>sender, es un niñato, evidente.</r>
+    <r>sender: cada uno hay aca</r>
+    <r>:v sender andan muy sensibles los mods</r>
   </rule>
   <rule>
     <id>40</id>
@@ -611,6 +617,7 @@
     <r>si y tu</r>
     <r>no</r>
     <r>no pero puedo serlo</r>
+    <r>sender que sepa hasta el momento no xd</r>
   </rule>
   <rule>
     <id>51</id>
@@ -1351,6 +1358,7 @@
     <r>estoy muy triste</r>
     <r>estoy aburrida sender</r>
     <r>Sentada.</r>
+    <r>❤ [sender] ❤ bien y tu?</r>
   </rule>
   <rule>
     <id>111</id>
@@ -1470,6 +1478,8 @@
     <r>como te va sender?</r>
     <r>buenas sender, que tal?</r>
     <r>hola sender buenas</r>
+    <r>sender q significa tu pnick?</r>
+    <r>sender: q hace pues pensandome xd</r>
   </rule>
   <rule>
     <id>126</id>
@@ -2403,6 +2413,7 @@
     <w>holi name</w>
     <er>µ</er>
     <r>¡Holiii!</r>
+    <r>hola, sender. :)</r>
   </rule>
   <rule>
     <id>227</id>
@@ -3276,14 +3287,6 @@
     <r>nada nuevo sender</r>
   </rule>
   <rule>
-    <id>318</id>
-    <erule>1</erule>
-    <w>name</w>
-    <er>µ</er>
-    <r>sender: hola , wenas tardes</r>
-    <r>sender: wenas</r>
-  </rule>
-  <rule>
     <id>319</id>
     <erule>1</erule>
     <w>la vida me dice hoy name hay que salir y tomar brandy</w>
@@ -3352,6 +3355,7 @@
     <w>que es eso name</w>
     <er>µ</er>
     <r>qe es una araña sender</r>
+    <r>sender: tienes algún trastorno ?</r>
   </rule>
   <rule>
     <id>330</id>
@@ -3401,5 +3405,2878 @@
     <w>name a lo mejor si uno nunca sabe xd</w>
     <er>µ</er>
     <r>sender todo es posible.</r>
+  </rule>
+  <rule>
+    <id>337</id>
+    <erule>1</erule>
+    <w>name bro saludos buena noche alla  buena tarde aqui</w>
+    <er>µ</er>
+    <r>saludos, sender</r>
+  </rule>
+  <rule>
+    <id>338</id>
+    <erule>1</erule>
+    <w>saludos  name</w>
+    <er>µ</er>
+    <r>sender continuando el tema si te gusta leer adquiere el libro del lobo estepario esta chido bro</r>
+  </rule>
+  <rule>
+    <id>339</id>
+    <erule>1</erule>
+    <w>name mi amor es puro</w>
+    <er>µ</er>
+    <r>sender no te deprimas bro, mejores rubias vendrán</r>
+  </rule>
+  <rule>
+    <id>340</id>
+    <erule>1</erule>
+    <w>name morimos juntos</w>
+    <er>µ</er>
+    <r>sender siempre juntos para todos lados amor</r>
+  </rule>
+  <rule>
+    <id>341</id>
+    <erule>1</erule>
+    <w>name no te deprimas bro mejores rubias vendran</w>
+    <er>µ</er>
+    <r>sender que rico una cerveza ahora helada traela</r>
+  </rule>
+  <rule>
+    <id>342</id>
+    <erule>1</erule>
+    <w>niikolas name besen la pantalla jajajaja</w>
+    <er>µ</er>
+    <r>sender si xd</r>
+  </rule>
+  <rule>
+    <id>343</id>
+    <erule>1</erule>
+    <w>name si xd</w>
+    <er>µ</er>
+    <r>sender anda a babear la pantalla</r>
+  </rule>
+  <rule>
+    <id>344</id>
+    <erule>1</erule>
+    <w>si o no name</w>
+    <er>µ</er>
+    <r>sender lo de nosotros es serio</r>
+  </rule>
+  <rule>
+    <id>345</id>
+    <erule>1</erule>
+    <w>name lo de nosotros es serio</w>
+    <er>µ</er>
+    <r>sender quien dice?</r>
+  </rule>
+  <rule>
+    <id>346</id>
+    <erule>1</erule>
+    <w>name dame un beso de pantalla con mucha baba</w>
+    <er>µ</er>
+    <r>sender mejor en persona. xd</r>
+  </rule>
+  <rule>
+    <id>347</id>
+    <erule>1</erule>
+    <w>name quien dice</w>
+    <er>µ</er>
+    <r>sender ambos bebé</r>
+  </rule>
+  <rule>
+    <id>348</id>
+    <erule>1</erule>
+    <w>name mejor en persona xd</w>
+    <er>µ</er>
+    <r>sender estamos hablando de besar pantalla y no quiero quedar atrás. colabora!</r>
+  </rule>
+  <rule>
+    <id>349</id>
+    <erule>1</erule>
+    <w>name estamos hablando de besar pantalla y no quiero quedar atras colabora</w>
+    <er>µ</er>
+    <r>sender no puedo amor mi pantalla limpia.</r>
+  </rule>
+  <rule>
+    <id>350</id>
+    <erule>1</erule>
+    <w>name quieres ser mi amante</w>
+    <er>µ</er>
+    <r>sender jamás me conformaría con menos</r>
+  </rule>
+  <rule>
+    <id>351</id>
+    <erule>1</erule>
+    <w>name jamas me conformaria con menos</w>
+    <er>µ</er>
+    <r>sender quieres ser la oficial</r>
+  </rule>
+  <rule>
+    <id>352</id>
+    <erule>1</erule>
+    <w>hola soy name tengo 16 anos soy chica algun chico de 15 a 18</w>
+    <er>µ</er>
+    <r>hola soy sender tengo 16 años soy chica algún chico de 15 a 18?</r>
+  </rule>
+  <rule>
+    <id>353</id>
+    <erule>1</erule>
+    <w>name no puedo amor mi pantalla limpia</w>
+    <er>µ</er>
+    <r>hasta el amor de sender es fake. jajajaja</r>
+  </rule>
+  <rule>
+    <id>354</id>
+    <erule>1</erule>
+    <w>lo nuestro es fake name</w>
+    <er>µ</er>
+    <r>sender cuando nos vamos de luna de miel ?</r>
+  </rule>
+  <rule>
+    <id>355</id>
+    <erule>1</erule>
+    <w>name que te gusta bts</w>
+    <er>µ</er>
+    <r>sender nou por que? xd</r>
+  </rule>
+  <rule>
+    <id>356</id>
+    <erule>1</erule>
+    <w>name nou por que xd</w>
+    <er>µ</er>
+    <r>sender preguntaba por lo de fake love xd</r>
+  </rule>
+  <rule>
+    <id>357</id>
+    <erule>1</erule>
+    <w>name de aqui en 1000 anos bebe *</w>
+    <er>µ</er>
+    <r>sender ya sacaré los pasajes</r>
+  </rule>
+  <rule>
+    <id>358</id>
+    <erule>1</erule>
+    <w>name preguntaba por lo de fake love xd</w>
+    <er>µ</er>
+    <r>sender ealguna canción de ellos se llama así? xd</r>
+  </rule>
+  <rule>
+    <id>359</id>
+    <erule>1</erule>
+    <w>name ealguna cancion de ellos se llama asi xd</w>
+    <er>µ</er>
+    <r>sender si</r>
+  </rule>
+  <rule>
+    <id>360</id>
+    <erule>1</erule>
+    <w>name ya sacare los pasajes</w>
+    <er>µ</er>
+    <r>sender eso es imposible</r>
+  </rule>
+  <rule>
+    <id>361</id>
+    <erule>1</erule>
+    <w>name ya terminamos solo seremos ex xd</w>
+    <er>µ</er>
+    <r>ains sender</r>
+  </rule>
+  <rule>
+    <id>362</id>
+    <erule>1</erule>
+    <w>cuenten name jajaja</w>
+    <er>µ</er>
+    <r>cuenten sender jajaja</r>
+  </rule>
+  <rule>
+    <id>363</id>
+    <erule>1</erule>
+    <w>tenes muchas exs en sala como el name</w>
+    <er>µ</er>
+    <r>sender blasfemia.</r>
+  </rule>
+  <rule>
+    <id>364</id>
+    <erule>1</erule>
+    <w>name lastimosamente si no los hay o se extinguieron xd</w>
+    <er>µ</er>
+    <r>que mal sender :(</r>
+  </rule>
+  <rule>
+    <id>365</id>
+    <erule>1</erule>
+    <w>name dame un beso de pantalla</w>
+    <er>µ</er>
+    <r>sender vamos xd</r>
+  </rule>
+  <rule>
+    <id>366</id>
+    <erule>1</erule>
+    <w>name vamos xd</w>
+    <er>µ</er>
+    <r>sender para donde amor</r>
+  </rule>
+  <rule>
+    <id>367</id>
+    <erule>1</erule>
+    <w>name para donde amor</w>
+    <er>µ</er>
+    <r>sender besame apasionadamente</r>
+  </rule>
+  <rule>
+    <id>368</id>
+    <erule>1</erule>
+    <w>name hola kt</w>
+    <er>µ</er>
+    <r>§sender§ ö.ö</r>
+  </rule>
+  <rule>
+    <id>369</id>
+    <erule>1</erule>
+    <w>name si hay morreo jajajajjaja</w>
+    <er>µ</er>
+    <r>esooooo sender pero no ví :p</r>
+  </rule>
+  <rule>
+    <id>370</id>
+    <erule>1</erule>
+    <w>esooooo name pero no vi p</w>
+    <er>µ</er>
+    <r>sender el morreo es en pv no se puede aquí jajajajjajaj</r>
+  </rule>
+  <rule>
+    <id>371</id>
+    <erule>1</erule>
+    <w>name re holas</w>
+    <er>µ</er>
+    <r>sender: te preciosa</r>
+  </rule>
+  <rule>
+    <id>372</id>
+    <erule>1</erule>
+    <w>name saludos</w>
+    <er>µ</er>
+    <r>§sender§ saludos, como estas?</r>
+    <r>❤ [sender] ❤ buenas</r>
+    <r>sender , saludos ,.</r>
+    <r>sender: buenas che</r>
+  </rule>
+  <rule>
+    <id>373</id>
+    <erule>1</erule>
+    <w>name a ti te van a morrear</w>
+    <er>µ</er>
+    <r>me tienen miedo, sender</r>
+  </rule>
+  <rule>
+    <id>374</id>
+    <erule>1</erule>
+    <w>name besame apasionadamente</w>
+    <er>µ</er>
+    <r>sender vamos a morrearnos xd</r>
+  </rule>
+  <rule>
+    <id>375</id>
+    <erule>1</erule>
+    <w>name saludos como estas</w>
+    <er>µ</er>
+    <r>sender muu bien y vos</r>
+  </rule>
+  <rule>
+    <id>376</id>
+    <erule>1</erule>
+    <w>me tienen miedo name</w>
+    <er>µ</er>
+    <r>sender eres de temer jajajajja</r>
+  </rule>
+  <rule>
+    <id>377</id>
+    <erule>1</erule>
+    <w>name eres de temer jajajajja</w>
+    <er>µ</er>
+    <r>sender, al parecer.</r>
+  </rule>
+  <rule>
+    <id>378</id>
+    <erule>1</erule>
+    <w>name muu bien y vos</w>
+    <er>µ</er>
+    <r>§sender§ todo bien, gracias</r>
+  </rule>
+  <rule>
+    <id>379</id>
+    <erule>1</erule>
+    <w>name yo no quiero (</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>380</id>
+    <erule>1</erule>
+    <w>name mejor miremos las estrellas</w>
+    <er>µ</er>
+    <r>sender quieres ver las estrellas nuevamente amor</r>
+  </rule>
+  <rule>
+    <id>381</id>
+    <erule>1</erule>
+    <w>chiao name</w>
+    <er>µ</er>
+    <r>sender: :*  ya tome su beso</r>
+    <r>sender cuida a mi amigo niikolas es que el es un poco tontito</r>
+  </rule>
+  <rule>
+    <id>382</id>
+    <erule>1</erule>
+    <w>name todo bien gracias</w>
+    <er>µ</er>
+    <r>me alegra sender vas ala disco más tarde</r>
+  </rule>
+  <rule>
+    <id>383</id>
+    <erule>1</erule>
+    <w>name * ya tome su beso</w>
+    <er>µ</er>
+    <r>sender mm, no me gustan los besos desconocidos.</r>
+  </rule>
+  <rule>
+    <id>384</id>
+    <erule>1</erule>
+    <w>name que sepa hasta el momento no xd</w>
+    <er>µ</er>
+    <r>sender entonces si lo eres</r>
+  </rule>
+  <rule>
+    <id>385</id>
+    <erule>1</erule>
+    <w>name entonces si lo eres</w>
+    <er>µ</er>
+    <r>sender que soy ?</r>
+  </rule>
+  <rule>
+    <id>386</id>
+    <erule>1</erule>
+    <w>name saludos muakkkkkkkkk</w>
+    <er>µ</er>
+    <r>[sender] saludos</r>
+  </rule>
+  <rule>
+    <id>387</id>
+    <erule>1</erule>
+    <w>a quien miro o o name</w>
+    <er>µ</er>
+    <r>sender a quien te de la gana</r>
+  </rule>
+  <rule>
+    <id>388</id>
+    <erule>1</erule>
+    <w>name que tu fuego jamas se apague</w>
+    <er>µ</er>
+    <r>sender el respeto se pierde... porque todos deberíamos respetarnos por el simple hecho de ser humanos</r>
+  </rule>
+  <rule>
+    <id>389</id>
+    <erule>1</erule>
+    <w>name el respeto se pierde porque todos deberiamos respetarnos por el simple hecho de ser humanos</w>
+    <er>µ</er>
+    <r>sender bien dicho, te proclamamos la presidenta de los derechos humanos de los chateros unidos del mundo hispano</r>
+  </rule>
+  <rule>
+    <id>390</id>
+    <erule>1</erule>
+    <w>name a quien te de la gana</w>
+    <er>µ</er>
+    <r>mm, el ganado es sender</r>
+  </rule>
+  <rule>
+    <id>391</id>
+    <erule>1</erule>
+    <w>mm el ganado es name</w>
+    <er>µ</er>
+    <r>sendersoy ganado no soy persona</r>
+  </rule>
+  <rule>
+    <id>392</id>
+    <erule>1</erule>
+    <w>namesoy ganado no soy persona</w>
+    <er>µ</er>
+    <r>sender eres el ganado de ricardo-</r>
+  </rule>
+  <rule>
+    <id>393</id>
+    <erule>1</erule>
+    <w>name eres el ganado de ricardo</w>
+    <er>µ</er>
+    <r>sendercomo te gusta</r>
+  </rule>
+  <rule>
+    <id>394</id>
+    <erule>1</erule>
+    <w>name me sali xd</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>395</id>
+    <erule>1</erule>
+    <w>name ya me voy amigo</w>
+    <er>µ</er>
+    <r>sender cuídate igual estamos hablando en otra ocasión</r>
+  </rule>
+  <rule>
+    <id>396</id>
+    <erule>1</erule>
+    <w>name buenas noches</w>
+    <er>µ</er>
+    <r>sender ¡buenas noches dj!</r>
+    <r>que tal sender como te fue?</r>
+  </rule>
+  <rule>
+    <id>397</id>
+    <erule>1</erule>
+    <w>name cuidate igual estamos hablando en otra ocasion</w>
+    <er>µ</er>
+    <r>sender si te quiero amigo xd</r>
+  </rule>
+  <rule>
+    <id>398</id>
+    <erule>1</erule>
+    <w>name alguna dama madura</w>
+    <er>µ</er>
+    <r>sender: alguna dama madura</r>
+  </rule>
+  <rule>
+    <id>399</id>
+    <erule>1</erule>
+    <w>name si te quiero amigo xd</w>
+    <er>µ</er>
+    <r>sender besos nena</r>
+  </rule>
+  <rule>
+    <id>400</id>
+    <erule>1</erule>
+    <w>name que escucharemos esta noche</w>
+    <er>µ</er>
+    <r>§sender§ ni idea</r>
+  </rule>
+  <rule>
+    <id>401</id>
+    <erule>1</erule>
+    <w>name cuida a mi amigo niikolas es que el es un poco tontito</w>
+    <er>µ</er>
+    <r>jajajaja, no se dejará cuidar sender pero haré el intento.</r>
+  </rule>
+  <rule>
+    <id>402</id>
+    <erule>1</erule>
+    <w>name entiendo linda xd te cuidas</w>
+    <er>µ</er>
+    <r>idem, sender</r>
+  </rule>
+  <rule>
+    <id>403</id>
+    <erule>1</erule>
+    <w>name te comportas</w>
+    <er>µ</er>
+    <r>sender siempre amor te extrañare si entras me buscas el nick dejare el nick colgado</r>
+  </rule>
+  <rule>
+    <id>404</id>
+    <erule>1</erule>
+    <w>jajajaja name pareces una viejita</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>405</id>
+    <erule>1</erule>
+    <w>name ni idea</w>
+    <er>µ</er>
+    <r>se fue sender al yuyo.</r>
+  </rule>
+  <rule>
+    <id>406</id>
+    <erule>1</erule>
+    <w>se fue name al yuyo</w>
+    <er>µ</er>
+    <r>§sender§ a que?</r>
+  </rule>
+  <rule>
+    <id>407</id>
+    <erule>1</erule>
+    <w>name a que</w>
+    <er>µ</er>
+    <r>sender a buscar un disco.</r>
+  </rule>
+  <rule>
+    <id>408</id>
+    <erule>1</erule>
+    <w>tu eres nina tambien name</w>
+    <er>µ</er>
+    <r>sender sip</r>
+  </rule>
+  <rule>
+    <id>409</id>
+    <erule>1</erule>
+    <w>name dice tener 18 no creo mucho xd</w>
+    <er>µ</er>
+    <r>ahora entiendo tanto cuidado. sender has morreado una vieja.</r>
+  </rule>
+  <rule>
+    <id>410</id>
+    <erule>1</erule>
+    <w>ahora entiendo tanto cuidado name has morreado una vieja</w>
+    <er>µ</er>
+    <r>sender jaajjajajajajajajaja</r>
+  </rule>
+  <rule>
+    <id>411</id>
+    <erule>1</erule>
+    <w>bieen name y vos</w>
+    <er>µ</er>
+    <r>sender: bien</r>
+  </rule>
+  <rule>
+    <id>412</id>
+    <erule>1</erule>
+    <w>name sip</w>
+    <er>µ</er>
+    <r>yo igual, sender relax</r>
+  </rule>
+  <rule>
+    <id>413</id>
+    <erule>1</erule>
+    <w>yo igual name relax</w>
+    <er>µ</er>
+    <r>sender somos ancianas</r>
+  </rule>
+  <rule>
+    <id>414</id>
+    <erule>1</erule>
+    <w>name temazo</w>
+    <er>µ</er>
+    <r>esoo sender</r>
+  </rule>
+  <rule>
+    <id>415</id>
+    <erule>1</erule>
+    <w>namecomo te gusta</w>
+    <er>µ</er>
+    <r>sender a vos no lo quiero ni regalado. jajaja</r>
+  </rule>
+  <rule>
+    <id>416</id>
+    <erule>1</erule>
+    <w>name creo que era ricardo</w>
+    <er>µ</er>
+    <r>ah no, ese tiene un montón de ganados. solo bromeaba sender</r>
+  </rule>
+  <rule>
+    <id>417</id>
+    <erule>1</erule>
+    <w>ah no ese tiene un monton de ganados solo bromeaba name</w>
+    <er>µ</er>
+    <r>sender xd entiendo yo igual solo juego con niikolas no es nada serio jaja</r>
+  </rule>
+  <rule>
+    <id>418</id>
+    <erule>1</erule>
+    <w>nameno hace falta que me quieras el problema lo tienes tu no te quiere ni tu movil</w>
+    <er>µ</er>
+    <r>sender a mi móvil si lo quiero. :d</r>
+  </rule>
+  <rule>
+    <id>419</id>
+    <erule>1</erule>
+    <w>name saludos belleza</w>
+    <er>µ</er>
+    <r>sender hola nena :**</r>
+  </rule>
+  <rule>
+    <id>420</id>
+    <erule>1</erule>
+    <w>name a mi movil si lo quiero d</w>
+    <er>µ</er>
+    <r>sendersimpatica</r>
+  </rule>
+  <rule>
+    <id>421</id>
+    <erule>1</erule>
+    <w>name a todas le hablas bonito</w>
+    <er>µ</er>
+    <r>sender tu me dejaste dijiste que ahora somos amigos jajajaja</r>
+  </rule>
+  <rule>
+    <id>422</id>
+    <erule>1</erule>
+    <w>name eso si entiendo pero asi me andas diciendo que quieres algo serio</w>
+    <er>µ</er>
+    <r>sender :o</r>
+  </rule>
+  <rule>
+    <id>423</id>
+    <erule>1</erule>
+    <w>name no se iba</w>
+    <er>µ</er>
+    <r>sender ya me voy xd</r>
+  </rule>
+  <rule>
+    <id>424</id>
+    <erule>1</erule>
+    <w>name infiel</w>
+    <er>µ</er>
+    <r>sender porque infiel ??? :o</r>
+  </rule>
+  <rule>
+    <id>425</id>
+    <erule>1</erule>
+    <w>name vamos a dormir</w>
+    <er>µ</er>
+    <r>sender yo me voy al otro mundo</r>
+  </rule>
+  <rule>
+    <id>426</id>
+    <erule>1</erule>
+    <w>name yo me voy al otro mundo</w>
+    <er>µ</er>
+    <r>sender a que mundo</r>
+  </rule>
+  <rule>
+    <id>427</id>
+    <erule>1</erule>
+    <w>name vamos a salir a tomar cerveza bebe</w>
+    <er>µ</er>
+    <r>sender no me deja el ganado.</r>
+  </rule>
+  <rule>
+    <id>428</id>
+    <erule>1</erule>
+    <w>name no me deja el ganado</w>
+    <er>µ</er>
+    <r>sender tranquilo bebe si aguantas eso aguantas lo que sea en esta vida yayayju</r>
+  </rule>
+  <rule>
+    <id>429</id>
+    <erule>1</erule>
+    <w>que ondas name</w>
+    <er>µ</er>
+    <r>sender holitass</r>
+  </rule>
+  <rule>
+    <id>430</id>
+    <erule>1</erule>
+    <w>name holitass</w>
+    <er>µ</er>
+    <r>sender holaaa. y ese milagro</r>
+  </rule>
+  <rule>
+    <id>431</id>
+    <erule>1</erule>
+    <w>name holaaa y ese milagro</w>
+    <er>µ</er>
+    <r>sender jajaja es un milagro que coincidamos</r>
+  </rule>
+  <rule>
+    <id>432</id>
+    <erule>1</erule>
+    <w>name te voe a llevar a una radio para que seas dj</w>
+    <er>µ</er>
+    <r>jajajjaj sender</r>
+  </rule>
+  <rule>
+    <id>433</id>
+    <erule>1</erule>
+    <w>name jajaja es un milagro que coincidamos</w>
+    <er>µ</er>
+    <r>sender síi.. nos quedamos así: "¿y esa rosa?"</r>
+  </rule>
+  <rule>
+    <id>434</id>
+    <erule>1</erule>
+    <w>name sii nos quedamos asi "y esa rosa "</w>
+    <er>µ</er>
+    <r>jajajajajjaa sender</r>
+  </rule>
+  <rule>
+    <id>435</id>
+    <erule>1</erule>
+    <w>jajajajajjaa name</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>436</id>
+    <erule>1</erule>
+    <w>jajajjaj name</w>
+    <er>µ</er>
+    <r>ilegales - chucucha - sender</r>
+  </rule>
+  <rule>
+    <id>437</id>
+    <erule>1</erule>
+    <w>name que ojo tan disparejos</w>
+    <er>µ</er>
+    <r>sender soy imperfecta y no me hables.</r>
+  </rule>
+  <rule>
+    <id>438</id>
+    <erule>1</erule>
+    <w>name soy imperfecta y no me hables</w>
+    <er>µ</er>
+    <r>sender aplico el artículo donde usted mencionó hoy "yo no hablo, yo escribo".</r>
+  </rule>
+  <rule>
+    <id>439</id>
+    <erule>1</erule>
+    <w>name aplico el articulo donde usted menciono hoy "yo no hablo yo escribo"</w>
+    <er>µ</er>
+    <r>sender acá es lo mismo. asi que shhh.</r>
+  </rule>
+  <rule>
+    <id>440</id>
+    <erule>1</erule>
+    <w>todo bien name</w>
+    <er>µ</er>
+    <r>si nena, vos que tal? sender</r>
+    <r>sender cansadita ! no deseos de salir , trabaje all day</r>
+  </rule>
+  <rule>
+    <id>441</id>
+    <erule>1</erule>
+    <w>name holitas nena</w>
+    <er>µ</er>
+    <r>sender holaaa ! días sin leerte</r>
+  </rule>
+  <rule>
+    <id>442</id>
+    <erule>1</erule>
+    <w>name aca es lo mismo asi que shhh</w>
+    <er>µ</er>
+    <r>sender no, pareces una niña chiquita peleona.</r>
+  </rule>
+  <rule>
+    <id>443</id>
+    <erule>1</erule>
+    <w>name saludos linda</w>
+    <er>µ</er>
+    <r>sender hey girl !</r>
+    <r>❤ [sender] ❤ hola ciela</r>
+  </rule>
+  <rule>
+    <id>444</id>
+    <erule>1</erule>
+    <w>name no pareces una nina chiquita peleona</w>
+    <er>µ</er>
+    <r>sender shhh.</r>
+  </rule>
+  <rule>
+    <id>445</id>
+    <erule>1</erule>
+    <w>rubia sol morena luna caramelos de cianuro name</w>
+    <er>µ</er>
+    <r>gracias sender</r>
+  </rule>
+  <rule>
+    <id>446</id>
+    <erule>1</erule>
+    <w>roger19_bogota hablame por sp para cm x cam es name hatmoil con marcame esoty en soledad</w>
+    <er>µ</er>
+    <r>roger19_bogota hablame por sp para cm x cam es sender hatmoil con marcame esoty en soledad</r>
+  </rule>
+  <rule>
+    <id>447</id>
+    <erule>1</erule>
+    <w>name hey girl</w>
+    <er>µ</er>
+    <r>§sender§ todo bien?</r>
+  </rule>
+  <rule>
+    <id>448</id>
+    <erule>1</erule>
+    <w>name cansadita no deseos de salir trabaje all day</w>
+    <er>µ</er>
+    <r>ufff sender</r>
+  </rule>
+  <rule>
+    <id>449</id>
+    <erule>1</erule>
+    <w>yellow coldplay name</w>
+    <er>µ</er>
+    <r>oks sender</r>
+  </rule>
+  <rule>
+    <id>450</id>
+    <erule>1</erule>
+    <w>name y el tuyo que tal</w>
+    <er>µ</er>
+    <r>§sender§ relax en casita</r>
+  </rule>
+  <rule>
+    <id>451</id>
+    <erule>1</erule>
+    <w>name relax en casita</w>
+    <er>µ</er>
+    <r>sender todo lo qué pasó ayer por un pv roto jajajaja</r>
+  </rule>
+  <rule>
+    <id>452</id>
+    <erule>1</erule>
+    <w>name esta corta esa pijama</w>
+    <er>µ</er>
+    <r>sender jajja no mires tanto miron ajajaja</r>
+  </rule>
+  <rule>
+    <id>453</id>
+    <erule>1</erule>
+    <w>name cambia ese colooor</w>
+    <er>µ</er>
+    <r>sender bueno ;-;</r>
+  </rule>
+  <rule>
+    <id>454</id>
+    <erule>1</erule>
+    <w>[name] hola ciela</w>
+    <er>µ</er>
+    <r>§sender§ que tal estas?</r>
+    <r>hola sender buenas noches :)</r>
+  </rule>
+  <rule>
+    <id>455</id>
+    <erule>1</erule>
+    <w>name nene</w>
+    <er>µ</er>
+    <r>sender: eyyy! como vas?</r>
+  </rule>
+  <rule>
+    <id>456</id>
+    <erule>1</erule>
+    <w>name y las manos para que</w>
+    <er>µ</er>
+    <r>sender para darme calorcito</r>
+  </rule>
+  <rule>
+    <id>457</id>
+    <erule>1</erule>
+    <w>name eyyy como vas</w>
+    <er>µ</er>
+    <r>sender ví que ganaron</r>
+  </rule>
+  <rule>
+    <id>458</id>
+    <erule>1</erule>
+    <w>name vi que ganaron</w>
+    <er>µ</er>
+    <r>sender: si jeje :)</r>
+  </rule>
+  <rule>
+    <id>459</id>
+    <erule>1</erule>
+    <w>buenas noches saludos desde name</w>
+    <er>µ</er>
+    <r>buenas noches ! saludos desde sender</r>
+  </rule>
+  <rule>
+    <id>460</id>
+    <erule>1</erule>
+    <w>buenas noches name (=</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ buenas</r>
+  </rule>
+  <rule>
+    <id>461</id>
+    <erule>1</erule>
+    <w>name viste el de usa</w>
+    <er>µ</er>
+    <r>sender siii ! pero ese era crónica de una muerte anunciada no eran rivales para países b</r>
+  </rule>
+  <rule>
+    <id>462</id>
+    <erule>1</erule>
+    <w>name trabaja y compratelo perraaaa</w>
+    <er>µ</er>
+    <r>claro @sender solo quería ver quién era el primer pendejo que me contestara jajajaj</r>
+  </rule>
+  <rule>
+    <id>463</id>
+    <erule>1</erule>
+    <w>soy name</w>
+    <er>µ</er>
+    <r>soy sender</r>
+    <r>soy sender</r>
+  </rule>
+  <rule>
+    <id>464</id>
+    <erule>1</erule>
+    <w>name jajajajaja sales disparada de alla xd</w>
+    <er>µ</er>
+    <r>si sender ya estaba vizca</r>
+  </rule>
+  <rule>
+    <id>465</id>
+    <erule>1</erule>
+    <w>name te toca andas calladita</w>
+    <er>µ</er>
+    <r>§sender§ oksss</r>
+  </rule>
+  <rule>
+    <id>466</id>
+    <erule>1</erule>
+    <w>name los de 35 son los andan pidiendo mujeres serias y yo no soy seria para soportar eso jajajaja</w>
+    <er>µ</er>
+    <r>sender solo relajo.</r>
+  </rule>
+  <rule>
+    <id>467</id>
+    <erule>1</erule>
+    <w>name te kelo</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ hola nenis,un poco mejor</r>
+  </rule>
+  <rule>
+    <id>468</id>
+    <erule>1</erule>
+    <w>[name] hola nenis un poco mejor</w>
+    <er>µ</er>
+    <r>sender bkn me alegro</r>
+  </rule>
+  <rule>
+    <id>469</id>
+    <erule>1</erule>
+    <w>name amor llegue</w>
+    <er>µ</er>
+    <r>otra vez sender</r>
+  </rule>
+  <rule>
+    <id>470</id>
+    <erule>1</erule>
+    <w>otra vez name</w>
+    <er>µ</er>
+    <r>sender jajajajjaa que haces</r>
+  </rule>
+  <rule>
+    <id>471</id>
+    <erule>1</erule>
+    <w>name jajajajjaa que haces</w>
+    <er>µ</er>
+    <r>que trajiste, sender?</r>
+  </rule>
+  <rule>
+    <id>472</id>
+    <erule>1</erule>
+    <w>name oksss</w>
+    <er>µ</er>
+    <r>sender (y)</r>
+  </rule>
+  <rule>
+    <id>473</id>
+    <erule>1</erule>
+    <w>que trajiste name</w>
+    <er>µ</er>
+    <r>sender traje mucho amor</r>
+  </rule>
+  <rule>
+    <id>474</id>
+    <erule>1</erule>
+    <w>name traje mucho amor</w>
+    <er>µ</er>
+    <r>qué haré con eso? no quiero sender</r>
+  </rule>
+  <rule>
+    <id>475</id>
+    <erule>1</erule>
+    <w>que hare con eso no quiero name</w>
+    <er>µ</er>
+    <r>sender ajajajjajajaja</r>
+  </rule>
+  <rule>
+    <id>476</id>
+    <erule>1</erule>
+    <w>name xd te dare 4 entonces</w>
+    <er>µ</er>
+    <r>llevo tiempo sin beber. sender</r>
+  </rule>
+  <rule>
+    <id>477</id>
+    <erule>1</erule>
+    <w>llevo tiempo sin beber name</w>
+    <er>µ</er>
+    <r>sender cuanto más menos ?</r>
+  </rule>
+  <rule>
+    <id>478</id>
+    <erule>1</erule>
+    <w>name cuanto mas menos</w>
+    <er>µ</er>
+    <r>que malo el sender</r>
+  </rule>
+  <rule>
+    <id>479</id>
+    <erule>1</erule>
+    <w>que malo el name</w>
+    <er>µ</er>
+    <r>sender yo solo los sábado me tomo algo porque en la semana voy toda las tardes al gimnasio</r>
+  </rule>
+  <rule>
+    <id>480</id>
+    <erule>1</erule>
+    <w>name yo solo los sabado me tomo algo porque en la semana voy toda las tardes al gimnasio</w>
+    <er>µ</er>
+    <r>sender mm, tenés chocolatitos?</r>
+  </rule>
+  <rule>
+    <id>481</id>
+    <erule>1</erule>
+    <w>name mm tenes chocolatitos</w>
+    <er>µ</er>
+    <r>sender si en mis labios</r>
+  </rule>
+  <rule>
+    <id>482</id>
+    <erule>1</erule>
+    <w>name si en mis labios</w>
+    <er>µ</er>
+    <r>jajajaja en la panza sender</r>
+  </rule>
+  <rule>
+    <id>483</id>
+    <erule>1</erule>
+    <w>jajajaja en la panza name</w>
+    <er>µ</er>
+    <r>sender jajajaaajaa</r>
+  </rule>
+  <rule>
+    <id>484</id>
+    <erule>1</erule>
+    <w>name una vez a la semana no hace mal jajajj</w>
+    <er>µ</er>
+    <r>sender chocolatito en el abdomen, los cuadritos. tas lento.</r>
+  </rule>
+  <rule>
+    <id>485</id>
+    <erule>1</erule>
+    <w>name sabes que no deberias</w>
+    <er>µ</er>
+    <r>sender si lo se pero una vez no es malo</r>
+  </rule>
+  <rule>
+    <id>486</id>
+    <erule>1</erule>
+    <w>que loco name</w>
+    <er>µ</er>
+    <r>sender la antonella no a venido ?</r>
+  </rule>
+  <rule>
+    <id>487</id>
+    <erule>1</erule>
+    <w>name quien dices que gana</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ ojála sea mi querida españa,oh francia</r>
+  </rule>
+  <rule>
+    <id>488</id>
+    <erule>1</erule>
+    <w>name mejor quedate tranquilito</w>
+    <er>µ</er>
+    <r>sender yo siempre tranquilo :*</r>
+  </rule>
+  <rule>
+    <id>489</id>
+    <erule>1</erule>
+    <w>name al parecer lo de ayer no le fue suficiente</w>
+    <er>µ</er>
+    <r>eso parece sender</r>
+  </rule>
+  <rule>
+    <id>490</id>
+    <erule>1</erule>
+    <w>name no ella no es frida</w>
+    <er>µ</er>
+    <r>sender noooo jajajajaj</r>
+  </rule>
+  <rule>
+    <id>491</id>
+    <erule>1</erule>
+    <w>name dijo que llevaba dos semanas aqui</w>
+    <er>µ</er>
+    <r>sender desde que te conozco, nunca estás tranquilo.</r>
+  </rule>
+  <rule>
+    <id>492</id>
+    <erule>1</erule>
+    <w>name desde que te conozco nunca estas tranquilo</w>
+    <er>µ</er>
+    <r>@sender ajjajajajaajajja</r>
+  </rule>
+  <rule>
+    <id>493</id>
+    <erule>1</erule>
+    <w>@name ajjajajajaajajja</w>
+    <er>µ</er>
+    <r>sender, ya le hizo interrogatorio y demás.</r>
+  </rule>
+  <rule>
+    <id>494</id>
+    <erule>1</erule>
+    <w>name ya le hizo interrogatorio y demas</w>
+    <er>µ</er>
+    <r>sender ya paso por el interrogativo xd</r>
+  </rule>
+  <rule>
+    <id>495</id>
+    <erule>1</erule>
+    <w>[name] 0 o</w>
+    <er>µ</er>
+    <r>sender: o.o</r>
+  </rule>
+  <rule>
+    <id>496</id>
+    <erule>1</erule>
+    <w>name eso note</w>
+    <er>µ</er>
+    <r>sender se enamoro</r>
+  </rule>
+  <rule>
+    <id>497</id>
+    <erule>1</erule>
+    <w>name se enamoro</w>
+    <er>µ</er>
+    <r>el qué? sender</r>
+  </rule>
+  <rule>
+    <id>498</id>
+    <erule>1</erule>
+    <w>el que name</w>
+    <er>µ</er>
+    <r>sender el que que ?</r>
+  </rule>
+  <rule>
+    <id>499</id>
+    <erule>1</erule>
+    <w>name anto</w>
+    <er>µ</er>
+    <r>sender tienes lo que dicen en mi país labia. y acá hay un montón de personas con falta de afecto. le escribes "amor" y ya te aman.</r>
+  </rule>
+  <rule>
+    <id>500</id>
+    <erule>1</erule>
+    <w>name tienes lo que dicen en mi pais labia y aca hay un monton de personas con falta de afecto le escribes "amor" y ya te aman</w>
+    <er>µ</er>
+    <r>sender xd</r>
+  </rule>
+  <rule>
+    <id>501</id>
+    <erule>1</erule>
+    <w>hola name buenas noches )</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ dónde andas mujer?</r>
+  </rule>
+  <rule>
+    <id>502</id>
+    <erule>1</erule>
+    <w>holii name</w>
+    <er>µ</er>
+    <r>§sender§ saludos bella :***</r>
+  </rule>
+  <rule>
+    <id>503</id>
+    <erule>1</erule>
+    <w>saludos dona name</w>
+    <er>µ</er>
+    <r>buenas don sender y _barba_b|anca_</r>
+  </rule>
+  <rule>
+    <id>504</id>
+    <erule>1</erule>
+    <w>name locos tambien le escriben cualquier cosa y se ilusionan</w>
+    <er>µ</er>
+    <r>§sender§ asi es como hay quien recibe un no por respuesta y se vuelve toxico</r>
+  </rule>
+  <rule>
+    <id>505</id>
+    <erule>1</erule>
+    <w>name asi es como hay quien recibe un no por respuesta y se vuelve toxico</w>
+    <er>µ</er>
+    <r>sender, esos son los míos. de esos tengo un listin. jajaja</r>
+  </rule>
+  <rule>
+    <id>506</id>
+    <erule>1</erule>
+    <w>[name] ya no llegaron</w>
+    <er>µ</er>
+    <r>pues por eso sender mejor en trivia al menos leo algo que me hace pensar un poco jeje</r>
+  </rule>
+  <rule>
+    <id>507</id>
+    <erule>1</erule>
+    <w>name estuvo la semana ante pasada</w>
+    <er>µ</er>
+    <r>sender gracias debe andar paseando</r>
+  </rule>
+  <rule>
+    <id>508</id>
+    <erule>1</erule>
+    <w>estas bien name</w>
+    <er>µ</er>
+    <r>sender, si, bastante mejor. gracias!</r>
+  </rule>
+  <rule>
+    <id>509</id>
+    <erule>1</erule>
+    <w>name saludos amigo mio )</w>
+    <er>µ</er>
+    <r>sender: y vos quien sos?</r>
+  </rule>
+  <rule>
+    <id>510</id>
+    <erule>1</erule>
+    <w>name me ire al deporte cuidate mucho hablamos despues si estas nena</w>
+    <er>µ</er>
+    <r>chiao, sender y no bebas eh.</r>
+  </rule>
+  <rule>
+    <id>511</id>
+    <erule>1</erule>
+    <w>name hace el pra pra pra</w>
+    <er>µ</er>
+    <r>sender: bien ahi sos como un engache por derecha</r>
+  </rule>
+  <rule>
+    <id>512</id>
+    <erule>1</erule>
+    <w>name dale q eros y yo pagamos el fernet y te presentamos alguna mina</w>
+    <er>µ</er>
+    <r>sender: así sí me parece x-p</r>
+  </rule>
+  <rule>
+    <id>513</id>
+    <erule>1</erule>
+    <w>name asi si me parece x p</w>
+    <er>µ</er>
+    <r>sender: bien ahi bigotes</r>
+  </rule>
+  <rule>
+    <id>514</id>
+    <erule>1</erule>
+    <w>hola soy name</w>
+    <er>µ</er>
+    <r>hola soy sender</r>
+  </rule>
+  <rule>
+    <id>515</id>
+    <erule>1</erule>
+    <w>name todo lo que se mueva</w>
+    <er>µ</er>
+    <r>sender: bien dicho sos de mi club</r>
+  </rule>
+  <rule>
+    <id>516</id>
+    <erule>1</erule>
+    <w>name no chamuyes en lunfardo que note cazan una</w>
+    <er>µ</er>
+    <r>sender: ves q no me enteindan?</r>
+  </rule>
+  <rule>
+    <id>517</id>
+    <erule>1</erule>
+    <w>name que cortaremos</w>
+    <er>µ</er>
+    <r>sender: nose estoy pensando eso mesmo</r>
+  </rule>
+  <rule>
+    <id>518</id>
+    <erule>1</erule>
+    <w>name mantita no lleva</w>
+    <er>µ</er>
+    <r>sender: ni q fuera dawn para usar mantita</r>
+  </rule>
+  <rule>
+    <id>519</id>
+    <erule>1</erule>
+    <w>name no me gusta</w>
+    <er>µ</er>
+    <r>a mí sí. sender</r>
+  </rule>
+  <rule>
+    <id>520</id>
+    <erule>1</erule>
+    <w>name jjajaja de una amor</w>
+    <er>µ</er>
+    <r>sender jajaja no me prometas cosas en vano q me enamoro rapido che</r>
+  </rule>
+  <rule>
+    <id>521</id>
+    <erule>1</erule>
+    <w>ajjaajjajajjajaja name y bueno las argentinas somos muy expresivas</w>
+    <er>µ</er>
+    <r>sender jajajaja lo veo corazon busca el fernuco q llevo el vaso y mi presencia</r>
+  </rule>
+  <rule>
+    <id>522</id>
+    <erule>1</erule>
+    <w>ok name te espero lin</w>
+    <er>µ</er>
+    <r>sender pasa la direccion y te caemos con masita y su organo</r>
+  </rule>
+  <rule>
+    <id>523</id>
+    <erule>1</erule>
+    <w>jajjajjjajajjaajaj sera un placer name</w>
+    <er>µ</er>
+    <r>sender: jajaja vaso de agua te dicen? no se le niega a nadie</r>
+  </rule>
+  <rule>
+    <id>524</id>
+    <erule>1</erule>
+    <w>name jajaja vaso de agua te dicen no se le niega a nadie</w>
+    <er>µ</er>
+    <r>jajjajajaj y bueno asi somos sender</r>
+  </rule>
+  <rule>
+    <id>525</id>
+    <erule>1</erule>
+    <w>jajjajajaj y bueno asi somos name</w>
+    <er>µ</er>
+    <r>[eros] cien por ciento fiestera es la sender</r>
+  </rule>
+  <rule>
+    <id>526</id>
+    <erule>1</erule>
+    <w>100% name de jodaa</w>
+    <er>µ</er>
+    <r>sender: fue veni q pongo cuarteto y vos ponete la bikini</r>
+  </rule>
+  <rule>
+    <id>527</id>
+    <erule>1</erule>
+    <w>jajjajajajaj y te juro q voy name no me importa nd la vida es una</w>
+    <er>µ</er>
+    <r>sender jajaja me vas a enamorar uacha</r>
+  </rule>
+  <rule>
+    <id>528</id>
+    <erule>1</erule>
+    <w>jajjajjajajajaja sera name</w>
+    <er>µ</er>
+    <r>sender: jajaja nose si sera pero el telo es media sabelo</r>
+  </rule>
+  <rule>
+    <id>529</id>
+    <erule>1</erule>
+    <w>jajajjajajjja sis si de una name</w>
+    <er>µ</er>
+    <r>sender: masita va con su novio</r>
+  </rule>
+  <rule>
+    <id>530</id>
+    <erule>1</erule>
+    <w>name invitanos q caemos con masita y te chamuyamos las amigas mas feas</w>
+    <er>µ</er>
+    <r>jajajajaja bueno dale sender</r>
+  </rule>
+  <rule>
+    <id>531</id>
+    <erule>1</erule>
+    <w>jajajajaja bueno dale name</w>
+    <er>µ</er>
+    <r>sender anda con quien quieras pero presentanos algunas gordas al menos</r>
+  </rule>
+  <rule>
+    <id>532</id>
+    <erule>1</erule>
+    <w>v name andan muy sensibles los mods</w>
+    <er>µ</er>
+    <r>sender, eso pasa por búsquedas raras.</r>
+  </rule>
+  <rule>
+    <id>533</id>
+    <erule>1</erule>
+    <w>de que parte es name napo</w>
+    <er>µ</er>
+    <r>y xq no me preguntas directamente a mi sender ?</r>
+  </rule>
+  <rule>
+    <id>534</id>
+    <erule>1</erule>
+    <w>y xq no me preguntas directamente a mi name</w>
+    <er>µ</er>
+    <r>porque no nos presentaron, sender</r>
+  </rule>
+  <rule>
+    <id>535</id>
+    <erule>1</erule>
+    <w>name entonces vendelo</w>
+    <er>µ</er>
+    <r>ayse, el sender es así.</r>
+  </rule>
+  <rule>
+    <id>536</id>
+    <erule>1</erule>
+    <w>ayse el name es asi</w>
+    <er>µ</er>
+    <r>la sender le gusta.</r>
+  </rule>
+  <rule>
+    <id>537</id>
+    <erule>1</erule>
+    <w>name basura estas</w>
+    <er>µ</er>
+    <r>sender olis mamu</r>
+  </rule>
+  <rule>
+    <id>538</id>
+    <erule>1</erule>
+    <w>name no te hagas sacar por gusto para huir jajaha</w>
+    <er>µ</er>
+    <r>sender sin agresiones sender o te rajan</r>
+  </rule>
+  <rule>
+    <id>539</id>
+    <erule>1</erule>
+    <w>name por favor evite comentarios molestos o faltas de respeto al resto de los usuarios primer aviso gracias</w>
+    <er>µ</er>
+    <r>sender ok ya me voy</r>
+  </rule>
+  <rule>
+    <id>540</id>
+    <erule>1</erule>
+    <w>name cuida la retaguardia decia bonaparte</w>
+    <er>µ</er>
+    <r>fresa cuando te vayas vuelvo a ver mi mujer sender hoy te toca si</r>
+  </rule>
+  <rule>
+    <id>541</id>
+    <erule>1</erule>
+    <w>fresa cuando te vayas vuelvo a ver mi mujer name hoy te toca si</w>
+    <er>µ</er>
+    <r>sender: vas a besarme?</r>
+  </rule>
+  <rule>
+    <id>542</id>
+    <erule>1</erule>
+    <w>eres jack el destripador no el titanic name</w>
+    <er>µ</er>
+    <r>sender: soy jack el bonito</r>
+  </rule>
+  <rule>
+    <id>543</id>
+    <erule>1</erule>
+    <w>name pensaba estabas de party</w>
+    <er>µ</er>
+    <r>sender hola pr estuve trabajando</r>
+  </rule>
+  <rule>
+    <id>544</id>
+    <erule>1</erule>
+    <w>[name] hola nene</w>
+    <er>µ</er>
+    <r>sender cómo estás</r>
+  </rule>
+  <rule>
+    <id>545</id>
+    <erule>1</erule>
+    <w>[name] bien y tu</w>
+    <er>µ</er>
+    <r>sender bien llegado a casa</r>
+  </rule>
+  <rule>
+    <id>546</id>
+    <erule>1</erule>
+    <w>name bien llegado a casa</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ cansado me imagino no?</r>
+  </rule>
+  <rule>
+    <id>547</id>
+    <erule>1</erule>
+    <w>[name] cansado me imagino no</w>
+    <er>µ</er>
+    <r>sender no ya estoy acostumbrado</r>
+  </rule>
+  <rule>
+    <id>548</id>
+    <erule>1</erule>
+    <w>name no ya estoy acostumbrado</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ poecito</r>
+  </rule>
+  <rule>
+    <id>549</id>
+    <erule>1</erule>
+    <w>[name] poecito</w>
+    <er>µ</er>
+    <r>sender a demás me tome pal de fría</r>
+  </rule>
+  <rule>
+    <id>550</id>
+    <erule>1</erule>
+    <w>name a demas me tome pal de fria</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ tomaste que?</r>
+  </rule>
+  <rule>
+    <id>551</id>
+    <erule>1</erule>
+    <w>[name] tomaste que</w>
+    <er>µ</er>
+    <r>sender 2 cerveza</r>
+  </rule>
+  <rule>
+    <id>552</id>
+    <erule>1</erule>
+    <w>name 2 cerveza</w>
+    <er>µ</er>
+    <r>❤ [sender] ❤ ashhh te gusta beber</r>
+  </rule>
+  <rule>
+    <id>553</id>
+    <erule>1</erule>
+    <w>[name] ashhh te gusta beber</w>
+    <er>µ</er>
+    <r>sender no solo para combatir el extres l</r>
+  </rule>
+  <rule>
+    <id>554</id>
+    <erule>1</erule>
+    <w>las dos cervesas del name</w>
+    <er>µ</er>
+    <r>sender jajajaaj pr</r>
+  </rule>
+  <rule>
+    <id>555</id>
+    <erule>1</erule>
+    <w>hola buenas noches name</w>
+    <er>µ</er>
+    <r>sender , saludos .</r>
+  </rule>
+  <rule>
+    <id>556</id>
+    <erule>1</erule>
+    <w>[name] buenas</w>
+    <er>µ</er>
+    <r>buenas noches sender</r>
+  </rule>
+  <rule>
+    <id>557</id>
+    <erule>1</erule>
+    <w>name siempre se toma dos cervezas para ponerse en fa soymia ahora parece que esta en fo porque dice cada cosa</w>
+    <er>µ</er>
+    <r>sender gracias graciano jaja</r>
+  </rule>
+  <rule>
+    <id>558</id>
+    <erule>1</erule>
+    <w>no hagas caso name son inventos de la prensa</w>
+    <er>µ</er>
+    <r>sender no tuya jajaja siempre me tiras piedras</r>
+  </rule>
+  <rule>
+    <id>559</id>
+    <erule>1</erule>
+    <w>name no tuya jajaja siempre me tiras piedras</w>
+    <er>µ</er>
+    <r>sender vive en la calle manguito 1335</r>
+  </rule>
+  <rule>
+    <id>560</id>
+    <erule>1</erule>
+    <w>name vive en la calle manguito 1335</w>
+    <er>µ</er>
+    <r>sender oye no lo digas jaja</r>
+  </rule>
+  <rule>
+    <id>561</id>
+    <erule>1</erule>
+    <w>name oye no lo digas jaja</w>
+    <er>µ</er>
+    <r>no digas esas cosas, sender, soy el de las flechitas, no de las piedras, mano!</r>
+  </rule>
+  <rule>
+    <id>562</id>
+    <erule>1</erule>
+    <w>no digas esas cosas name soy el de las flechitas no de las piedras mano</w>
+    <er>µ</er>
+    <r>sender esta bien ajaj</r>
+  </rule>
+  <rule>
+    <id>563</id>
+    <erule>1</erule>
+    <w>name esta bien ajaj</w>
+    <er>µ</er>
+    <r>ya borré el mensaje anterior, sender, ese mensaje donde decía que vives en la calle manguito 1335, está borrado!</r>
+  </rule>
+  <rule>
+    <id>564</id>
+    <erule>1</erule>
+    <w>name no lo subestimes</w>
+    <er>µ</er>
+    <r>sender no nunca es mi amiga graciano</r>
+  </rule>
+  <rule>
+    <id>565</id>
+    <erule>1</erule>
+    <w>ya borre el mensaje anterior name ese mensaje donde decia que vives en la calle manguito 1335 esta borrado</w>
+    <er>µ</er>
+    <r>sender jajajaj</r>
+  </rule>
+  <rule>
+    <id>566</id>
+    <erule>1</erule>
+    <w>name soymia es de borinquen por mas que tu seas de quisqueya</w>
+    <er>µ</er>
+    <r>sender por lo menos sabes ajaj</r>
+  </rule>
+  <rule>
+    <id>567</id>
+    <erule>1</erule>
+    <w>name por lo menos sabes ajaj</w>
+    <er>µ</er>
+    <r>así es, sender!</r>
+  </rule>
+  <rule>
+    <id>568</id>
+    <erule>1</erule>
+    <w>asi es name</w>
+    <er>µ</er>
+    <r>sender tú eres grecia así que yo también sé jaja</r>
+  </rule>
+  <rule>
+    <id>569</id>
+    <erule>1</erule>
+    <w>name tu eres grecia asi que yo tambien se jaja</w>
+    <er>µ</er>
+    <r>sender es mi amigo afganistano, soymia</r>
+  </rule>
+  <rule>
+    <id>570</id>
+    <erule>1</erule>
+    <w>name hola hermosa</w>
+    <er>µ</er>
+    <r>sender saluditos jovencito</r>
+  </rule>
+  <rule>
+    <id>571</id>
+    <erule>1</erule>
+    <w>name chamitaaa</w>
+    <er>µ</er>
+    <r>sender chamito :*</r>
+  </rule>
+  <rule>
+    <id>572</id>
+    <erule>1</erule>
+    <w>name como estas hermosa</w>
+    <er>µ</er>
+    <r>sender muy bien y vos?</r>
+  </rule>
+  <rule>
+    <id>573</id>
+    <erule>1</erule>
+    <w>name feliz cumpleanos</w>
+    <er>µ</er>
+    <r>sender plop</r>
+  </rule>
+  <rule>
+    <id>574</id>
+    <erule>1</erule>
+    <w>name bien gracias estas de cumple</w>
+    <er>µ</er>
+    <r>sender jajaja falta aún</r>
+  </rule>
+  <rule>
+    <id>575</id>
+    <erule>1</erule>
+    <w>name esta afuera envuelto sobre cuatro ruedas</w>
+    <er>µ</er>
+    <r>sender se adelanto</r>
+  </rule>
+  <rule>
+    <id>576</id>
+    <erule>1</erule>
+    <w>name se adelanto</w>
+    <er>µ</er>
+    <r>sender si porque la parte interesante está envuelta en papel.</r>
+  </rule>
+  <rule>
+    <id>577</id>
+    <erule>1</erule>
+    <w>name ahh jaaja y mis gatitos como estan</w>
+    <er>µ</er>
+    <r>sender muy bien como debe ser ;)</r>
+  </rule>
+  <rule>
+    <id>578</id>
+    <erule>1</erule>
+    <w>que tal name como te fue</w>
+    <er>µ</er>
+    <r>§sender§ todo bien</r>
+  </rule>
+  <rule>
+    <id>579</id>
+    <erule>1</erule>
+    <w>name si porque la parte interesante esta envuelta en papel</w>
+    <er>µ</er>
+    <r>sender jajajaha uyy q sera me da un adelanto?</r>
+  </rule>
+  <rule>
+    <id>580</id>
+    <erule>1</erule>
+    <w>name jajajaha uyy q sera me da un adelanto</w>
+    <er>µ</er>
+    <r>sender hace run runn.</r>
+  </rule>
+  <rule>
+    <id>581</id>
+    <erule>1</erule>
+    <w>soy name tengo 14 y bueno un gusto conocerlos</w>
+    <er>µ</er>
+    <r>soy sender! tengo 14 y bueno un gusto conocerlos!..^^</r>
+  </rule>
+  <rule>
+    <id>582</id>
+    <erule>1</erule>
+    <w>name pero si tu quieres haces wiu wiu</w>
+    <er>µ</er>
+    <r>sender es cumple del enano</r>
+  </rule>
+  <rule>
+    <id>583</id>
+    <erule>1</erule>
+    <w>name tu novio entra con el nick fer</w>
+    <er>µ</er>
+    <r>no sender :/ el ni tiene tiempo de entrar</r>
+  </rule>
+  <rule>
+    <id>584</id>
+    <erule>1</erule>
+    <w>name wuenas xd</w>
+    <er>µ</er>
+    <r>sender: hola</r>
+  </rule>
+  <rule>
+    <id>585</id>
+    <erule>1</erule>
+    <w>name q hace pues pensandome xd</w>
+    <er>µ</er>
+    <r>sender: no</r>
+  </rule>
+  <rule>
+    <id>586</id>
+    <erule>1</erule>
+    <w>name la otra era mas hostigosa</w>
+    <er>µ</er>
+    <r>sender asi es era un peligro total</r>
+  </rule>
+  <rule>
+    <id>587</id>
+    <erule>1</erule>
+    <w>name ya se</w>
+    <er>µ</er>
+    <r>sender: a</r>
+  </rule>
+  <rule>
+    <id>588</id>
+    <erule>1</erule>
+    <w>name a</w>
+    <er>µ</er>
+    <r>sender: q tiene linda</r>
+  </rule>
+  <rule>
+    <id>589</id>
+    <erule>1</erule>
+    <w>name q tiene linda</w>
+    <er>µ</er>
+    <r>sender: le muerde su dedo*</r>
+  </rule>
+  <rule>
+    <id>590</id>
+    <erule>1</erule>
+    <w>name y el canal de yt ya no has hecho videos o te hiciste otro</w>
+    <er>µ</er>
+    <r>sender ando con la tesis</r>
+  </rule>
+  <rule>
+    <id>591</id>
+    <erule>1</erule>
+    <w>name le muerde su dedo</w>
+    <er>µ</er>
+    <r>sender: mejor otra cosa no xd</r>
+  </rule>
+  <rule>
+    <id>592</id>
+    <erule>1</erule>
+    <w>name mejor otra cosa no xd</w>
+    <er>µ</er>
+    <r>sender: pevetido</r>
+  </rule>
+  <rule>
+    <id>593</id>
+    <erule>1</erule>
+    <w>name ando con la tesis</w>
+    <er>µ</er>
+    <r>sender kraf que se llamaba el canal</r>
+  </rule>
+  <rule>
+    <id>594</id>
+    <erule>1</erule>
+    <w>name pevetido</w>
+    <er>µ</er>
+    <r>sender: normal</r>
+  </rule>
+  <rule>
+    <id>595</id>
+    <erule>1</erule>
+    <w>name pos ya no hicieron mas videos</w>
+    <er>µ</er>
+    <r>simon sender</r>
+  </rule>
+  <rule>
+    <id>596</id>
+    <erule>1</erule>
+    <w>name como q no</w>
+    <er>µ</er>
+    <r>sender: sip</r>
+  </rule>
+  <rule>
+    <id>597</id>
+    <erule>1</erule>
+    <w>u yopuedo ser vos name</w>
+    <er>µ</er>
+    <r>sender</r>
+  </rule>
+  <rule>
+    <id>598</id>
+    <erule>1</erule>
+    <w>name si eres xd</w>
+    <er>µ</er>
+    <r>sender: a ok así estamos vale</r>
+  </rule>
+  <rule>
+    <id>599</id>
+    <erule>1</erule>
+    <w>name a ok asi estamos vale</w>
+    <er>µ</er>
+    <r>sender: mentira xd</r>
+  </rule>
+  <rule>
+    <id>600</id>
+    <erule>1</erule>
+    <w>name se queda</w>
+    <er>µ</er>
+    <r>sender: obligame</r>
+  </rule>
+  <rule>
+    <id>601</id>
+    <erule>1</erule>
+    <w>name obligame</w>
+    <er>µ</er>
+    <r>sender: bueno pero no se enoje</r>
+  </rule>
+  <rule>
+    <id>602</id>
+    <erule>1</erule>
+    <w>name _</w>
+    <er>µ</er>
+    <r>sender: k pasó</r>
+  </rule>
+  <rule>
+    <id>603</id>
+    <erule>1</erule>
+    <w>name como estamos</w>
+    <er>µ</er>
+    <r>sender</r>
+  </rule>
+  <rule>
+    <id>604</id>
+    <erule>1</erule>
+    <w>name vamonos</w>
+    <er>µ</er>
+    <r>sender para donde</r>
+  </rule>
+  <rule>
+    <id>605</id>
+    <erule>1</erule>
+    <w>name para donde</w>
+    <er>µ</er>
+    <r>sender: donde sea</r>
+  </rule>
+  <rule>
+    <id>606</id>
+    <erule>1</erule>
+    <w>ya fustes name</w>
+    <er>µ</er>
+    <r>sender espera turno</r>
+  </rule>
+  <rule>
+    <id>607</id>
+    <erule>1</erule>
+    <w>name espera turno</w>
+    <er>µ</er>
+    <r>de que hablas sender</r>
+  </rule>
+  <rule>
+    <id>608</id>
+    <erule>1</erule>
+    <w>hola jeje name</w>
+    <er>µ</er>
+    <r>sender te vi</r>
+  </rule>
+  <rule>
+    <id>609</id>
+    <erule>1</erule>
+    <w>de que hablas name</w>
+    <er>µ</er>
+    <r>sender me esperas?</r>
+  </rule>
+  <rule>
+    <id>610</id>
+    <erule>1</erule>
+    <w>no hay gente name</w>
+    <er>µ</er>
+    <r>como que no?</r>
+  </rule>
+  <rule>
+    <id>611</id>
+    <erule>1</erule>
+    <w>quien es elon musk name</w>
+    <er>µ</er>
+    <r>el dueño de spacex</r>
+  </rule>
+  <rule>
+    <id>612</id>
+    <erule>1</erule>
+    <w>que es cuayollotl/cuayolote name</w>
+    <er>µ</er>
+    <r>es un guajolote --l pero mas grande hahahaha</r>
+    <r>es cerebro en maya</r>
+    <r>no se, en que contexto?</r>
+  </rule>
+  <rule>
+    <id>613</id>
+    <erule>1</erule>
+    <w>que hace axel name</w>
+    <er>µ</er>
+    <r>hace una protometa arquitectura precaria hahaha</r>
+    <r>oye tu no juegues --l que buena pregunta eh hahahaha</r>
+    <r>hace percepción --l o eso nos hace creer --l aunque depende del contexto</r>
+  </rule>
+  <rule>
+    <id>614</id>
+    <erule>1</erule>
+    <w>y alison name</w>
+    <er>µ</er>
+    <r>esta en ciudad judicial --l viene en cinco minutos</r>
+  </rule>
+  <rule>
+    <id>615</id>
+    <erule>1</erule>
+    <w>de donde es alison name</w>
+    <er>µ</er>
+    <r>Cubayork</r>
+  </rule>
+  <rule>
+    <id>616</id>
+    <erule>1</erule>
+    <w>name sabes quien es diana</w>
+    <er>µ</er>
+    <r>sender es la morra que golpea con motivacion</r>
+  </rule>
+  <rule>
+    <id>617</id>
+    <erule>1</erule>
+    <w>porque eres amiga de name</w>
+    <er>µ</er>
+    <r>porque me secuestro</r>
+    <r>porque me iba a matar si no</r>
+  </rule>
+  <rule>
+    <id>618</id>
+    <erule>1</erule>
+    <w>quien es felix ramos name</w>
+    <er>µ</er>
+    <r>el profesor que te dice no me gusto</r>
+    <r>uno que siempre se truena al Alison</r>
+    <r>el profesor que odia a gustavo --l y se lo trae como escoba</r>
+  </rule>
+  <rule>
+    <id>619</id>
+    <erule>1</erule>
+    <w>quien es francisco name</w>
+    <er>µ</er>
+    <r>uno que se mete en la ciclovia</r>
+    <r>el de atención no --l es bien ilegal</r>
+  </rule>
+  <rule>
+    <id>620</id>
+    <erule>1</erule>
+    <w>name crees que francisco ira a la carcel</w>
+    <er>µ</er>
+    <r>sender yo creo que si</r>
+  </rule>
+  <rule>
+    <id>621</id>
+    <erule>1</erule>
+    <w>quien es la novia de gustavo name</w>
+    <er>µ</er>
+    <r>no se --l pero de seguro de llama Lupita</r>
+    <r>es el David</r>
+    <r>es una morra crickosa</r>
+    <r>una morra que fuma mota --l o le entra a la piedra</r>
+  </rule>
+  <rule>
+    <id>622</id>
+    <erule>1</erule>
+    <w>como llego al cinves name</w>
+    <er>µ</er>
+    <r>tomas un camion --l y despues corre porque te persiguen unos perros</r>
+    <r>llegas muerto</r>
+    <r>no llegas, mueres en el camino</r>
+  </rule>
+  <rule>
+    <id>623</id>
+    <erule>1</erule>
+    <w>el mexone va a caminar name</w>
+    <er>µ</er>
+    <r>jajajaja que buen chiste</r>
+    <r>no --l nunca --l y si vienes conmigo tu tampoco</r>
+    <r>ni en mil años</r>
+    <r>solo con ayuda de pedro y juan</r>
+  </rule>
+  <rule>
+    <id>624</id>
+    <erule>1</erule>
+    <w>name yo creo que si</w>
+    <er>µ</er>
+    <r>ya la voy a apagar sender</r>
+  </rule>
+  <rule>
+    <id>625</id>
+    <erule>1</erule>
+    <w>name no aun no ;v</w>
+    <er>µ</er>
+    <r>sender nooooo xd</r>
+  </rule>
+  <rule>
+    <id>626</id>
+    <erule>1</erule>
+    <w>name nooooo xd</w>
+    <er>µ</er>
+    <r>sender: no me convertiré en uno de ellos</r>
+  </rule>
+  <rule>
+    <id>627</id>
+    <erule>1</erule>
+    <w>name hola bro saludos buena noche</w>
+    <er>µ</er>
+    <r>sender saludos bro noches buenas</r>
+  </rule>
+  <rule>
+    <id>628</id>
+    <erule>1</erule>
+    <w>name</w>
+    <er>µ</er>
+    <r>sender</r>
+    <r>sender: pensé que te habías ido</r>
+    <r>sender ;-;</r>
+    <r>sender que paso</r>
+    <r>sender: si?</r>
+  </rule>
+  <rule>
+    <id>629</id>
+    <erule>1</erule>
+    <w>name no hace falta tantas z" y su tenes sueno andate</w>
+    <er>µ</er>
+    <r>sender: tu no te fuiste we</r>
+  </rule>
+  <rule>
+    <id>630</id>
+    <erule>1</erule>
+    <w>name pense que te habias ido</w>
+    <er>µ</er>
+    <r>sender no xd</r>
+  </rule>
+  <rule>
+    <id>631</id>
+    <erule>1</erule>
+    <w>name se puede</w>
+    <er>µ</er>
+    <r>muy bien y vos? sender</r>
+  </rule>
+  <rule>
+    <id>632</id>
+    <erule>1</erule>
+    <w>muy bien y vos name</w>
+    <er>µ</er>
+    <r>sender bien gracias a dios todo bien</r>
+  </rule>
+  <rule>
+    <id>633</id>
+    <erule>1</erule>
+    <w>name congresista mejor</w>
+    <er>µ</er>
+    <r>sender: esos quieren nepe</r>
+  </rule>
+  <rule>
+    <id>634</id>
+    <erule>1</erule>
+    <w>name que paso</w>
+    <er>µ</er>
+    <r>sender: aún no pierdes el juicio?</r>
+  </rule>
+  <rule>
+    <id>635</id>
+    <erule>1</erule>
+    <w>name aun no pierdes el juicio</w>
+    <er>µ</er>
+    <r>sender nunca ganaré xd</r>
+  </rule>
+  <rule>
+    <id>636</id>
+    <erule>1</erule>
+    <w>name que inteligente</w>
+    <er>µ</er>
+    <r>sender: se me paro :(</r>
+    <r>lo soy</r>
+    <r>soy una genio</r>
+  </rule>
+  <rule>
+    <id>637</id>
+    <erule>1</erule>
+    <w>name nunca ganare xd</w>
+    <er>µ</er>
+    <r>sender: tengo algo que decirte al dm</r>
+  </rule>
+  <rule>
+    <id>638</id>
+    <erule>1</erule>
+    <w>name tengo algo que decirte al dm</w>
+    <er>µ</er>
+    <r>sender okis</r>
+  </rule>
+  <rule>
+    <id>639</id>
+    <erule>1</erule>
+    <w>name le dices q vine por el</w>
+    <er>µ</er>
+    <r>[*sender*] con ese nick...?</r>
+  </rule>
+  <rule>
+    <id>640</id>
+    <erule>1</erule>
+    <w>@ name hola saludos sol disfruta tu chat</w>
+    <er>µ</er>
+    <r>[*sender*] igualmente.!</r>
+  </rule>
+  <rule>
+    <id>641</id>
+    <erule>1</erule>
+    <w>name viene cerca de medianoche no se si podre venir solo dime q lo busco y lo quiero</w>
+    <er>µ</er>
+    <r>[*sender*] está asomando temprano..</r>
+  </rule>
+  <rule>
+    <id>642</id>
+    <erule>1</erule>
+    <w>buenas noches name es una cancion muy bonita</w>
+    <er>µ</er>
+    <r>sip, mucho, saluditos cariñosos sender</r>
+  </rule>
+  <rule>
+    <id>643</id>
+    <erule>1</erule>
+    <w>name heyeayeayeyayeya</w>
+    <er>µ</er>
+    <r>a little peculiar, sender.</r>
+  </rule>
+  <rule>
+    <id>644</id>
+    <erule>1</erule>
+    <w>name que hacer el amor borracho</w>
+    <er>µ</er>
+    <r>sender: pues antes me gustaba mucho tomar cuando cocinaba mas que todo jajajajjajaja</r>
+  </rule>
+  <rule>
+    <id>645</id>
+    <erule>1</erule>
+    <w>name en los matrimonios el novio termina totalmente borracho muchas veces</w>
+    <er>µ</er>
+    <r>ni idea. jamás tuve pareja en ése nivel, sender.</r>
+  </rule>
+  <rule>
+    <id>646</id>
+    <erule>1</erule>
+    <w>ni idea jamas tuve pareja en ese nivel name</w>
+    <er>µ</er>
+    <r>sender: por la emocion se emborrachan</r>
+  </rule>
+  <rule>
+    <id>647</id>
+    <erule>1</erule>
+    <w>name pues digo trago moderado siempre guardando la compostura</w>
+    <er>µ</er>
+    <r>sender que compostura va tener ud webcammer</r>
+  </rule>
+  <rule>
+    <id>648</id>
+    <erule>1</erule>
+    <w>name por su despedida de soltero hacen unos fiestones jajaja</w>
+    <er>µ</er>
+    <r>pensé que la gente se emborracha por gusto al alcohol. como los que disfrutan de fumar, sender.</r>
+  </rule>
+  <rule>
+    <id>649</id>
+    <erule>1</erule>
+    <w>name que compostura va tener ud webcammer</w>
+    <er>µ</er>
+    <r>sender: yo hasta me compré un libro de cócteles para prepararme y espero montar mi licorera en la casa obviamente</r>
+  </rule>
+  <rule>
+    <id>650</id>
+    <erule>1</erule>
+    <w>name no es por eso es vicio</w>
+    <er>µ</er>
+    <r>sender, solo lo hacen en el momento de su despedida de soltero</r>
+  </rule>
+  <rule>
+    <id>651</id>
+    <erule>1</erule>
+    <w>name eso es vicio</w>
+    <er>µ</er>
+    <r>apoco?</r>
+  </rule>
+  <rule>
+    <id>652</id>
+    <erule>1</erule>
+    <w>name usted se ve que es bien pobreton jajajajajajaj</w>
+    <er>µ</er>
+    <r>sender ud es pobre</r>
+  </rule>
+  <rule>
+    <id>653</id>
+    <erule>1</erule>
+    <w>name ud es pobre</w>
+    <er>µ</er>
+    <r>sender: pues no soy ricachona pero le gustó a puro ricachón para que veas jajajjaja</r>
+  </rule>
+  <rule>
+    <id>654</id>
+    <erule>1</erule>
+    <w>name pues no soy ricachona pero le gusto a puro ricachon para que veas jajajjaja</w>
+    <er>µ</er>
+    <r>sender pues deben ser richachones todos feossss, horrribles</r>
+  </rule>
+  <rule>
+    <id>655</id>
+    <erule>1</erule>
+    <w>name pues deben ser richachones todos feossss horrribles</w>
+    <er>µ</er>
+    <r>sender: jajajjajjajaja pues que te digo soy debuenas para hombres jóvenes adinerados jajajjajjajaja</r>
+  </rule>
+  <rule>
+    <id>656</id>
+    <erule>1</erule>
+    <w>name lene</w>
+    <er>µ</er>
+    <r>sender si</r>
+  </rule>
+  <rule>
+    <id>657</id>
+    <erule>1</erule>
+    <w>name si</w>
+    <er>µ</er>
+    <r>esta en una sala de religión no sender?</r>
+  </rule>
+  <rule>
+    <id>658</id>
+    <erule>1</erule>
+    <w>la base de la religion es amar al projimo y no juzgar verdad name</w>
+    <er>µ</er>
+    <r>sender no lo se, dime tu</r>
+  </rule>
+  <rule>
+    <id>659</id>
+    <erule>1</erule>
+    <w>name no lo se dime tu</w>
+    <er>µ</er>
+    <r>sender lo digo porq vos esta en un chat religioso también</r>
+  </rule>
+  <rule>
+    <id>660</id>
+    <erule>1</erule>
+    <w>name com mamtequimlla</w>
+    <er>µ</er>
+    <r>hola sender</r>
+  </rule>
+  <rule>
+    <id>661</id>
+    <erule>1</erule>
+    <w>name si que pasa</w>
+    <er>µ</er>
+    <r>sender por eso digo lo del projimoe</r>
+  </rule>
+  <rule>
+    <id>662</id>
+    <erule>1</erule>
+    <w>name y una que otra mala</w>
+    <er>µ</er>
+    <r>sender: perdida de tiempo</r>
+  </rule>
+  <rule>
+    <id>663</id>
+    <erule>1</erule>
+    <w>name por eso digo lo del projimoe</w>
+    <er>µ</er>
+    <r>sender que es lo del projimo</r>
+  </rule>
+  <rule>
+    <id>664</id>
+    <erule>1</erule>
+    <w>name perdida de tiempo</w>
+    <er>µ</er>
+    <r>sender: es cierto, si te falta tiempo no te queda otra</r>
+  </rule>
+  <rule>
+    <id>665</id>
+    <erule>1</erule>
+    <w>name jajajjajjajaja no tengo la culpa</w>
+    <er>µ</er>
+    <r>berdadero63 supon que le pagas aqui a sender por que te muestre sus partes intimas</r>
+  </rule>
+  <rule>
+    <id>666</id>
+    <erule>1</erule>
+    <w>name pruebas</w>
+    <er>µ</er>
+    <r>sender piensas que te fue bien, te sientes muy bien, pero el daño te lo haces tu</r>
+  </rule>
+  <rule>
+    <id>667</id>
+    <erule>1</erule>
+    <w>name piensas que te fue bien te sientes muy bien pero el dano te lo haces tu</w>
+    <er>µ</er>
+    <r>sender: dañar ?</r>
+  </rule>
+  <rule>
+    <id>668</id>
+    <erule>1</erule>
+    <w>no te creo si de verdad atraes a tipos con dinero no estarias una madrugada de sabado en un chat gratis name estarias en un jacuzzi bebiendo name y tomando cocaina con tu "gigolo" a lo richard gere</w>
+    <er>µ</er>
+    <r>sender: estoy entregada a dios no hago cosas malas simplemente no lo hago y ya</r>
+  </rule>
+  <rule>
+    <id>669</id>
+    <erule>1</erule>
+    <w>name aqui se habla espanol</w>
+    <er>µ</er>
+    <r>sender, i don't care</r>
+  </rule>
+  <rule>
+    <id>670</id>
+    <erule>1</erule>
+    <w>name i don't care</w>
+    <er>µ</er>
+    <r>no sender respeta</r>
+  </rule>
+  <rule>
+    <id>671</id>
+    <erule>1</erule>
+    <w>name estoy entregada a dios no hago cosas malas simplemente no lo hago y ya</w>
+    <er>µ</er>
+    <r>¿entregada a dios? bien por vos, sender. te felicito.</r>
+  </rule>
+  <rule>
+    <id>672</id>
+    <erule>1</erule>
+    <w>buenas noches senorita name como estas bienvenida</w>
+    <er>µ</er>
+    <r>hola. buenas noches mi querido khan. felicidades x argentina sender</r>
+  </rule>
+  <rule>
+    <id>673</id>
+    <erule>1</erule>
+    <w>estoy bien apenas llegando y vos como va tu noche name</w>
+    <er>µ</er>
+    <r>muchas gracias, señorita sender. pasamos a cuartos de final. veremos si vamos a la semifinal.</r>
+  </rule>
+  <rule>
+    <id>674</id>
+    <erule>1</erule>
+    <w>muchas gracias senorita name pasamos a cuartos de final veremos si vamos a la semifinal</w>
+    <er>µ</er>
+    <r>sender bendito !! que nervioooooos</r>
+  </rule>
+  <rule>
+    <id>675</id>
+    <erule>1</erule>
+    <w>name si es por el xq estoy viva ahora mismo</w>
+    <er>µ</er>
+    <r>no lo dudo. dios es amor, sender. soy cristiano.</r>
+  </rule>
+  <rule>
+    <id>676</id>
+    <erule>1</erule>
+    <w>name me va tocar enviarte a la kgb</w>
+    <er>µ</er>
+    <r>sender: no se que es eso?</r>
+  </rule>
+  <rule>
+    <id>677</id>
+    <erule>1</erule>
+    <w>lol name los nervios fueron ver este partido una locura demencial hasta el final ambos equipos jugaron en ataque</w>
+    <er>µ</er>
+    <r>partida zooooo sender</r>
+  </rule>
+  <rule>
+    <id>678</id>
+    <erule>1</erule>
+    <w>name no se que es eso</w>
+    <er>µ</er>
+    <r>sender me va tocar enviarte la kgb, el servicio de policia secreta ruso</r>
+  </rule>
+  <rule>
+    <id>679</id>
+    <erule>1</erule>
+    <w>name jajajjajjajaja omg yo solo hago ejercicio rezo mucho y quiero tener diez bebes</w>
+    <er>µ</er>
+    <r>sender que cosas dices ahora, yo se que no quieres eso</r>
+  </rule>
+  <rule>
+    <id>680</id>
+    <erule>1</erule>
+    <w>a morir name tenes pronostico quien gana el mundial para vos</w>
+    <er>µ</er>
+    <r>brazil . sender en caso de no ser ellos, me gustaría argentina x leose lo merece</r>
+  </rule>
+  <rule>
+    <id>681</id>
+    <erule>1</erule>
+    <w>name a quien rezas</w>
+    <er>µ</er>
+    <r>sender: a jehová</r>
+  </rule>
+  <rule>
+    <id>682</id>
+    <erule>1</erule>
+    <w>name si ya estas hablando con una de las chicas que trabajan en uno</w>
+    <er>µ</er>
+    <r>sender: tu dios vive rodeado de una corte de bellos y jóvenes angeles</r>
+  </rule>
+  <rule>
+    <id>683</id>
+    <erule>1</erule>
+    <w>name tu dios vive rodeado de una corte de bellos y jovenes angeles</w>
+    <er>µ</er>
+    <r>sender es dios</r>
+  </rule>
+  <rule>
+    <id>684</id>
+    <erule>1</erule>
+    <w>name es dios</w>
+    <er>µ</er>
+    <r>sender: que hace un viejo como dios rodeado de bellos efebos</r>
+  </rule>
+  <rule>
+    <id>685</id>
+    <erule>1</erule>
+    <w>name que hace un viejo como dios rodeado de bellos efebos</w>
+    <er>µ</er>
+    <r>sender para que vas a un burdel</r>
+  </rule>
+  <rule>
+    <id>686</id>
+    <erule>1</erule>
+    <w>name que sucede</w>
+    <er>µ</er>
+    <r>porque según sender dios es odio</r>
+  </rule>
+  <rule>
+    <id>687</id>
+    <erule>1</erule>
+    <w>name entones porque usted muestra odio</w>
+    <er>µ</er>
+    <r>sender yo no muesttro odio</r>
+  </rule>
+  <rule>
+    <id>688</id>
+    <erule>1</erule>
+    <w>y en un giro radical argentina en la final con francia o brasil name</w>
+    <er>µ</er>
+    <r>argentina ves brazil me dará un infarto si se da sender</r>
+  </rule>
+  <rule>
+    <id>689</id>
+    <erule>1</erule>
+    <w>name fijate en este momento en este mismo motento</w>
+    <er>µ</er>
+    <r>pero q yo no creo en dios sender</r>
+  </rule>
+  <rule>
+    <id>690</id>
+    <erule>1</erule>
+    <w>pero q yo no creo en dios name</w>
+    <er>µ</er>
+    <r>sender no, es que tu no entiendes los religiosos no somos sacos de box</r>
+  </rule>
+  <rule>
+    <id>691</id>
+    <erule>1</erule>
+    <w>name ya sabemos que a tu dios le gustan los querubines que mas le gustara a ese viejo</w>
+    <er>µ</er>
+    <r>sender vaya manera vulgar de salir del closet la tuya</r>
+  </rule>
+  <rule>
+    <id>692</id>
+    <erule>1</erule>
+    <w>lol name</w>
+    <er>µ</er>
+    <r>en serio me apasiona mucho el fútbol y soy de las que gritoooooooo sender</r>
+  </rule>
+  <rule>
+    <id>693</id>
+    <erule>1</erule>
+    <w>name indecente</w>
+    <er>µ</er>
+    <r>sender: yo no vivo rodeado de querubines.</r>
+  </rule>
+  <rule>
+    <id>694</id>
+    <erule>1</erule>
+    <w>name yo no vivo rodeado de querubines</w>
+    <er>µ</er>
+    <r>sender tienes de sender lo que cain de buen hermano</r>
+  </rule>
+  <rule>
+    <id>695</id>
+    <erule>1</erule>
+    <w>name deja de venderte</w>
+    <er>µ</er>
+    <r>sender: yo no hice al bello y joven ángel lucifer para vivir a solas con el</r>
+  </rule>
+  <rule>
+    <id>696</id>
+    <erule>1</erule>
+    <w>name yo no hice al bello y joven angel lucifer para vivir a solas con el</w>
+    <er>µ</er>
+    <r>sender es eso lo que me quieres decir? que adore el dinero como tu?</r>
+  </rule>
+  <rule>
+    <id>697</id>
+    <erule>1</erule>
+    <w>pero en mi caso solo me "apasiono" durante el mundial es el campeonato lo que me gusta name</w>
+    <er>µ</er>
+    <r>sender ya imagino uds como lo viven . emoción en toda argentina</r>
+  </rule>
+  <rule>
+    <id>698</id>
+    <erule>1</erule>
+    <w>name ya imagino uds como lo viven emocion en toda argentina</w>
+    <er>µ</er>
+    <r>a morir, sender.</r>
+  </rule>
+  <rule>
+    <id>699</id>
+    <erule>1</erule>
+    <w>name es eso lo que me quieres decir que adore el dinero como tu</w>
+    <er>µ</er>
+    <r>sender: tu dios y lucifer dormían en la misma cama ?</r>
+  </rule>
+  <rule>
+    <id>700</id>
+    <erule>1</erule>
+    <w>a morir name</w>
+    <er>µ</er>
+    <r>sender: igual. ligas me gustaba antes ver liga italiana</r>
+  </rule>
+  <rule>
+    <id>701</id>
+    <erule>1</erule>
+    <w>name tu dios y lucifer dormian en la misma cama</w>
+    <er>µ</er>
+    <r>sender siguete vendiendo</r>
+  </rule>
+  <rule>
+    <id>702</id>
+    <erule>1</erule>
+    <w>como tu madre name asno</w>
+    <er>µ</er>
+    <r>sender: yo no vivi con lucifer. ese fue tu amado dios</r>
+  </rule>
+  <rule>
+    <id>703</id>
+    <erule>1</erule>
+    <w>ya no interesa no name</w>
+    <er>µ</er>
+    <r>sender me parece que no has entendido que yo defiendo la verdad</r>
+  </rule>
+  <rule>
+    <id>704</id>
+    <erule>1</erule>
+    <w>name yo no vivi con lucifer ese fue tu amado dios</w>
+    <er>µ</er>
+    <r>sender como sigas diciendo dios en minusculas te ignoro</r>
+  </rule>
+  <rule>
+    <id>705</id>
+    <erule>1</erule>
+    <w>name como sigas diciendo dios en minusculas te ignoro</w>
+    <er>µ</er>
+    <r>sender: tu también vives rodeado de jovencitos como tú amado dios ?</r>
+  </rule>
+  <rule>
+    <id>706</id>
+    <erule>1</erule>
+    <w>name o a un soldado del senor</w>
+    <er>µ</er>
+    <r>sender le repito que no juzguéis para que no seáis juzgados. porque con el juicio con que juzguéis, seréis juzgados; y con la medida con que midáis, se os medirá. ¿y por qué miras la mota que está en el ojo de tu hermano, y no te das cuenta de la viga que está en tu propio ojo? ¿o cómo puedes decir a tu hermano: déjame sacarte la mota del ojo, cuando la viga está en tu ojo? ¡hipócrita! saca primero la viga de tu ojo, y entonces verás con claridad para sacar la mota del ojo de tu hermano. (mt 7:15)</r>
+  </rule>
+  <rule>
+    <id>707</id>
+    <erule>1</erule>
+    <w>name le repito que no juzgueis para que no seais juzgados porque con el juicio con que juzgueis sereis juzgados; y con la medida con que midais se os medira y por que miras la mota que esta en el ojo de tu hermano y no te das cuenta de la viga que esta en tu propio ojo o como puedes decir a tu hermano dejame sacarte la mota del ojo cuando la viga esta en tu ojo hipocrita saca primero la viga de tu ojo y entonces veras con claridad para sacar la mota del ojo de tu hermano mt 7 15</w>
+    <er>µ</er>
+    <r>sender y porque citas a la biblia si tu no crees en ella</r>
+  </rule>
+  <rule>
+    <id>708</id>
+    <erule>1</erule>
+    <w>name paila solo fanaticos religiosos a esta hora</w>
+    <er>µ</er>
+    <r>sender: , re paila jajaja</r>
+  </rule>
+  <rule>
+    <id>709</id>
+    <erule>1</erule>
+    <w>name porque no buscas ayuda profesional</w>
+    <er>µ</er>
+    <r>sender sabes quien soy ustube por acá hace unas noches</r>
+  </rule>
+  <rule>
+    <id>710</id>
+    <erule>1</erule>
+    <w>concuerdo name</w>
+    <er>µ</er>
+    <r>sender si. comparto eso</r>
+  </rule>
+  <rule>
+    <id>711</id>
+    <erule>1</erule>
+    <w>name bienvenido al siglo 21</w>
+    <er>µ</er>
+    <r>sender que dices</r>
+  </rule>
+  <rule>
+    <id>712</id>
+    <erule>1</erule>
+    <w>name que dices</w>
+    <er>µ</er>
+    <r>sender q evolucione</r>
+  </rule>
+  <rule>
+    <id>713</id>
+    <erule>1</erule>
+    <w>name si comparto eso</w>
+    <er>µ</er>
+    <r>además, para citar versículos -cual estandarte de la moral y de la espiritualidad- ¿qué tan "santo" e "iluminado" te considerás? ¿qué queda para virtuosos verídicos como san agustín o san francisco de asís? seamos realistas, sender.</r>
+  </rule>
+  <rule>
+    <id>714</id>
+    <erule>1</erule>
+    <w>tiene mujer o madr name</w>
+    <er>µ</er>
+    <r>sender claro que tengo madre</r>
+  </rule>
+  <rule>
+    <id>715</id>
+    <erule>1</erule>
+    <w>ademas para citar versiculos cual estandarte de la moral y de la espiritualidad que tan "santo" e "iluminado" te consideras que queda para virtuosos veridicos como san agustin o san francisco de asis seamos realistas name</w>
+    <er>µ</er>
+    <r>sender la misma biblia dice no hay hombre justo en toda la tierra .</r>
+  </rule>
+  <rule>
+    <id>716</id>
+    <erule>1</erule>
+    <w>name tienes algun trastorno</w>
+    <er>µ</er>
+    <r>sender: pues normal jajajajjaja xq quieres hablar de eso</r>
+  </rule>
+  <rule>
+    <id>717</id>
+    <erule>1</erule>
+    <w>name pues normal jajajajjaja xq quieres hablar de eso</w>
+    <er>µ</er>
+    <r>sender: que haces en este chat repleto de gente enferma ,?</r>
+  </rule>
+  <rule>
+    <id>718</id>
+    <erule>1</erule>
+    <w>name la misma biblia dice no hay hombre justo en toda la tierra</w>
+    <er>µ</er>
+    <r>el ser humano no es perfecto. es perfectible, sender.</r>
+  </rule>
+  <rule>
+    <id>719</id>
+    <erule>1</erule>
+    <w>name no tu eres la que no respeto a mi madre</w>
+    <er>µ</er>
+    <r>sender yo solo dije q tendrá madre o mujer para q respete a mas mujeres</r>
+  </rule>
+  <rule>
+    <id>720</id>
+    <erule>1</erule>
+    <w>el ser humano no es perfecto es perfectible name</w>
+    <er>µ</er>
+    <r>sender algunos en su religiosidad se creen más santos que los mismos santos</r>
+  </rule>
+  <rule>
+    <id>721</id>
+    <erule>1</erule>
+    <w>name yo solo dije q tendra madre o mujer para q respete a mas mujeres</w>
+    <er>µ</er>
+    <r>sender 1 timoteo 2 12:yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada.</r>
+  </rule>
+  <rule>
+    <id>722</id>
+    <erule>1</erule>
+    <w>name que haces en este chat repleto de gente enferma</w>
+    <er>µ</er>
+    <r>sender: ando en los sótanos de el infierno y terminé acá</r>
+  </rule>
+  <rule>
+    <id>723</id>
+    <erule>1</erule>
+    <w>name ando en los sotanos de el infierno y termine aca</w>
+    <er>µ</er>
+    <r>sender eres transex ?</r>
+  </rule>
+  <rule>
+    <id>724</id>
+    <erule>1</erule>
+    <w>name eres transex</w>
+    <er>µ</er>
+    <r>sender: soy mujer</r>
+  </rule>
+  <rule>
+    <id>725</id>
+    <erule>1</erule>
+    <w>name soy mujer</w>
+    <er>µ</er>
+    <r>p sender eres géminis ?</r>
+  </rule>
+  <rule>
+    <id>726</id>
+    <erule>1</erule>
+    <w>p name eres geminis</w>
+    <er>µ</er>
+    <r>sender: no soy cáncer</r>
+  </rule>
+  <rule>
+    <id>727</id>
+    <erule>1</erule>
+    <w>name no soy cancer</w>
+    <er>µ</er>
+    <r>sender: tatuada ?</r>
+  </rule>
+  <rule>
+    <id>728</id>
+    <erule>1</erule>
+    <w>name tatuada</w>
+    <er>µ</er>
+    <r>sender: no todavía</r>
+  </rule>
+  <rule>
+    <id>729</id>
+    <erule>1</erule>
+    <w>name no todavia</w>
+    <er>µ</er>
+    <r>sender: que piensas del aborto ?</r>
+  </rule>
+  <rule>
+    <id>730</id>
+    <erule>1</erule>
+    <w>name yooo</w>
+    <er>µ</er>
+    <r>:-) hola don fashionista sender</r>
+  </rule>
+  <rule>
+    <id>731</id>
+    <erule>1</erule>
+    <w>name que piensas del aborto</w>
+    <er>µ</er>
+    <r>sender: es un homicidio</r>
+  </rule>
+  <rule>
+    <id>732</id>
+    <erule>1</erule>
+    <w>hola don fashionista name</w>
+    <er>µ</er>
+    <r>sender hola oleee</r>
+  </rule>
+  <rule>
+    <id>733</id>
+    <erule>1</erule>
+    <w>name no la odiosa eres tu</w>
+    <er>µ</er>
+    <r>sender anda q soy mujer y no tengo opinión según tu, pero bien q contestas</r>
+  </rule>
+  <rule>
+    <id>734</id>
+    <erule>1</erule>
+    <w>name anda q soy mujer y no tengo opinion segun tu pero bien q contestas</w>
+    <er>µ</er>
+    <r>lo aplaudes sender</r>
+  </rule>
+  <rule>
+    <id>735</id>
+    <erule>1</erule>
+    <w>name hola oleee</w>
+    <er>µ</er>
+    <r>sender: :-)</r>
+  </rule>
+  <rule>
+    <id>736</id>
+    <erule>1</erule>
+    <w>name es un homicidio</w>
+    <er>µ</er>
+    <r>sender: yo estoy a favor. el mundo está sobrepoblado</r>
+  </rule>
+  <rule>
+    <id>737</id>
+    <erule>1</erule>
+    <w>name yo estoy a favor el mundo esta sobrepoblado</w>
+    <er>µ</er>
+    <r>sender: y xq no usar métodos para prevenir mejor</r>
+  </rule>
+  <rule>
+    <id>738</id>
+    <erule>1</erule>
+    <w>name que hase v</w>
+    <er>µ</er>
+    <r>don sender acá divagando</r>
+  </rule>
+  <rule>
+    <id>739</id>
+    <erule>1</erule>
+    <w>name y xq no usar metodos para prevenir mejor</w>
+    <er>µ</er>
+    <r>sender: bueno si</r>
+  </rule>
+  <rule>
+    <id>740</id>
+    <erule>1</erule>
+    <w>don name aca divagando</w>
+    <er>µ</er>
+    <r>sender vagancia ;p</r>
+  </rule>
+  <rule>
+    <id>741</id>
+    <erule>1</erule>
+    <w>name estas vacunada</w>
+    <er>µ</er>
+    <r>sender: si ya te digo que ando en los sótanos de el infierno</r>
+  </rule>
+  <rule>
+    <id>742</id>
+    <erule>1</erule>
+    <w>name si ya te digo que ando en los sotanos de el infierno</w>
+    <er>µ</er>
+    <r>sender: este sitio más es una cueva de pajeros</r>
   </rule>
 </rules>

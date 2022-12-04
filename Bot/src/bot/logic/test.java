@@ -6,6 +6,7 @@
 package bot.logic;
 
 import bot.files.XMLFileUtils;
+import java.text.Normalizer;
 
 /**
  *
@@ -50,10 +51,22 @@ public class test {
         XMLFileUtils.saveRules();*/
         //Msg.print(""+(double) Math.exp((double)(-Math.pow((double)(3-30)/(double)10, 2))));
         String name="^nick^";
-        String msg="hola soy ^nick^ ^nick^";
-        Msg.print(msg.toLowerCase().replace(name.toLowerCase(), "sender")+"     "+msg.toLowerCase()+"     "+name.toLowerCase());
+        String msg="hola soy ^nick^    ^nick^";
+        Msg.print(formatText(msg));
         
         
     }
+    
+     public static String formatText(String text) {
+        String message;
+        message = Normalizer.normalize(text, Normalizer.Form.NFD);
+        message = message.replaceAll("[^\\p{ASCII}]", "");
+        message = message.toLowerCase();
+        message = message.replaceAll("[-+.^:,?¿!¡]", " ");       
+        message = message.trim();
+        message = message.replaceAll("\\s+", " ");
+        return message;
+    }
+
     
 }

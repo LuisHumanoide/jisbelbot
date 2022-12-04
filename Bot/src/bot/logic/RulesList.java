@@ -145,14 +145,15 @@ public class RulesList {
         for (Rule r : RulesList.ruleList) {
             String[] sarray = message.toLowerCase().split(" ");
             double[] scores = r.contains(sarray);
-            
+            double score2=scores[1];
             if (scores[0] > variables.score1 || r.matchER(message)) {
+                //score2=100+scores[1]-message.length();
                 if (r.matchER(message)) {
                     bestScore = 100;
                     bestRule = r;
                 }
-                if (scores[1] > bestScore) {
-                    bestScore = scores[1];
+                if (score2 > bestScore) {
+                    bestScore = score2;
                     bestRule = r;
                 }
             } else {
